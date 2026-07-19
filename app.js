@@ -1,168 +1,4 @@
-const questionBank = [
-  {
-    title: "Ministerie van Ochtendverlangen",
-    scenario: "De staatssecretaris meldt dat Swahito al aan Swahita dacht voordat zijn brein officieel was opgestart. Welke conclusie is juridisch het elegantst?",
-    options: [
-      "De ochtend is ongeldig verklaard wegens belangenverstrengeling.",
-      "Er is sprake van vrijwillige emotionele annexatie.",
-      "De realiteit moet eerst wederhoor toepassen.",
-      "Koffie krijgt voorlopig geen stemrecht."
-    ],
-    answer: 1,
-    note: "Vrijwillige emotionele annexatie is het beste: groot, absurd en romantisch."
-  },
-  {
-    title: "Rechtbank der Kusmisdrijven",
-    scenario: "Swahita wordt aangeklaagd voor gevaarlijk charmant gedrag met verzwarende glimlach. Welke straf eist de aanklager die duidelijk niet objectief meer is?",
-    options: [
-      "Levenslang in Swahito's hoofd, met onbeperkt bezoekrecht.",
-      "Een taakstraf bij het Bureau voor Normaal Doen.",
-      "Drie maanden zwijgen over hoe leuk ze is.",
-      "Vrijspraak, maar alleen omdat de jury inmiddels ook verliefd is."
-    ],
-    answer: 0,
-    note: "A is het meest romantisch; D is een sterke bonusgrap."
-  },
-  {
-    title: "Quantumromantiek",
-    scenario: "Volgens de Swahita-paradox verandert Swahito's stemming zodra haar naam oplicht. Welke hypothese houdt wetenschappelijk het minst slecht stand?",
-    options: [
-      "Zijn telefoon is een emotionele deeltjesversneller.",
-      "Aantrekking is alleen meetbaar zolang niemand normaal doet.",
-      "Swahita is geen variabele maar een natuurverschijnsel met lippen.",
-      "Alle meetapparatuur is corrupt geworden door verlangen."
-    ],
-    answer: 2,
-    note: "C is de beste mix van surrealistisch en flirterig zonder plat te worden."
-  },
-  {
-    title: "Bureaucratie van Begeerte",
-    scenario: "Welk formulier moet Swahito invullen om legaal te verklaren dat hij Swahita mist terwijl ze nog niet eens weg is?",
-    options: [
-      "Formulier 18B: vroegtijdige melancholie met erotische bijlage.",
-      "Aanvraag tijdelijke ontheffing op rationeel functioneren.",
-      "Melding van onverklaarbare nabijheidsinflatie.",
-      "Alle drie, in drievoud, ondertekend met een kus die de ambtenaar niet mag beoordelen."
-    ],
-    answer: 3,
-    note: "D stapelt de grap en maakt de absurdistische bureaucratie compleet."
-  },
-  {
-    title: "Vals Dilemma",
-    scenario: "Welke tegenstelling moet onmiddellijk uit de liefdesfilosofie worden verwijderd?",
-    options: [
-      "Slim of sexy.",
-      "Vrij of dichtbij.",
-      "Lief of staatsgevaarlijk.",
-      "Alle bovenstaande categorieen zijn te klein voor Swahita."
-    ],
-    answer: 3,
-    note: "D is de kern: zij overstijgt simpele hokjes."
-  },
-  {
-    title: "Erotische Diplomatie",
-    scenario: "Twee landen, Swahito en Swahita, onderhandelen over grensverkeer. Welke overeenkomst is volwassen en toch onfatsoenlijk gezellig?",
-    options: [
-      "Open grenzen, gesloten gordijnen, volledige wederzijdse instemming.",
-      "Een embargo op afstandelijkheid na 22:00.",
-      "Een handelsverdrag voor blikken die te lang blijven hangen.",
-      "Een vredesmissie onder leiding van een dekbed zonder VN-mandaat."
-    ],
-    answer: 0,
-    note: "A is scherp: sexy, veilig, volwassen en duidelijk."
-  },
-  {
-    title: "De Commissie Normaal Doen",
-    scenario: "Swahita zegt: 'Doe normaal.' Wat is het meest verdedigbare antwoord van Swahito?",
-    options: [
-      "Normaal is bezweken onder de bewijslast van jouw bestaan.",
-      "Ik heb normaal geprobeerd, maar het vroeg ontslag aan.",
-      "Deze relatie valt buiten het gemeentelijk bestemmingsplan.",
-      "Alle antwoorden zijn geldig zolang hij daarna niet te trots kijkt."
-    ],
-    answer: 3,
-    note: "D werkt omdat alle opties grappig zijn en de laatste nuance toevoegt."
-  },
-  {
-    title: "Rangorde der Staatsgevaren",
-    scenario: "Zet van mild naar fataal voor Swahito's concentratie: haar naam zien, haar stem horen, haar lach zien, haar willen aanraken maar professioneel doen alsof hij een beschaafde burger is.",
-    type: "open",
-    sample: "naam zien -> stem horen -> lach zien -> haar willen aanraken maar beschaafd blijven",
-    note: "Het punt is de opbouw van charmant naar bijna onhoudbaar."
-  },
-  {
-    title: "Surrealistische Logica",
-    scenario: "Een filosoof beweert dat verlangen pas echt is als het nutteloos is. Wat zou Swahito antwoorden?",
-    options: [
-      "Onjuist: verlangen naar Swahita is economisch desastreus maar existentieel rendabel.",
-      "Correct: daarom heeft mijn hart geen businessplan.",
-      "Gedeeltelijk: het nut zit in het verliezen van nuttigheid.",
-      "Alle drie, afhankelijk van hoe dicht Swahita staat."
-    ],
-    answer: 3,
-    note: "D is het meest speels en intellectueel; het relativeert de filosofische pose."
-  },
-  {
-    title: "Satire op Zelfbeheersing",
-    scenario: "Swahito kondigt aan dat hij 'heel beheerst' is. De audit vindt: drie interne speeches, vijf scenario's en een verdacht kalme gezichtsuitdrukking. Oordeel?",
-    options: [
-      "Beheerst, maar alleen volgens boekhouding met creatieve aftrekposten.",
-      "Schuldig aan verlangen met administratieve camouflage.",
-      "Vrijspraak wegens gebrek aan externe chaos.",
-      "De auditcommissie wil Swahita zelf spreken en is daarna niet meer neutraal."
-    ],
-    answer: 1,
-    note: "B is het strakst: satire, flirt en helder beeld."
-  },
-  {
-    title: "Kosmisch Loket",
-    scenario: "Bij welk loket dient Swahito bezwaar in tegen het feit dat Swahita bestaat zonder dagelijkse waarschuwing?",
-    options: [
-      "Loket 7: onredelijke schoonheid in de publieke ruimte.",
-      "Afdeling Aantrekkingskracht en Overige Ongevallen.",
-      "Het Hof voor Mensen Die Te Leuk Zijn Zonder Vergunning.",
-      "Geen enkel loket; sommige rampen wil je niet laten oplossen."
-    ],
-    answer: 3,
-    note: "D kantelt de grap naar romantiek."
-  },
-  {
-    title: "Liefdesdictatuur",
-    scenario: "De Vrije Republiek Swahito houdt verkiezingen. Swahita krijgt 112 procent van de stemmen. Wat is de correcte waarneming?",
-    options: [
-      "Fraude, maar esthetisch overtuigend.",
-      "Een vrijwillige staatsgreep door iemand met te veel effect.",
-      "Democratie heeft geen protocol voor dit niveau van aantrekkingskracht.",
-      "Alle bovenstaande bezwaren worden ingetrokken na oogcontact."
-    ],
-    answer: 3,
-    note: "D is het meest absurd en sluit af met de romantische macht van oogcontact."
-  },
-  {
-    title: "Hypothese",
-    scenario: "Welke hypothese verklaart het best dat Swahito stoer kan doen en toch onmiddellijk smelt bij Swahita?",
-    options: [
-      "Stoerheid is een dunne jas in een tropisch klimaat.",
-      "Zijn ruggengraat heeft een tijdelijk contract.",
-      "Swahita beschikt over niet-geregistreerde smeltbevoegdheden.",
-      "Stoer doen en smelten zijn bij hem geen tegenpolen maar een duet."
-    ],
-    answer: 3,
-    note: "D is het meest volwassen: grappig, maar ook echt relationeel."
-  },
-  {
-    title: "Interpretatievraag",
-    scenario: "Swahita stuurt alleen 'hmm'. Welke interpretatie is het verstandigst in de liefdesstaat?",
-    options: [
-      "Nationale noodtoestand.",
-      "Een klein woord met constitutionele bijsluiter.",
-      "Een uitnodiging tot paniekdansen zonder muziek.",
-      "Eerst context verzamelen, daarna pas dramatisch doen."
-    ],
-    answer: 3,
-    note: "D is de beste grap met een functionele kern."
-  }
-];
+const questionBank = window.questionBank || [];
 
 const state = {
   questions: [],
@@ -236,13 +72,22 @@ function dateSeed() {
 function pickDailyQuestions() {
   const random = seededRandom(dateSeed());
   const pool = [...questionBank];
+  const picked = [];
+  const families = new Set();
 
   for (let index = pool.length - 1; index > 0; index -= 1) {
     const swapIndex = Math.floor(random() * (index + 1));
     [pool[index], pool[swapIndex]] = [pool[swapIndex], pool[index]];
   }
 
-  return pool.slice(0, 10);
+  for (const question of pool) {
+    if (families.has(question.family)) continue;
+    picked.push(question);
+    families.add(question.family);
+    if (picked.length === 10) break;
+  }
+
+  return picked;
 }
 
 function showScreen(name) {

@@ -1,8 +1,9 @@
-const CACHE_NAME = "swahito-quiz-v2";
+const CACHE_NAME = "swahito-quiz-v3";
 const ASSETS = [
   "./",
   "index.html",
   "styles.css",
+  "questions.js",
   "app.js",
   "manifest.webmanifest",
   "icon.svg",
