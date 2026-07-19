@@ -292,6 +292,13 @@ h2 {
   font-size: 1.05rem;
 }
 
+.answer-help {
+  margin: 0 0 12px;
+  color: var(--gold);
+  font-size: 0.95rem;
+  font-weight: 850;
+}
+
 .options {
   display: grid;
   gap: 10px;
@@ -307,6 +314,21 @@ h2 {
   padding: 12px 14px;
   text-align: left;
   font-weight: 700;
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  gap: 10px;
+  align-items: center;
+}
+
+.option-letter {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  background: rgba(247, 241, 232, 0.14);
+  color: var(--gold);
+  font-weight: 900;
 }
 
 .option.selected {

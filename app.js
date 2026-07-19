@@ -187,6 +187,7 @@ const questionTitle = document.getElementById("questionTitle");
 const scorePill = document.getElementById("scorePill");
 const progressBar = document.getElementById("progressBar");
 const scenarioText = document.getElementById("scenarioText");
+const answerHelp = document.getElementById("answerHelp");
 const optionsList = document.getElementById("optionsList");
 const openAnswer = document.getElementById("openAnswer");
 const feedbackBox = document.getElementById("feedbackBox");
@@ -375,6 +376,7 @@ function renderQuestion() {
   nextButton.textContent = position === state.questions.length ? "Uitslag" : "Volgende";
 
   if (question.type === "open") {
+    answerHelp.textContent = "Typ je antwoord in het vak en tik daarna op Volgende.";
     openAnswer.hidden = false;
     openAnswer.value = "";
     openAnswer.focus({ preventScroll: true });
@@ -384,12 +386,13 @@ function renderQuestion() {
     return;
   }
 
+  answerHelp.textContent = "Tik op een antwoord hieronder. Daarna verschijnt meteen feedback.";
   openAnswer.hidden = true;
   question.options.forEach((option, index) => {
     const button = document.createElement("button");
     button.className = "option";
     button.type = "button";
-    button.textContent = option;
+    button.innerHTML = `<span class="option-letter">${String.fromCharCode(65 + index)}</span><span>${option}</span>`;
     button.addEventListener("click", () => chooseOption(index));
     optionsList.appendChild(button);
   });
