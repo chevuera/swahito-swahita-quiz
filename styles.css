@@ -29,6 +29,8 @@ body {
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.45;
   background:
+    linear-gradient(rgba(17, 17, 17, 0.72), rgba(17, 17, 17, 0.88)),
+    url("assets/witlof-with-love.jpg") center / cover fixed,
     radial-gradient(circle at 15% 10%, rgba(255, 79, 123, 0.28), transparent 34%),
     radial-gradient(circle at 85% 20%, rgba(141, 228, 203, 0.18), transparent 30%),
     linear-gradient(150deg, #151211 0%, #26101a 44%, #111111 100%);
@@ -66,6 +68,41 @@ button {
   padding: 26px 0;
 }
 
+.cover-art {
+  position: relative;
+  min-height: min(76vw, 360px);
+  margin-bottom: 22px;
+}
+
+.portrait {
+  position: absolute;
+  display: block;
+  object-fit: cover;
+  border: 1px solid rgba(247, 241, 232, 0.22);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.portrait-swahita {
+  inset: 0 auto auto 0;
+  width: min(68%, 390px);
+  aspect-ratio: 1122 / 1402;
+}
+
+.portrait-swahito {
+  right: 0;
+  bottom: 0;
+  width: min(42%, 230px);
+  aspect-ratio: 816 / 1264;
+  transform: rotate(3deg);
+  border-color: rgba(141, 228, 203, 0.4);
+}
+
+.portrait-swahita::after,
+.portrait-swahito::after {
+  content: "";
+}
+
 .topline,
 .kicker {
   color: var(--mint);
@@ -85,6 +122,7 @@ h2 {
 h1 {
   max-width: 10ch;
   font-size: clamp(3.3rem, 18vw, 7rem);
+  text-shadow: 0 10px 34px rgba(0, 0, 0, 0.55);
 }
 
 h2 {
@@ -176,6 +214,15 @@ h2 {
   justify-content: space-between;
 }
 
+.quiz-avatar {
+  width: 52px;
+  height: 52px;
+  object-fit: cover;
+  border: 2px solid rgba(255, 79, 123, 0.72);
+  border-radius: 999px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.35);
+}
+
 .quiz-header h2 {
   margin-top: 6px;
   font-size: clamp(1.55rem, 8vw, 3rem);
@@ -213,6 +260,23 @@ h2 {
 .question-card {
   min-height: 360px;
   padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.question-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(rgba(17, 17, 17, 0.78), rgba(17, 17, 17, 0.88)),
+    url("assets/swahito-graffiti.jpg") center / cover;
+  opacity: 0.32;
+  pointer-events: none;
+}
+
+.question-card > * {
+  position: relative;
 }
 
 .scenario {
@@ -302,6 +366,18 @@ h2 {
   font-weight: 900;
 }
 
+.result-sticker {
+  display: block;
+  width: min(100%, 390px);
+  max-height: 42vh;
+  margin: 0 auto 22px;
+  object-fit: cover;
+  object-position: center 42%;
+  border: 1px solid rgba(247, 241, 232, 0.24);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
 .bob-notes {
   margin-top: 20px;
   padding: 14px 16px;
@@ -327,6 +403,10 @@ h2 {
   .app-shell {
     padding-top: 42px;
     padding-bottom: 42px;
+  }
+
+  .cover-art {
+    min-height: 390px;
   }
 
   .quiz-actions {

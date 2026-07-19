@@ -5,7 +5,10 @@ const ASSETS = [
   "styles.css",
   "app.js",
   "manifest.webmanifest",
-  "icon.svg"
+  "icon.svg",
+  "assets/swahita-poster.png",
+  "assets/swahito-graffiti.jpg",
+  "assets/witlof-with-love.jpg"
 ];
 
 self.addEventListener("install", (event) => {
