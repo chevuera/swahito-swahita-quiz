@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz Voor Swahita - 18 juli 2026</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1f2528;
+      --muted: #667074;
+      --paper: #fffaf4;
+      --panel: #ffffff;
+      --line: #ddd5ca;
+      --accent: #8f3f46;
+      --accent-2: #22615d;
+      --soft: #f2ece3;
+      --answer: #f7f3ec;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 48px;
+    }
+
+    header {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 20px;
+      margin-bottom: 28px;
+    }
+
+    .eyebrow {
+      color: var(--accent-2);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin: 0 0 8px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 6vw, 3.8rem);
+      line-height: 1.05;
+      font-weight: 750;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      max-width: 680px;
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin: 22px 0 0;
+    }
+
+    button {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--ink);
+      min-height: 42px;
+      padding: 0 14px;
+      border-radius: 6px;
+      font: inherit;
+      font-weight: 650;
+      cursor: pointer;
+    }
+
+    button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: white;
+    }
+
+    button:focus-visible {
+      outline: 3px solid rgba(34, 97, 93, 0.28);
+      outline-offset: 2px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: clamp(20px, 4vw, 34px);
+      box-shadow: 0 12px 34px rgba(31, 37, 40, 0.07);
+    }
+
+    .message p {
+      margin: 0 0 16px;
+    }
+
+    .theme {
+      display: inline-block;
+      margin: 4px 0 22px;
+      padding: 8px 12px;
+      border-left: 4px solid var(--accent-2);
+      background: var(--soft);
+      font-weight: 700;
+    }
+
+    ol.quiz {
+      margin: 0;
+      padding-left: 1.35rem;
+    }
+
+    ol.quiz > li {
+      margin: 0 0 22px;
+      padding-left: 8px;
+    }
+
+    .question {
+      font-weight: 650;
+      margin-bottom: 8px;
+    }
+
+    .options {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 6px;
+    }
+
+    .options li,
+    .rank-list li {
+      background: #fbf8f2;
+      border: 1px solid #e7dfd5;
+      border-radius: 6px;
+      padding: 8px 10px;
+    }
+
+    .rank-list {
+      margin: 8px 0 0;
+      padding-left: 1.15rem;
+    }
+
+    .close {
+      margin-top: 26px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      font-weight: 650;
+    }
+
+    details {
+      margin-top: 24px;
+      background: var(--answer);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px 18px;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 750;
+      color: var(--accent);
+    }
+
+    .answers ol {
+      margin-bottom: 0;
+      padding-left: 1.35rem;
+    }
+
+    .answers li {
+      margin-bottom: 10px;
+    }
+
+    .notice {
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    @media print {
+      body {
+        background: white;
+      }
+
+      main {
+        width: 100%;
+        padding: 0;
+      }
+
+      .toolbar,
+      details {
+        display: none;
+      }
+
+      .card {
+        border: 0;
+        box-shadow: none;
+        padding: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">18 juli 2026</p>
+      <h1>Quiz Voor Swahita</h1>
+      <p class="subtitle">Handelen bij complex gedrag, met de nadruk op vertrouwen, voorspelbaarheid en veiligheid die zichtbaar wordt in gedrag.</p>
+      <div class="toolbar" aria-label="Acties">
+        <button class="primary" type="button" id="copyMessage">Kopieer bericht zonder antwoorden</button>
+        <button type="button" onclick="window.print()">Print of opslaan als PDF</button>
+      </div>
+      <p class="notice" id="copyStatus" role="status" aria-live="polite"></p>
+    </header>
+
+    <section class="card message" id="message">
+      <p>Goedemorgen baby,</p>
+
+      <p>Vandaag een quiz over iets dat in complex gedrag vaak onderschat wordt: <strong>veiligheid die toetsbaar wordt</strong>.</p>
+
+      <ol class="quiz">
+        <li>
+          <div class="question">Een client zegt: "Je kunt me toch gewoon vertrouwen?" Welke professionele reactie is het sterkst?</div>
+          <ul class="options">
+            <li>A. "Vertrouwen is belangrijk, maar wordt steviger wanneer gedrag voorspelbaar en toetsbaar is."</li>
+            <li>B. "Als er liefde of betrokkenheid is, zou twijfel eigenlijk niet nodig moeten zijn."</li>
+            <li>C. "Vertrouwen is vooral een keuze van degene die twijfelt."</li>
+            <li>D. "Als iemand zich gecontroleerd voelt, moet je stoppen met vragen stellen."</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">In een begeleidingsrelatie deelt een persoon veel over triggers, jeugd en kwetsbaarheid. De ander blijft algemeen en ontwijkt eigen patronen. Wat is het grootste risico?</div>
+          <ul class="options">
+            <li>A. Er ontstaat ongelijk verdeelde kwetsbaarheid.</li>
+            <li>B. De open persoon wordt automatisch afhankelijk.</li>
+            <li>C. De gesloten persoon heeft waarschijnlijk niets te verbergen.</li>
+            <li>D. Minder informatie maakt de relatie meestal rustiger.</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">Rangschik van minst naar meest betrouwbaar als basis voor veiligheid:</div>
+          <ol class="rank-list">
+            <li>intentie</li>
+            <li>belofte</li>
+            <li>transparantie</li>
+            <li>consequent herhaald gedrag</li>
+          </ol>
+        </li>
+
+        <li>
+          <div class="question">Iemand weet van zichzelf dat een situatie vaak pas misgaat na het eerste "kleine" grensverleggende moment. Wat is de beste interventie?</div>
+          <ul class="options">
+            <li>A. Pas achteraf evalueren, zodat er geen druk ontstaat.</li>
+            <li>B. Vooraf het kantelpunt herkennen en daar een concrete afspraak over maken.</li>
+            <li>C. Vooral benadrukken dat iemand volwassen genoeg moet zijn.</li>
+            <li>D. De omgeving vragen geen spanning te voelen.</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">Een professional wil onderscheid maken tussen controle en afstemming. Welke omschrijving klopt het best?</div>
+          <ul class="options">
+            <li>A. Controle wil onzekerheid wegduwen; afstemming probeert samen veiligheid te organiseren.</li>
+            <li>B. Controle gaat over vragen stellen; afstemming betekent niets meer vragen.</li>
+            <li>C. Controle is altijd verkeerd; afstemming is altijd prettig.</li>
+            <li>D. Controle en afstemming verschillen vooral in toon, niet in doel.</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">Iemand zegt: "Dat hoofdstuk ligt achter me." Welke vervolgvraag is zorgvuldig zonder beschuldigend te worden?</div>
+          <ul class="options">
+            <li>A. "Wat helpt jou om te laten zien dat het nu anders loopt?"</li>
+            <li>B. "Waarom zouden anderen daar nog last van hebben?"</li>
+            <li>C. "Dus niemand mag daar ooit nog iets bij voelen?"</li>
+            <li>D. "Dan is het klaar en hoeven we het niet meer te bespreken."</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">Een partner wordt onrustig door weinig informatie, wisselende signalen en situaties met verhoogde impulsiviteit. Welke hypothese is het meest professioneel?</div>
+          <ul class="options">
+            <li>A. Hij wil de ander beperken.</li>
+            <li>B. Zijn spanning kan een poging zijn om voorspelbaarheid te vinden.</li>
+            <li>C. Hij moet leren dat vertrouwen zonder informatie gezonder is.</li>
+            <li>D. Zijn reactie zegt niets over de context.</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">Welke formulering werkt het meest de-escalerend?</div>
+          <ul class="options">
+            <li>A. "Ik wil je niet controleren; ik wil begrijpen wat voor ons allebei veilig en eerlijk voelt."</li>
+            <li>B. "Als jij niks fout doet, hoef je ook niks uit te leggen."</li>
+            <li>C. "Ik vertrouw je pas als je alles vertelt."</li>
+            <li>D. "Dit is jouw verleden, dus jij moet het oplossen."</li>
+          </ul>
+        </li>
+
+        <li>
+          <div class="question">Korte reflectie: wanneer wordt openheid in een relatie geen verhoor, maar zorgvuldige afstemming?</div>
+        </li>
+
+        <li>
+          <div class="question">Een oud patroon had ooit een functie: vrijheid voelen, pijn dempen, controle terugpakken of spanning ontladen. Wat vraagt volwassen handelen in het heden?</div>
+          <ul class="options">
+            <li>A. Het verleden blijven begrijpen, maar huidig gedrag wel toetsbaar en verantwoordelijk maken.</li>
+            <li>B. Het verleden loslaten, omdat uitleg anders een excuus wordt.</li>
+            <li>C. Alleen kijken naar intenties, niet naar impact.</li>
+            <li>D. De ander vragen geen spanning meer te koppelen aan oude patronen.</li>
+          </ul>
+        </li>
+      </ol>
+
+      <p>Ik ben benieuwd hoe jij deze weegt.</p>
+
+      <p class="close">En los van de quiz: ik hou ervan hoe jouw hoofd nuance kan verdragen. Niet snel oordelen, niet makkelijk wegkijken, maar echt proberen te begrijpen wat gedrag betekent. Dat vind ik mooi aan jou.</p>
+    </section>
+
+    <details class="answers">
+      <summary>Antwoorden / reflectie voor Bob, niet meesturen</summary>
+      <ol>
+        <li>A. Vertrouwen wordt sterker door toetsbaar gedrag, niet door het op te eisen.</li>
+        <li>A. Eenzijdige openheid kan ongelijkheid en onzekerheid vergroten.</li>
+        <li>Intentie, belofte, transparantie, consequent herhaald gedrag.</li>
+        <li>B. Bij alles-of-niets-patronen is voor het kantelpunt handelen sterker dan achteraf herstellen.</li>
+        <li>A. Dit houdt de behoefte bij veiligheid, niet bij controle.</li>
+        <li>A. Deze vraag maakt verandering concreet zonder het verleden als aanklacht te gebruiken.</li>
+        <li>B. Onrust kan een signaal zijn van informatiegebrek en behoefte aan voorspelbaarheid.</li>
+        <li>A. De zin benoemt behoefte zonder beschuldiging.</li>
+        <li>Openheid wordt afstemming wanneer beide mensen iets dragen: vragen, antwoorden, grenzen en verantwoordelijkheid.</li>
+        <li>A. Begrip voor herkomst en verantwoordelijkheid voor impact moeten allebei blijven staan.</li>
+      </ol>
+    </details>
+  </main>
+
+  <script>
+    const copyButton = document.getElementById("copyMessage");
+    const copyStatus = document.getElementById("copyStatus");
+
+    copyButton.addEventListener("click", async () => {
+      const message = document.getElementById("message").innerText.trim();
+
+      try {
+        await navigator.clipboard.writeText(message);
+        copyStatus.textContent = "Bericht zonder antwoorden gekopieerd.";
+      } catch {
+        copyStatus.textContent = "Kopieren lukt niet automatisch in deze browser. Selecteer het berichtgedeelte handmatig.";
+      }
+    });
+  </script>
+</body>
+</html>
