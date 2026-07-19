@@ -178,6 +178,8 @@ const screens = {
 };
 
 const startButton = document.getElementById("startButton");
+const musicButton = document.getElementById("musicButton");
+const floatingMusicButton = document.getElementById("floatingMusicButton");
 const installButton = document.getElementById("installButton");
 const questionCounter = document.getElementById("questionCounter");
 const questionTitle = document.getElementById("questionTitle");
@@ -197,6 +199,23 @@ const restartButton = document.getElementById("restartButton");
 const answerKey = document.getElementById("answerKey");
 
 let deferredInstallPrompt;
+let audioContext;
+let musicTimer;
+let masterGain;
+let musicEnabled = false;
+let audioConnected = false;
+let stepIndex = 0;
+
+const musicPattern = [
+  { bass: 110.00, lead: 329.63, chord: [220.00, 261.63, 329.63] },
+  { bass: 110.00, lead: 392.00, chord: [220.00, 261.63, 349.23] },
+  { bass: 146.83, lead: 440.00, chord: [246.94, 293.66, 369.99] },
+  { bass: 130.81, lead: 392.00, chord: [196.00, 261.63, 329.63] },
+  { bass: 98.00, lead: 293.66, chord: [196.00, 246.94, 329.63] },
+  { bass: 130.81, lead: 349.23, chord: [196.00, 261.63, 349.23] },
+  { bass: 146.83, lead: 440.00, chord: [220.00, 293.66, 369.99] },
+  { bass: 110.00, lead: 329.63, chord: [220.00, 277.18, 329.63] }
+];
 
 function seededRandom(seed) {
   let value = seed % 2147483647;
@@ -230,12 +249,93 @@ function showScreen(name) {
 }
 
 function startQuiz() {
+  if (!musicEnabled) {
+    startMusic();
+  }
   state.questions = pickDailyQuestions();
   state.currentIndex = 0;
   state.score = 0;
   state.answers = [];
   showScreen("quiz");
   renderQuestion();
+}
+
+function createOscillator(frequency, type, startTime, duration, gainValue) {
+  const oscillator = audioContext.createOscillator();
+  const gain = audioContext.createGain();
+
+  oscillator.type = type;
+  oscillator.frequency.setValueAtTime(frequency, startTime);
+  gain.gain.setValueAtTime(0.0001, startTime);
+  gain.gain.exponentialRampToValueAtTime(gainValue, startTime + 0.025);
+  gain.gain.exponentialRampToValueAtTime(0.0001, startTime + duration);
+
+  oscillator.connect(gain);
+  gain.connect(masterGain);
+  oscillator.start(startTime);
+  oscillator.stop(startTime + duration + 0.04);
+}
+
+function playMusicStep() {
+  if (!musicEnabled || !audioContext) return;
+
+  const now = audioContext.currentTime;
+  const item = musicPattern[stepIndex % musicPattern.length];
+  const accent = stepIndex % 4 === 0 ? 0.12 : 0.08;
+
+  createOscillator(item.bass, "sine", now, 0.38, 0.09);
+  item.chord.forEach((note, chordIndex) => {
+    createOscillator(note, "triangle", now + chordIndex * 0.012, 0.72, 0.025);
+  });
+  createOscillator(item.lead, "square", now + 0.04, 0.16, accent);
+
+  stepIndex += 1;
+}
+
+function updateMusicButtons() {
+  const label = musicEnabled ? "Zet achtergrondliedje uit" : "Zet achtergrondliedje aan";
+  musicButton.textContent = label;
+  floatingMusicButton.textContent = musicEnabled ? "aan" : "muziek";
+  musicButton.classList.toggle("music-on", musicEnabled);
+  floatingMusicButton.classList.toggle("music-on", musicEnabled);
+}
+
+function startMusic() {
+  if (musicEnabled) return;
+
+  const AudioEngine = window.AudioContext || window.webkitAudioContext;
+  if (!AudioEngine) return;
+
+  audioContext = audioContext || new AudioEngine();
+  if (audioContext.state === "suspended") {
+    audioContext.resume();
+  }
+  masterGain = masterGain || audioContext.createGain();
+  masterGain.gain.setValueAtTime(0.18, audioContext.currentTime);
+  if (!audioConnected) {
+    masterGain.connect(audioContext.destination);
+    audioConnected = true;
+  }
+
+  musicEnabled = true;
+  updateMusicButtons();
+  playMusicStep();
+  musicTimer = window.setInterval(playMusicStep, 520);
+}
+
+function stopMusic() {
+  musicEnabled = false;
+  updateMusicButtons();
+  window.clearInterval(musicTimer);
+  musicTimer = undefined;
+}
+
+function toggleMusic() {
+  if (musicEnabled) {
+    stopMusic();
+  } else {
+    startMusic();
+  }
 }
 
 function renderQuestion() {
@@ -417,6 +517,8 @@ if ("serviceWorker" in navigator) {
 }
 
 startButton.addEventListener("click", startQuiz);
+musicButton.addEventListener("click", toggleMusic);
+floatingMusicButton.addEventListener("click", toggleMusic);
 nextButton.addEventListener("click", goNext);
 skipButton.addEventListener("click", skipQuestion);
 restartButton.addEventListener("click", startQuiz);

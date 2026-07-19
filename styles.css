@@ -202,6 +202,13 @@ h2 {
   border-color: var(--line);
 }
 
+.ghost-action.music-on,
+.music-fab.music-on {
+  border-color: rgba(141, 228, 203, 0.7);
+  background: rgba(141, 228, 203, 0.16);
+  color: var(--mint);
+}
+
 .quiz-screen {
   align-self: stretch;
   padding: 10px 0;
@@ -352,6 +359,23 @@ h2 {
 .quiz-actions .ghost-action,
 .quiz-actions .primary-action {
   margin-top: 0;
+}
+
+.music-fab {
+  position: fixed;
+  right: max(16px, env(safe-area-inset-right));
+  bottom: max(16px, env(safe-area-inset-bottom));
+  width: 74px;
+  height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(17, 17, 17, 0.74);
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 850;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.34);
+  backdrop-filter: blur(16px);
+  cursor: pointer;
 }
 
 .result-score {
