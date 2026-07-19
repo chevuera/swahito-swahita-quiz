@@ -180,6 +180,7 @@ const screens = {
 const startButton = document.getElementById("startButton");
 const musicButton = document.getElementById("musicButton");
 const floatingMusicButton = document.getElementById("floatingMusicButton");
+const musicTrack = document.getElementById("musicTrack");
 const installButton = document.getElementById("installButton");
 const questionCounter = document.getElementById("questionCounter");
 const questionTitle = document.getElementById("questionTitle");
@@ -303,6 +304,23 @@ function updateMusicButtons() {
 function startMusic() {
   if (musicEnabled) return;
 
+  if (musicTrack) {
+    musicTrack.volume = 0.58;
+    musicTrack.play().then(() => {
+      musicEnabled = true;
+      updateMusicButtons();
+    }).catch(() => {
+      startSynthFallback();
+    });
+    return;
+  }
+
+  startSynthFallback();
+}
+
+function startSynthFallback() {
+  if (musicEnabled) return;
+
   const AudioEngine = window.AudioContext || window.webkitAudioContext;
   if (!AudioEngine) return;
 
@@ -326,6 +344,9 @@ function startMusic() {
 function stopMusic() {
   musicEnabled = false;
   updateMusicButtons();
+  if (musicTrack) {
+    musicTrack.pause();
+  }
   window.clearInterval(musicTimer);
   musicTimer = undefined;
 }

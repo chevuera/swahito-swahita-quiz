@@ -1,4 +1,4 @@
-const CACHE_NAME = "swahito-quiz-v1";
+const CACHE_NAME = "swahito-quiz-v2";
 const ASSETS = [
   "./",
   "index.html",
@@ -8,7 +8,8 @@ const ASSETS = [
   "icon.svg",
   "assets/swahita-poster.png",
   "assets/swahito-graffiti.jpg",
-  "assets/witlof-with-love.jpg"
+  "assets/witlof-with-love.jpg",
+  "assets/che-my-baby.mp3"
 ];
 
 self.addEventListener("install", (event) => {
