@@ -4,7 +4,8 @@ const state = {
   questions: [],
   currentIndex: 0,
   score: 0,
-  answers: []
+  answers: [],
+  correctStreak: 0
 };
 
 const screens = {
@@ -103,8 +104,27 @@ function startQuiz() {
   state.currentIndex = 0;
   state.score = 0;
   state.answers = [];
+  state.correctStreak = 0;
   showScreen("quiz");
   renderQuestion();
+}
+
+function ensureAudioEngine() {
+  const AudioEngine = window.AudioContext || window.webkitAudioContext;
+  if (!AudioEngine) return null;
+
+  audioContext = audioContext || new AudioEngine();
+  if (audioContext.state === "suspended") {
+    audioContext.resume();
+  }
+  masterGain = masterGain || audioContext.createGain();
+  masterGain.gain.setValueAtTime(0.18, audioContext.currentTime);
+  if (!audioConnected) {
+    masterGain.connect(audioContext.destination);
+    audioConnected = true;
+  }
+
+  return audioContext;
 }
 
 function createOscillator(frequency, type, startTime, duration, gainValue) {
@@ -166,25 +186,52 @@ function startMusic() {
 
 function startSynthFallback() {
   if (musicEnabled) return;
-
-  const AudioEngine = window.AudioContext || window.webkitAudioContext;
-  if (!AudioEngine) return;
-
-  audioContext = audioContext || new AudioEngine();
-  if (audioContext.state === "suspended") {
-    audioContext.resume();
-  }
-  masterGain = masterGain || audioContext.createGain();
-  masterGain.gain.setValueAtTime(0.18, audioContext.currentTime);
-  if (!audioConnected) {
-    masterGain.connect(audioContext.destination);
-    audioConnected = true;
-  }
+  if (!ensureAudioEngine()) return;
 
   musicEnabled = true;
   updateMusicButtons();
   playMusicStep();
   musicTimer = window.setInterval(playMusicStep, 520);
+}
+
+function playStreakSound(streak) {
+  const engine = ensureAudioEngine();
+  if (!engine || !masterGain) return;
+
+  const now = engine.currentTime + 0.01;
+  const root = 392;
+  const boost = Math.min(0.02 * Math.floor(streak / 10), 0.08);
+  const notes = [root, root * 1.2599, root * 1.4983, root * 2];
+
+  notes.forEach((frequency, index) => {
+    createOscillator(
+      frequency,
+      index === notes.length - 1 ? "square" : "triangle",
+      now + index * 0.07,
+      0.22 + index * 0.03,
+      0.05 + boost
+    );
+  });
+}
+
+function playFinishedSound() {
+  const engine = ensureAudioEngine();
+  if (!engine || !masterGain) return;
+
+  const now = engine.currentTime + 0.02;
+  const notes = [523.25, 659.25, 783.99, 1046.5];
+
+  notes.forEach((frequency, index) => {
+    createOscillator(
+      frequency,
+      index < 2 ? "triangle" : "square",
+      now + index * 0.09,
+      0.28,
+      0.07
+    );
+  });
+
+  createOscillator(1318.51, "sine", now + 0.4, 0.45, 0.09);
 }
 
 function stopMusic() {
@@ -254,7 +301,15 @@ function chooseOption(index) {
     if (buttonIndex === index && !correct) button.classList.add("wrong");
   });
 
-  if (correct) state.score += 1;
+  if (correct) {
+    state.score += 1;
+    state.correctStreak += 1;
+    if (state.correctStreak > 0 && state.correctStreak % 10 === 0) {
+      playStreakSound(state.correctStreak);
+    }
+  } else {
+    state.correctStreak = 0;
+  }
 
   state.answers[state.currentIndex] = {
     title: question.title,
@@ -276,6 +331,7 @@ function handleOpenAnswer() {
   const answer = openAnswer.value.trim();
 
   state.score += 1;
+  state.correctStreak = 0;
   state.answers[state.currentIndex] = {
     title: question.title,
     correct: true,
@@ -309,6 +365,7 @@ function goNext() {
 
 function skipQuestion() {
   const question = state.questions[state.currentIndex];
+  state.correctStreak = 0;
   state.answers[state.currentIndex] = {
     title: question.title,
     correct: false,
@@ -320,6 +377,7 @@ function skipQuestion() {
 function showResults() {
   progressBar.style.width = "100%";
   showScreen("result");
+  playFinishedSound();
 
   resultTitle.textContent = state.score >= 8
     ? "Staatsgevaarlijk goed"
