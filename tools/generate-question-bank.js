@@ -4,40 +4,79 @@ const path = require("path");
 const root = path.resolve(__dirname, "..");
 const questionsPerFamily = 25;
 
+const stakes = [
+  "omdat juist zulke momenten later het verschil maken tussen dromen en echt samenleven",
+  "omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt",
+  "omdat hier vaak zichtbaar wordt of iemand zich veilig of juist alleen voelt",
+  "omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties",
+  "omdat dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie",
+  "omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt",
+  "omdat een boerderijleven alleen werkt als jullie hierin zacht en eerlijk blijven",
+  "omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt",
+  "omdat hier snel scheefgroei ontstaat als je niet bewust kiest",
+  "omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt"
+];
+
+const emotionalSignals = [
+  "Swahita zegt het rustig, maar je merkt dat het haar echt raakt",
+  "je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord",
+  "haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is",
+  "ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is",
+  "je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent",
+  "er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan",
+  "dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden",
+  "je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid",
+  "tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen",
+  "de vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt"
+];
+
+const openClosers = [
+  "Maak het persoonlijk, niet netjes.",
+  "Laat merken wat jij haar daarin echt zou willen geven.",
+  "Zorg dat het klinkt alsof je haar kent, niet alsof je een goed antwoord zoekt.",
+  "Schrijf alsof zij dit straks echt van je leest en voelt of je het meent.",
+  "Wees concreet genoeg dat zij zichzelf erin kan herkennen.",
+  "Vertel het zo dat het over jullie twee gaat en niet over een algemeen stel.",
+  "Antwoord alsof je niet wilt imponeren maar echt wilt aansluiten bij haar gevoel.",
+  "Laat in je antwoord merken dat jij niet alleen een droom wilt, maar ook haar erbij wilt houden.",
+  "Maak duidelijk wat jij daarin van jezelf zou vragen.",
+  "Schrijf het alsof je haar iets geruststellends en waars geeft tegelijk."
+];
+
 const mcTemplates = [
-  ({ index, context, concern, lens }) => `Vraag ${index}: Tijdens ${context} komt ineens dit op tafel: ${concern}. Welke reactie past het best bij ${lens}?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Jullie zijn bezig met ${context}. Swahita stelt een eerlijke vraag over ${concern}. Wat is dan de sterkste reactie als je denkt vanuit ${lens}?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Midden in ${context} voelen jullie dat het gesprek serieuzer wordt. Het gaat nu over ${concern}. Welke keuze past dan het best bij ${lens}?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Er is niets dramatisch aan de hand, maar bij ${context} blijkt wel waar jullie echt voor staan. Het onderwerp wordt ${concern}. Welk antwoord is dan het gezondst?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Stel je voor dat ${context} jullie dag bepaalt. Jullie moeten samen iets uitspreken over ${concern}. Waar zit dan de meest liefdevolle richting?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: In een gesprek na ${context} blijkt dat jullie niet alleen over praktische dingen praten, maar ook over ${concern}. Welke reactie bewijst het best dat jij kiest voor ${lens}?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: ${context} klinkt klein, maar het zegt veel over hoe jullie later willen leven. Het schuift door naar ${concern}. Wat is dan het beste antwoord?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Jullie toekomst voelt dichtbij wanneer ${context} gebeurt. Als het daarna gaat over ${concern}, welke reactie past het meest bij ${lens}?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Bij ${context} merk je of romantiek ook overeind blijft in gewone dagen. Nu gaat het gesprek over ${concern}. Welke keuze is het meest volwassen?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Terwijl ${context} speelt, wil Swahita weten hoe jij kijkt naar ${concern}. Wat antwoord je als je iets duurzaams wilt bouwen?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Jullie praten niet groots of dramatisch, maar gewoon eerlijk bij ${context}. Dan komt ${concern} voorbij. Welke optie past het best bij ${lens}?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Wanneer ${context} gebeurt, wordt duidelijk of jullie dezelfde kant op denken. Het onderwerp wordt ${concern}. Waar zit dan de meest veilige reactie?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Op een dag vol ${context} vraagt Swahita door over ${concern}. Welke reactie klinkt niet mooi op papier, maar is in het echt ook goed?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: ${context} zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met ${concern}. Wat is dan de sterkste keuze?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Niet tijdens een droommoment maar juist bij ${context} praat je door over ${concern}. Welke reactie laat zien dat liefde ook praktisch betrouwbaar is?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Swahita kijkt naar hoe jij reageert bij ${context}. Daarna wil ze weten hoe je staat in ${concern}. Welke optie is het meest geruststellend?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Jullie denken na over later en precies bij ${context} blijkt hoe concreet dat later is. Het gesprek draait om ${concern}. Wat past het best bij een gezond samenleven?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Als ${context} eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond ${concern}. Welke reactie houdt het meest rekening met haar?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: ${context} dwingt jullie niet tot ruzie, maar wel tot eerlijkheid. Het onderwerp wordt ${concern}. Welk antwoord klinkt dan het meest sterk en tegelijk zacht?`,
-  ({ index, context, concern, lens }) => `Vraag ${index}: Bij ${context} blijkt of jullie later echt kunnen samenwerken. Swahita brengt ${concern} in. Welke richting is het meest liefdevol en helder?`
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: Tijdens ${context} komt ineens dit op tafel: ${concern}. ${signal}. ${stake}. Welke reactie past dan het best bij ${lens}?`,
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: Jullie zijn bezig met ${context}. Swahita stelt een eerlijke vraag over ${concern}. ${signal}. ${stake}. Wat is dan de sterkste reactie als je denkt vanuit ${lens}?`,
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: Midden in ${context} voelen jullie dat het gesprek serieuzer wordt. Het gaat nu over ${concern}. ${signal}. Welke keuze past dan het best bij ${lens}?`,
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: Er is niets dramatisch aan de hand, maar bij ${context} blijkt wel waar jullie echt voor staan. Het onderwerp wordt ${concern}. ${stake}. Welk antwoord is dan het gezondst?`,
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: Stel je voor dat ${context} jullie dag bepaalt. Jullie moeten samen iets uitspreken over ${concern}. ${signal}. Waar zit dan de meest liefdevolle richting?`,
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: In een gesprek na ${context} blijkt dat jullie niet alleen over praktische dingen praten, maar ook over ${concern}. ${stake}. Welke reactie bewijst het best dat jij kiest voor ${lens}?`,
+  ({ index, context, concern, lens, stake, signal }) => `Vraag ${index}: ${context} klinkt klein, maar het zegt veel over hoe jullie later willen leven. Het schuift door naar ${concern}. ${signal}. Wat is dan het beste antwoord?`,
+  ({ index, context, concern, lens, stake }) => `Vraag ${index}: Jullie toekomst voelt dichtbij rond ${context}. Als het daarna gaat over ${concern}, ${stake}, welke reactie past het meest bij ${lens}?`,
+  ({ index, context, concern, lens, signal }) => `Vraag ${index}: Bij ${context} merk je of romantiek ook overeind blijft in gewone dagen. Nu gaat het gesprek over ${concern}. ${signal}. Welke keuze is het meest volwassen?`,
+  ({ index, context, concern, lens, stake }) => `Vraag ${index}: Terwijl ${context} speelt, wil Swahita weten hoe jij kijkt naar ${concern}. ${stake}. Wat antwoord je als je iets duurzaams wilt bouwen?`,
+  ({ index, context, concern, lens, signal }) => `Vraag ${index}: Jullie praten niet groots of dramatisch, maar gewoon eerlijk bij ${context}. Dan komt ${concern} voorbij. ${signal}. Welke optie past het best bij ${lens}?`,
+  ({ index, context, concern, lens, stake }) => `Vraag ${index}: Juist in ${context} wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt ${concern}. ${stake}. Waar zit dan de meest veilige reactie?`,
+  ({ index, context, concern, signal }) => `Vraag ${index}: Op een dag vol ${context} vraagt Swahita door over ${concern}. ${signal}. Welke reactie klinkt niet mooi op papier alleen, maar is in het echt ook goed?`,
+  ({ index, context, concern, stake }) => `Vraag ${index}: ${context} zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met ${concern}. ${stake}. Wat is dan de sterkste keuze?`,
+  ({ index, context, concern, signal }) => `Vraag ${index}: Niet tijdens een droommoment maar juist bij ${context} praat je door over ${concern}. ${signal}. Welke reactie laat zien dat liefde ook praktisch betrouwbaar is?`,
+  ({ index, context, concern, stake }) => `Vraag ${index}: Swahita kijkt naar hoe jij reageert bij ${context}. Daarna wil ze weten hoe je staat in ${concern}. ${stake}. Welke optie is het meest geruststellend?`,
+  ({ index, context, concern, signal }) => `Vraag ${index}: Jullie denken na over later en precies bij ${context} blijkt hoe concreet dat later is. Het gesprek draait om ${concern}. ${signal}. Wat past het best bij een gezond samenleven?`,
+  ({ index, context, concern, stake }) => `Vraag ${index}: Als ${context} eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond ${concern}. ${stake}. Welke reactie houdt het meest rekening met haar?`,
+  ({ index, context, concern, signal }) => `Vraag ${index}: ${context} dwingt jullie niet tot ruzie, maar wel tot eerlijkheid. Het onderwerp wordt ${concern}. ${signal}. Welk antwoord klinkt dan het meest sterk en tegelijk zacht?`,
+  ({ index, context, concern, stake }) => `Vraag ${index}: Bij ${context} blijkt of jullie later echt kunnen samenwerken. Swahita brengt ${concern} in. ${stake}. Welke richting is het meest liefdevol en helder?`
 ];
 
 const openTemplates = [
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Denk aan ${context}. ${prompt} Schrijf je antwoord zo dat ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Stel dat ${context} jullie gewone realiteit is. ${prompt} Antwoord op een manier die laat voelen dat ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Jullie zitten midden in ${context}. ${prompt} Geef een antwoord waarin ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Niet als fantasie maar als echt leven: ${context}. ${prompt} Formuleer het alsof ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Tijdens ${context} heb je geen mooi praatje nodig maar een eerlijk antwoord. ${prompt} Zorg dat ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Neem ${context} als uitgangspunt. ${prompt} Schrijf vanuit het idee dat ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Als ${context} nu voor jullie zou spelen, wat zou je dan zeggen? ${prompt} Laat in je antwoord merken dat ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Maak het concreet: ${context}. ${prompt} Reageer alsof ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Bij ${context} wordt duidelijk of woorden ook echt iets betekenen. ${prompt} Antwoord zodanig dat ${angle}.`,
-  ({ index, context, prompt, angle }) => `Open vraag ${index}: Je hoeft niets perfects te zeggen, wel iets echts over ${context}. ${prompt} Zorg dat ${angle}.`
+  ({ index, context, prompt, angle, signal, closer }) => `Open vraag ${index}: Denk aan ${context}. ${signal}. ${prompt} Schrijf je antwoord zo dat ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, closer }) => `Open vraag ${index}: Stel dat ${context} jullie gewone realiteit is. ${prompt} Antwoord op een manier die laat voelen dat ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, signal, closer }) => `Open vraag ${index}: Jullie zitten midden in ${context}. ${signal}. ${prompt} Geef een antwoord waarin ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, closer }) => `Open vraag ${index}: Niet als fantasie maar als echt leven: ${context}. ${prompt} Formuleer het alsof ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, signal, closer }) => `Open vraag ${index}: Tijdens ${context} heb je geen mooi praatje nodig maar een eerlijk antwoord. ${signal}. ${prompt} Zorg dat ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, closer }) => `Open vraag ${index}: Neem ${context} als uitgangspunt. ${prompt} Schrijf vanuit het idee dat ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, signal, closer }) => `Open vraag ${index}: Als ${context} nu voor jullie zou spelen, wat zou je dan zeggen? ${signal}. ${prompt} Laat in je antwoord merken dat ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, closer }) => `Open vraag ${index}: Maak het concreet: ${context}. ${prompt} Reageer alsof ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, signal, closer }) => `Open vraag ${index}: Bij ${context} wordt duidelijk of woorden ook echt iets betekenen. ${signal}. ${prompt} Antwoord zodanig dat ${angle}. ${closer}`,
+  ({ index, context, prompt, angle, closer }) => `Open vraag ${index}: Je hoeft niets perfects te zeggen, wel iets echts over ${context}. ${prompt} Zorg dat ${angle}. ${closer}`
 ];
 
 const openAngles = [
@@ -1006,6 +1045,10 @@ function rotate(list, index) {
   return list[index % list.length];
 }
 
+function sentenceCase(text) {
+  return text.charAt(0).toUpperCase() + text.slice(1);
+}
+
 function uniqueOptions(correct, familyPitfalls, seed) {
   const candidates = [...familyPitfalls, ...globalDecoys];
   const options = [correct];
@@ -1038,11 +1081,15 @@ function makeMultipleChoice(config, familyIndex, localIndex) {
   const context = config.contexts[row];
   const concern = config.concerns[col];
   const correct = rotate(config.ideals, row + col);
+  const stake = sentenceCase(rotate(stakes, familyIndex + row + col));
+  const signal = sentenceCase(rotate(emotionalSignals, familyIndex * 2 + row + col));
   const scenario = rotate(mcTemplates, familyIndex * questionsPerFamily + localIndex)({
     index,
     context,
     concern,
-    lens: config.lens
+    lens: config.lens,
+    stake,
+    signal
   });
   const shuffled = uniqueOptions(correct, config.pitfalls, index);
 
@@ -1064,11 +1111,15 @@ function makeOpen(config, familyIndex, localIndex, openSlot) {
   const context = config.contexts[row];
   const prompt = rotate(config.openPrompts, openSlot + col);
   const angle = rotate(openAngles, familyIndex + openSlot + row + col);
+  const signal = sentenceCase(rotate(emotionalSignals, familyIndex + openSlot + row));
+  const closer = rotate(openClosers, familyIndex * 3 + openSlot + col);
   const scenario = rotate(openTemplates, familyIndex * 5 + openSlot)({
     index,
     context,
     prompt,
-    angle
+    angle,
+    signal,
+    closer
   });
 
   return {
