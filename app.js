@@ -47,6 +47,7 @@ let masterGain;
 let musicEnabled = false;
 let audioConnected = false;
 let stepIndex = 0;
+const QUIZ_LENGTH = 20;
 
 const musicPattern = [
   { bass: 110.00, lead: 329.63, chord: [220.00, 261.63, 329.63] },
@@ -68,30 +69,31 @@ function seededRandom(seed) {
   };
 }
 
-function dateSeed() {
-  const now = new Date();
-  return Number(`${now.getFullYear()}${now.getMonth() + 1}${now.getDate()}`);
-}
-
-function pickDailyQuestions() {
-  const random = seededRandom(dateSeed());
-  const pool = [...questionBank];
-  const picked = [];
-  const families = new Set();
-
+function shuffleItems(items, random = Math.random) {
+  const pool = [...items];
   for (let index = pool.length - 1; index > 0; index -= 1) {
     const swapIndex = Math.floor(random() * (index + 1));
     [pool[index], pool[swapIndex]] = [pool[swapIndex], pool[index]];
   }
+  return pool;
+}
 
-  for (const question of pool) {
-    if (families.has(question.family)) continue;
-    picked.push(question);
-    families.add(question.family);
-    if (picked.length === 10) break;
-  }
+function pickQuizQuestions() {
+  const byFamily = new Map();
 
-  return picked;
+  questionBank.forEach((question) => {
+    if (!byFamily.has(question.family)) {
+      byFamily.set(question.family, []);
+    }
+    byFamily.get(question.family).push(question);
+  });
+
+  const chosen = [...byFamily.values()].map((familyQuestions) => {
+    const options = shuffleItems(familyQuestions);
+    return options[0];
+  });
+
+  return shuffleItems(chosen).slice(0, QUIZ_LENGTH);
 }
 
 function showScreen(name) {
@@ -103,7 +105,7 @@ function startQuiz() {
   if (!musicEnabled) {
     startMusic();
   }
-  state.questions = pickDailyQuestions();
+  state.questions = pickQuizQuestions();
   state.currentIndex = 0;
   state.score = 0;
   state.answers = [];
