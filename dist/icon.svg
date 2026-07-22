@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#111111"/>
+  <circle cx="160" cy="132" r="92" fill="#ff4f7b" opacity="0.9"/>
+  <circle cx="350" cy="156" r="86" fill="#8de4cb" opacity="0.82"/>
+  <path d="M256 404c-59-47-103-85-132-116-29-32-43-65-43-99 0-29 9-53 28-72s43-28 72-28c30 0 55 13 75 38 20-25 45-38 75-38 29 0 53 9 72 28s28 43 28 72c0 34-14 67-43 99-29 31-73 69-132 116z" fill="#f7f1e8"/>
+  <text x="256" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="82" font-weight="800" fill="#111111">S</text>
+</svg>
