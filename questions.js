@@ -13283,5 +13283,13290 @@ window.questionBank = [
     ],
     "answer": 1,
     "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1001",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 21",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1002",
+    "family": "Rechtbank der Kusmisdrijven",
+    "type": "open",
+    "title": "Rechtbank der Kusmisdrijven 21",
+    "scenario": "Open vraag uit Rechtbank der Kusmisdrijven: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht; de clou moet absurdistisch zijn zonder willekeurig te worden.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1003",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 21",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1004",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 21",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1005",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 21",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1006",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 21",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een stilte met teveel ondertiteling. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1007",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 21",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1008",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 21",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een avond die te onschuldig kijkt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1009",
+    "family": "Nachtelijk Parlementsdebat",
+    "type": "open",
+    "title": "Nachtelijk Parlementsdebat 21",
+    "scenario": "Open vraag uit Nachtelijk Parlementsdebat: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een embargo op afstandelijkheid dat niemand wil handhaven; de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1010",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 21",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een route naar dichterbij zonder vergunning. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1011",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 21",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1012",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 21",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een diplomatiek incident rond haar naam. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1013",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 21",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een gemis dat weigert netjes te wachten. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1014",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 21",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een telefoon die verdacht religieus oplicht. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1015",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 21",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een herinnering die parfum draagt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1016",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "type": "open",
+    "title": "Gemeente Onbeheerste Tederheid 21",
+    "scenario": "Open vraag uit Gemeente Onbeheerste Tederheid: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een kus die formeel nog niet bestaat; de juiste richting weigert te kiezen tussen intelligentie en zin.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1017",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 21",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1018",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 21",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1019",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 21",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1020",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 21",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een grenspost tussen stoer doen en smelten. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1021",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 21",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1022",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 21",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1023",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "type": "open",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 21",
+    "scenario": "Open vraag uit Crisiscentrum voor Te Leuke Vrouwen: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een blik die per ongeluk grondgebied verovert; de mooiste conclusie laat Swahita groter worden dan het systeem.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1024",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 21",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een moreel verantwoord slecht plan. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1025",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 21",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1026",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 21",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1027",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 21",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een grap die ineens bekentenis blijkt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1028",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 21",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1029",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 21",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een parlementaire crisis in zijn buik. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1030",
+    "family": "Het Circus der Rationele Excuses",
+    "type": "open",
+    "title": "Het Circus der Rationele Excuses 21",
+    "scenario": "Open vraag uit Het Circus der Rationele Excuses: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een lach die de notulen onbruikbaar maakt; de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1031",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 21",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1032",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 21",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1033",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 21",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1034",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 21",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1035",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 21",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een stilte met teveel ondertiteling. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1036",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 21",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1037",
+    "family": "De Belastingdienst der Binnenpret",
+    "type": "open",
+    "title": "De Belastingdienst der Binnenpret 21",
+    "scenario": "Open vraag uit De Belastingdienst der Binnenpret: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een avond die te onschuldig kijkt; de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1038",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 21",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1039",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 21",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een route naar dichterbij zonder vergunning. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1040",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 21",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1041",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 21",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een diplomatiek incident rond haar naam. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1042",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 21",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een gemis dat weigert netjes te wachten. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1043",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 21",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een telefoon die verdacht religieus oplicht. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1044",
+    "family": "Het Bureau voor Romantische Fraude",
+    "type": "open",
+    "title": "Het Bureau voor Romantische Fraude 21",
+    "scenario": "Open vraag uit Het Bureau voor Romantische Fraude: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een herinnering die parfum draagt; de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1045",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 21",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een kus die formeel nog niet bestaat. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1046",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 21",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1047",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 21",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1048",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 21",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1049",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 21",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een grenspost tussen stoer doen en smelten. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1050",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 21",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1051",
+    "family": "Ministerie van Ochtendverlangen",
+    "type": "open",
+    "title": "Ministerie van Ochtendverlangen 22",
+    "scenario": "Open vraag uit Ministerie van Ochtendverlangen: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een droom die zich voordoet als beleidsmemo; de beste lezing maakt de grap groter en de liefde stiller.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1052",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 22",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1053",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 22",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een moreel verantwoord slecht plan. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1054",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 22",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1055",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 22",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1056",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 22",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een grap die ineens bekentenis blijkt. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1057",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 22",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1058",
+    "family": "Vrije Republiek Swahito",
+    "type": "open",
+    "title": "Vrije Republiek Swahito 22",
+    "scenario": "Open vraag uit Vrije Republiek Swahito: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een parlementaire crisis in zijn buik; de uitkomst moet klinken alsof ratio nog net haar jas kon pakken.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1059",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 22",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1060",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 22",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1061",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 22",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1062",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 22",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1063",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 22",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1064",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 22",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een stilte met teveel ondertiteling. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1065",
+    "family": "Ruimtestation Swahita-9",
+    "type": "open",
+    "title": "Ruimtestation Swahita-9 22",
+    "scenario": "Open vraag uit Ruimtestation Swahita-9: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een festival van bijbedoelingen zonder entreebewijs; de lezing moet de bureaucratie vernederen zonder de liefde te vernederen.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1066",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 22",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een avond die te onschuldig kijkt. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1067",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 22",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1068",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 22",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een route naar dichterbij zonder vergunning. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1069",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 22",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1070",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 22",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een diplomatiek incident rond haar naam. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1071",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 22",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een gemis dat weigert netjes te wachten. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1072",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "type": "open",
+    "title": "Senaat der Onbeschaafde Fantasie 22",
+    "scenario": "Open vraag uit Senaat der Onbeschaafde Fantasie: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een telefoon die verdacht religieus oplicht; de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1073",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 22",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een herinnering die parfum draagt. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1074",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 22",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een kus die formeel nog niet bestaat. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1075",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 22",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1076",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 22",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1077",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 22",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1078",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 22",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een grenspost tussen stoer doen en smelten. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1079",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "type": "open",
+    "title": "De Onderzeedienst van Diepe Gedachten 22",
+    "scenario": "Open vraag uit De Onderzeedienst van Diepe Gedachten: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een kamer die ineens te klein wordt voor alle chemie; de juiste richting moet klinken als flirten met een masterdiploma in onzin.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1080",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 22",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1081",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 22",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1082",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 22",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een moreel verantwoord slecht plan. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1083",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 22",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1084",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 22",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1085",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 22",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een grap die ineens bekentenis blijkt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1086",
+    "family": "De Spoorwegen van Verlangen",
+    "type": "open",
+    "title": "De Spoorwegen van Verlangen 22",
+    "scenario": "Open vraag uit De Spoorwegen van Verlangen: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is; de elegante draai zit in vrijwillige overgave zonder gezichtsverlies.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1087",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 22",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een parlementaire crisis in zijn buik. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1088",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 22",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1089",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 22",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1090",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 22",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1091",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 22",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1092",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 22",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1093",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "type": "open",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 22",
+    "scenario": "Open vraag uit De Koninklijke Academie voor Te Lang Kijken: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een stilte met teveel ondertiteling; de grap mag absurd zijn, maar de onderlaag moet kloppen.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1094",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 22",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1095",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 22",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een avond die te onschuldig kijkt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1096",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 22",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1097",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 22",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een route naar dichterbij zonder vergunning. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1098",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 22",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1099",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 22",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een diplomatiek incident rond haar naam. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1100",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "type": "open",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 22",
+    "scenario": "Open vraag uit Het Nationaal Instituut voor Schaamteloos Gemis: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een gemis dat weigert netjes te wachten; de conclusie moet een klein misdrijf tegen saaiheid plegen.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1101",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 23",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een telefoon die verdacht religieus oplicht. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1102",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 23",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een herinnering die parfum draagt. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1103",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 23",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een kus die formeel nog niet bestaat. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1104",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 23",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1105",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 23",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1106",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 23",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1107",
+    "family": "Commissie Normaal Doen",
+    "type": "open",
+    "title": "Commissie Normaal Doen 23",
+    "scenario": "Open vraag uit Commissie Normaal Doen: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een grenspost tussen stoer doen en smelten; de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1108",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 23",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1109",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 23",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1110",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 23",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1111",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 23",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een moreel verantwoord slecht plan. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1112",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 23",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1113",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 23",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1114",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "type": "open",
+    "title": "Universiteit der Belachelijke Liefdeslogica 23",
+    "scenario": "Open vraag uit Universiteit der Belachelijke Liefdeslogica: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een grap die ineens bekentenis blijkt; de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1115",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 23",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1116",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 23",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een parlementaire crisis in zijn buik. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1117",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 23",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1118",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 23",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1119",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 23",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1120",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 23",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1121",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "type": "open",
+    "title": "Kabinet van Onhoudbare Gedachten 23",
+    "scenario": "Open vraag uit Kabinet van Onhoudbare Gedachten: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een verlangen dat te goed gekleed is voor de gelegenheid; de antwoordrichting moet een kleine staatsgreep tegen verveling zijn.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1122",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 23",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een stilte met teveel ondertiteling. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1123",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 23",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1124",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 23",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een avond die te onschuldig kijkt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1125",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 23",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1126",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 23",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een route naar dichterbij zonder vergunning. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1127",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 23",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1128",
+    "family": "Meteorologisch Bureau van Gemis",
+    "type": "open",
+    "title": "Meteorologisch Bureau van Gemis 23",
+    "scenario": "Open vraag uit Meteorologisch Bureau van Gemis: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een diplomatiek incident rond haar naam; de redenering wint pas als ze ook een beetje schaamteloos is.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1129",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 23",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een gemis dat weigert netjes te wachten. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1130",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 23",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een telefoon die verdacht religieus oplicht. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1131",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 23",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een herinnering die parfum draagt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1132",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 23",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een kus die formeel nog niet bestaat. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1133",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 23",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1134",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 23",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1135",
+    "family": "Bordeel van Abstracte Begrippen",
+    "type": "open",
+    "title": "Bordeel van Abstracte Begrippen 23",
+    "scenario": "Open vraag uit Bordeel van Abstracte Begrippen: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een rechtbank waar de hamer jaloers is op de spanning; de satire moet doen alsof ze streng is en ondertussen knipogen.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1136",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 23",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een grenspost tussen stoer doen en smelten. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1137",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 23",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1138",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 23",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1139",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 23",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1140",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 23",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een moreel verantwoord slecht plan. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1141",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 23",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1142",
+    "family": "Het Hooggerechtshof van Appjes",
+    "type": "open",
+    "title": "Het Hooggerechtshof van Appjes 23",
+    "scenario": "Open vraag uit Het Hooggerechtshof van Appjes: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een collectieve arbeidsovereenkomst voor vlinders; de beste route is niet bezit maar vrijwillig dichtbij willen zijn.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1143",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 23",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een grap die ineens bekentenis blijkt. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1144",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 23",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1145",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 23",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een parlementaire crisis in zijn buik. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1146",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 23",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1147",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 23",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1148",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 23",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1149",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "type": "open",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 23",
+    "scenario": "Open vraag uit De Stichting Tegen Al Te Simpele Liefde: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een excuus om dichterbij te lezen tussen de regels; de beste interpretatie laat Swahito verliezen en daar blij mee zijn.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1150",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 23",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1151",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 24",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een stilte met teveel ondertiteling. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1152",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 24",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1153",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 24",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een avond die te onschuldig kijkt. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1154",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 24",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1155",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 24",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een route naar dichterbij zonder vergunning. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1156",
+    "family": "Erotische Diplomatie",
+    "type": "open",
+    "title": "Erotische Diplomatie 24",
+    "scenario": "Open vraag uit Erotische Diplomatie: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een appje dat zich gedraagt als staatsgreep; de beste optie moet het absurde serieus nemen zonder serieus te worden.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1157",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 24",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een diplomatiek incident rond haar naam. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1158",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 24",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een gemis dat weigert netjes te wachten. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1159",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 24",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een telefoon die verdacht religieus oplicht. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1160",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 24",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een herinnering die parfum draagt. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1161",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 24",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een kus die formeel nog niet bestaat. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1162",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 24",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1163",
+    "family": "Archief van Verboden Glimlachen",
+    "type": "open",
+    "title": "Archief van Verboden Glimlachen 24",
+    "scenario": "Open vraag uit Archief van Verboden Glimlachen: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft; de oplossing moet tegelijk brutaal, teder en licht onwettig voelen.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1164",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 24",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1165",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 24",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een grenspost tussen stoer doen en smelten. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1166",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 24",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1167",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 24",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1168",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 24",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1169",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 24",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een moreel verantwoord slecht plan. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1170",
+    "family": "De Liefdesdouane",
+    "type": "open",
+    "title": "De Liefdesdouane 24",
+    "scenario": "Open vraag uit De Liefdesdouane: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een gedachte die niet terug wil naar kantoor; de beste optie laat verlangen slim genoeg zijn om niet plat te worden.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1171",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 24",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1172",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 24",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een grap die ineens bekentenis blijkt. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1173",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 24",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1174",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 24",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een parlementaire crisis in zijn buik. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1175",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 24",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1176",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 24",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1177",
+    "family": "Raad voor Affectieve Overmacht",
+    "type": "open",
+    "title": "Raad voor Affectieve Overmacht 24",
+    "scenario": "Open vraag uit Raad voor Affectieve Overmacht: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een hypothetische aanraking met veel te veel jurisprudentie; de hypothese moet de chaos niet oplossen maar goed aankleden.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1178",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 24",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1179",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 24",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1180",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 24",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een stilte met teveel ondertiteling. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1181",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 24",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1182",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 24",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een avond die te onschuldig kijkt. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1183",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 24",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1184",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "type": "open",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 24",
+    "scenario": "Open vraag uit Het Hotel van Uitgestelde Zelfbeheersing: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een route naar dichterbij zonder vergunning; de waarheid moet via een omweg komen omdat directe routes te braaf zijn.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1185",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 24",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1186",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 24",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een diplomatiek incident rond haar naam. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1187",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 24",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een gemis dat weigert netjes te wachten. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1188",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 24",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een telefoon die verdacht religieus oplicht. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1189",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 24",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een herinnering die parfum draagt. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1190",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 24",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een kus die formeel nog niet bestaat. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1191",
+    "family": "De Piratenzender van Swahito",
+    "type": "open",
+    "title": "De Piratenzender van Swahito 24",
+    "scenario": "Open vraag uit De Piratenzender van Swahito: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een wetenschappelijke meting die begint te blozen; de conclusie moet lijken op bewijsvoering en eindigen als bekentenis.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1192",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 24",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1193",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 24",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1194",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 24",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een grenspost tussen stoer doen en smelten. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1195",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 24",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1196",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 24",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1197",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 24",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1198",
+    "family": "De Geheime Dienst van Haar Naam",
+    "type": "open",
+    "title": "De Geheime Dienst van Haar Naam 24",
+    "scenario": "Open vraag uit De Geheime Dienst van Haar Naam: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een moreel verantwoord slecht plan; de kern is dat belachelijk doen soms de eerlijkste route is.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1199",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 24",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1200",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 24",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1201",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 25",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een grap die ineens bekentenis blijkt. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1202",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 25",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1203",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 25",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een parlementaire crisis in zijn buik. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1204",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 25",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1205",
+    "family": "Quantumromantiek",
+    "type": "open",
+    "title": "Quantumromantiek 25",
+    "scenario": "Open vraag uit Quantumromantiek: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht; de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1206",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 25",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1207",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 25",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1208",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 25",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1209",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 25",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een stilte met teveel ondertiteling. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1210",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 25",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1211",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 25",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een avond die te onschuldig kijkt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1212",
+    "family": "Dienst Binnenlandse Vlinders",
+    "type": "open",
+    "title": "Dienst Binnenlandse Vlinders 25",
+    "scenario": "Open vraag uit Dienst Binnenlandse Vlinders: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een embargo op afstandelijkheid dat niemand wil handhaven; de vraag moet voelen als een rechtszaak die eindigt in binnenpret.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1213",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 25",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een route naar dichterbij zonder vergunning. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1214",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 25",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1215",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 25",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een diplomatiek incident rond haar naam. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1216",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 25",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een gemis dat weigert netjes te wachten. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1217",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 25",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een telefoon die verdacht religieus oplicht. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1218",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 25",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een herinnering die parfum draagt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1219",
+    "family": "Observatorium voor Haar Effect",
+    "type": "open",
+    "title": "Observatorium voor Haar Effect 25",
+    "scenario": "Open vraag uit Observatorium voor Haar Effect: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een kus die formeel nog niet bestaat; de clou moet absurdistisch zijn zonder willekeurig te worden.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1220",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 25",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1221",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 25",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1222",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 25",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1223",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 25",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een grenspost tussen stoer doen en smelten. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1224",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 25",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1225",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 25",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1226",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "type": "open",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 25",
+    "scenario": "Open vraag uit Bibliotheek van Ongepaste Vergelijkingen: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een blik die per ongeluk grondgebied verovert; de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1227",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 25",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een moreel verantwoord slecht plan. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1228",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 25",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1229",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 25",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1230",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 25",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een grap die ineens bekentenis blijkt. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1231",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 25",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1232",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 25",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een parlementaire crisis in zijn buik. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1233",
+    "family": "De Galactische Kusraad",
+    "type": "open",
+    "title": "De Galactische Kusraad 25",
+    "scenario": "Open vraag uit De Galactische Kusraad: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een lach die de notulen onbruikbaar maakt; de juiste richting weigert te kiezen tussen intelligentie en zin.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1234",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 25",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1235",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 25",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1236",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 25",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1237",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 25",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1238",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 25",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een stilte met teveel ondertiteling. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1239",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 25",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1240",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "type": "open",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 25",
+    "scenario": "Open vraag uit De Tuinbouwschool voor Witlof-erotiek: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een avond die te onschuldig kijkt; de mooiste conclusie laat Swahita groter worden dan het systeem.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1241",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 25",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1242",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 25",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een route naar dichterbij zonder vergunning. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1243",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 25",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1244",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 25",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een diplomatiek incident rond haar naam. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1245",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 25",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een gemis dat weigert netjes te wachten. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1246",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 25",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een telefoon die verdacht religieus oplicht. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1247",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "type": "open",
+    "title": "Het Pretpark van Vrijwillige Ondergang 25",
+    "scenario": "Open vraag uit Het Pretpark van Vrijwillige Ondergang: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een herinnering die parfum draagt; de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1248",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 25",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een kus die formeel nog niet bestaat. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1249",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 25",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1250",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 25",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1251",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 26",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1252",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 26",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een grenspost tussen stoer doen en smelten. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1253",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 26",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1254",
+    "family": "Kosmisch Loket",
+    "type": "open",
+    "title": "Kosmisch Loket 26",
+    "scenario": "Open vraag uit Kosmisch Loket: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een droom die zich voordoet als beleidsmemo; de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1255",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 26",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1256",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 26",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een moreel verantwoord slecht plan. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1257",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 26",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1258",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 26",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1259",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 26",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een grap die ineens bekentenis blijkt. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1260",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 26",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1261",
+    "family": "Hof van Ongepaste Timing",
+    "type": "open",
+    "title": "Hof van Ongepaste Timing 26",
+    "scenario": "Open vraag uit Hof van Ongepaste Timing: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een parlementaire crisis in zijn buik; de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1262",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 26",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1263",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 26",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1264",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 26",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1265",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 26",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1266",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 26",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1267",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 26",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een stilte met teveel ondertiteling. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1268",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "type": "open",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 26",
+    "scenario": "Open vraag uit Het Nationaal Museum van Bijna-Zoenen: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een festival van bijbedoelingen zonder entreebewijs; de beste lezing maakt de grap groter en de liefde stiller.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1269",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 26",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een avond die te onschuldig kijkt. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1270",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 26",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1271",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 26",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een route naar dichterbij zonder vergunning. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1272",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 26",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1273",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 26",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een diplomatiek incident rond haar naam. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1274",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 26",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een gemis dat weigert netjes te wachten. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1275",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "type": "open",
+    "title": "Afdeling Noodlanding in Haar Nek 26",
+    "scenario": "Open vraag uit Afdeling Noodlanding in Haar Nek: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een telefoon die verdacht religieus oplicht; de uitkomst moet klinken alsof ratio nog net haar jas kon pakken.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1276",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 26",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een herinnering die parfum draagt. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1277",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 26",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een kus die formeel nog niet bestaat. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1278",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 26",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1279",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 26",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1280",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 26",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1281",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 26",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een grenspost tussen stoer doen en smelten. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1282",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "type": "open",
+    "title": "Kantoor voor Zachte Staatsgrepen 26",
+    "scenario": "Open vraag uit Kantoor voor Zachte Staatsgrepen: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een kamer die ineens te klein wordt voor alle chemie; de lezing moet de bureaucratie vernederen zonder de liefde te vernederen.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1283",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 26",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1284",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 26",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1285",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 26",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een moreel verantwoord slecht plan. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1286",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 26",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1287",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 26",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1288",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 26",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een grap die ineens bekentenis blijkt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1289",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "type": "open",
+    "title": "Het Lab voor Onmogelijke Chemie 26",
+    "scenario": "Open vraag uit Het Lab voor Onmogelijke Chemie: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is; de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1290",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 26",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een parlementaire crisis in zijn buik. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1291",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 26",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1292",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 26",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1293",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 26",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1294",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 26",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1295",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 26",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1296",
+    "family": "De Filosofische Snackbar",
+    "type": "open",
+    "title": "De Filosofische Snackbar 26",
+    "scenario": "Open vraag uit De Filosofische Snackbar: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een stilte met teveel ondertiteling; de juiste richting moet klinken als flirten met een masterdiploma in onzin.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1297",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 26",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1298",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 26",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een avond die te onschuldig kijkt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1299",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 26",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1300",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 26",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een route naar dichterbij zonder vergunning. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1301",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 27",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1302",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 27",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een diplomatiek incident rond haar naam. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1303",
+    "family": "Bureaucratie van Begeerte",
+    "type": "open",
+    "title": "Bureaucratie van Begeerte 27",
+    "scenario": "Open vraag uit Bureaucratie van Begeerte: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een gemis dat weigert netjes te wachten; de elegante draai zit in vrijwillige overgave zonder gezichtsverlies.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1304",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 27",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een telefoon die verdacht religieus oplicht. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1305",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 27",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een herinnering die parfum draagt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1306",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 27",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een kus die formeel nog niet bestaat. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1307",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 27",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1308",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 27",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1309",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 27",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1310",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "type": "open",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 27",
+    "scenario": "Open vraag uit Instituut voor Onredelijke Aantrekkingskracht: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een grenspost tussen stoer doen en smelten; de grap mag absurd zijn, maar de onderlaag moet kloppen.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1311",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 27",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1312",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 27",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1313",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 27",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1314",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 27",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een moreel verantwoord slecht plan. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1315",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 27",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1316",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 27",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1317",
+    "family": "De Centrale Bank van Kuskoersen",
+    "type": "open",
+    "title": "De Centrale Bank van Kuskoersen 27",
+    "scenario": "Open vraag uit De Centrale Bank van Kuskoersen: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een grap die ineens bekentenis blijkt; de conclusie moet een klein misdrijf tegen saaiheid plegen.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1318",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 27",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1319",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 27",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een parlementaire crisis in zijn buik. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1320",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 27",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1321",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 27",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1322",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 27",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1323",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 27",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1324",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "type": "open",
+    "title": "Het Paleis van Wederzijdse Sabotage 27",
+    "scenario": "Open vraag uit Het Paleis van Wederzijdse Sabotage: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een verlangen dat te goed gekleed is voor de gelegenheid; de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1325",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 27",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een stilte met teveel ondertiteling. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1326",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 27",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1327",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 27",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een avond die te onschuldig kijkt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1328",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 27",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1329",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 27",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een route naar dichterbij zonder vergunning. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1330",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 27",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1331",
+    "family": "Meldkamer van Te Veel Zin",
+    "type": "open",
+    "title": "Meldkamer van Te Veel Zin 27",
+    "scenario": "Open vraag uit Meldkamer van Te Veel Zin: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een diplomatiek incident rond haar naam; de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1332",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 27",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een gemis dat weigert netjes te wachten. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1333",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 27",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een telefoon die verdacht religieus oplicht. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1334",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 27",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een herinnering die parfum draagt. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1335",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 27",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een kus die formeel nog niet bestaat. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1336",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 27",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1337",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 27",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1338",
+    "family": "Keuringsdienst van Warme Blikken",
+    "type": "open",
+    "title": "Keuringsdienst van Warme Blikken 27",
+    "scenario": "Open vraag uit Keuringsdienst van Warme Blikken: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een rechtbank waar de hamer jaloers is op de spanning; de antwoordrichting moet een kleine staatsgreep tegen verveling zijn.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1339",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 27",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een grenspost tussen stoer doen en smelten. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1340",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 27",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1341",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 27",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1342",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 27",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1343",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 27",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een moreel verantwoord slecht plan. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1344",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 27",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1345",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "type": "open",
+    "title": "De Fabriek van Onhandige Complimenten 27",
+    "scenario": "Open vraag uit De Fabriek van Onhandige Complimenten: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een collectieve arbeidsovereenkomst voor vlinders; de redenering wint pas als ze ook een beetje schaamteloos is.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1346",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 27",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een grap die ineens bekentenis blijkt. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1347",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 27",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1348",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 27",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een parlementaire crisis in zijn buik. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1349",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 27",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1350",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 27",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1351",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 28",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1352",
+    "family": "Rechtbank der Kusmisdrijven",
+    "type": "open",
+    "title": "Rechtbank der Kusmisdrijven 28",
+    "scenario": "Open vraag uit Rechtbank der Kusmisdrijven: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een excuus om dichterbij te lezen tussen de regels; de satire moet doen alsof ze streng is en ondertussen knipogen.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1353",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 28",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1354",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 28",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een stilte met teveel ondertiteling. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1355",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 28",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1356",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 28",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een avond die te onschuldig kijkt. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1357",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 28",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1358",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 28",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een route naar dichterbij zonder vergunning. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1359",
+    "family": "Nachtelijk Parlementsdebat",
+    "type": "open",
+    "title": "Nachtelijk Parlementsdebat 28",
+    "scenario": "Open vraag uit Nachtelijk Parlementsdebat: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een appje dat zich gedraagt als staatsgreep; de beste route is niet bezit maar vrijwillig dichtbij willen zijn.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1360",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 28",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een diplomatiek incident rond haar naam. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1361",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 28",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een gemis dat weigert netjes te wachten. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1362",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 28",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een telefoon die verdacht religieus oplicht. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1363",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 28",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een herinnering die parfum draagt. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1364",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 28",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een kus die formeel nog niet bestaat. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1365",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 28",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1366",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "type": "open",
+    "title": "Gemeente Onbeheerste Tederheid 28",
+    "scenario": "Open vraag uit Gemeente Onbeheerste Tederheid: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft; de beste interpretatie laat Swahito verliezen en daar blij mee zijn.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1367",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 28",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1368",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 28",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een grenspost tussen stoer doen en smelten. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1369",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 28",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1370",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 28",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1371",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 28",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1372",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 28",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een moreel verantwoord slecht plan. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1373",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "type": "open",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 28",
+    "scenario": "Open vraag uit Crisiscentrum voor Te Leuke Vrouwen: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een gedachte die niet terug wil naar kantoor; de beste optie moet het absurde serieus nemen zonder serieus te worden.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1374",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 28",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1375",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 28",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een grap die ineens bekentenis blijkt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1376",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 28",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1377",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 28",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een parlementaire crisis in zijn buik. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1378",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 28",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1379",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 28",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1380",
+    "family": "Het Circus der Rationele Excuses",
+    "type": "open",
+    "title": "Het Circus der Rationele Excuses 28",
+    "scenario": "Open vraag uit Het Circus der Rationele Excuses: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een hypothetische aanraking met veel te veel jurisprudentie; de oplossing moet tegelijk brutaal, teder en licht onwettig voelen.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1381",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 28",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1382",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 28",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1383",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 28",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een stilte met teveel ondertiteling. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1384",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 28",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1385",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 28",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een avond die te onschuldig kijkt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1386",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 28",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1387",
+    "family": "De Belastingdienst der Binnenpret",
+    "type": "open",
+    "title": "De Belastingdienst der Binnenpret 28",
+    "scenario": "Open vraag uit De Belastingdienst der Binnenpret: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een route naar dichterbij zonder vergunning; de beste optie laat verlangen slim genoeg zijn om niet plat te worden.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1388",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 28",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1389",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 28",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een diplomatiek incident rond haar naam. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1390",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 28",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een gemis dat weigert netjes te wachten. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1391",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 28",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een telefoon die verdacht religieus oplicht. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1392",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 28",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een herinnering die parfum draagt. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1393",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 28",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een kus die formeel nog niet bestaat. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1394",
+    "family": "Het Bureau voor Romantische Fraude",
+    "type": "open",
+    "title": "Het Bureau voor Romantische Fraude 28",
+    "scenario": "Open vraag uit Het Bureau voor Romantische Fraude: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een wetenschappelijke meting die begint te blozen; de hypothese moet de chaos niet oplossen maar goed aankleden.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1395",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 28",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1396",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 28",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1397",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 28",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een grenspost tussen stoer doen en smelten. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1398",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 28",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1399",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 28",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1400",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 28",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1401",
+    "family": "Ministerie van Ochtendverlangen",
+    "type": "open",
+    "title": "Ministerie van Ochtendverlangen 29",
+    "scenario": "Open vraag uit Ministerie van Ochtendverlangen: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een moreel verantwoord slecht plan; de waarheid moet via een omweg komen omdat directe routes te braaf zijn.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1402",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 29",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1403",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 29",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1404",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 29",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een grap die ineens bekentenis blijkt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1405",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 29",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1406",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 29",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een parlementaire crisis in zijn buik. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1407",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 29",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1408",
+    "family": "Vrije Republiek Swahito",
+    "type": "open",
+    "title": "Vrije Republiek Swahito 29",
+    "scenario": "Open vraag uit Vrije Republiek Swahito: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht; de conclusie moet lijken op bewijsvoering en eindigen als bekentenis.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1409",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 29",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1410",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 29",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1411",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 29",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1412",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 29",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een stilte met teveel ondertiteling. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1413",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 29",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1414",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 29",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een avond die te onschuldig kijkt. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1415",
+    "family": "Ruimtestation Swahita-9",
+    "type": "open",
+    "title": "Ruimtestation Swahita-9 29",
+    "scenario": "Open vraag uit Ruimtestation Swahita-9: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een embargo op afstandelijkheid dat niemand wil handhaven; de kern is dat belachelijk doen soms de eerlijkste route is.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1416",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 29",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een route naar dichterbij zonder vergunning. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1417",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 29",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1418",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 29",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een diplomatiek incident rond haar naam. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1419",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 29",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een gemis dat weigert netjes te wachten. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1420",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 29",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een telefoon die verdacht religieus oplicht. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1421",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 29",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een herinnering die parfum draagt. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1422",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "type": "open",
+    "title": "Senaat der Onbeschaafde Fantasie 29",
+    "scenario": "Open vraag uit Senaat der Onbeschaafde Fantasie: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een kus die formeel nog niet bestaat; de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1423",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 29",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1424",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 29",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1425",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 29",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1426",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 29",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een grenspost tussen stoer doen en smelten. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1427",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 29",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1428",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 29",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1429",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "type": "open",
+    "title": "De Onderzeedienst van Diepe Gedachten 29",
+    "scenario": "Open vraag uit De Onderzeedienst van Diepe Gedachten: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een blik die per ongeluk grondgebied verovert; de vraag moet voelen als een rechtszaak die eindigt in binnenpret.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1430",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 29",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een moreel verantwoord slecht plan. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1431",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 29",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1432",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 29",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1433",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 29",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een grap die ineens bekentenis blijkt. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1434",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 29",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1435",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 29",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een parlementaire crisis in zijn buik. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1436",
+    "family": "De Spoorwegen van Verlangen",
+    "type": "open",
+    "title": "De Spoorwegen van Verlangen 29",
+    "scenario": "Open vraag uit De Spoorwegen van Verlangen: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een lach die de notulen onbruikbaar maakt; de clou moet absurdistisch zijn zonder willekeurig te worden.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1437",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 29",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1438",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 29",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1439",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 29",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1440",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 29",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1441",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 29",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een stilte met teveel ondertiteling. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1442",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 29",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1443",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "type": "open",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 29",
+    "scenario": "Open vraag uit De Koninklijke Academie voor Te Lang Kijken: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een avond die te onschuldig kijkt; de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1444",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 29",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1445",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 29",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een route naar dichterbij zonder vergunning. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1446",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 29",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1447",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 29",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een diplomatiek incident rond haar naam. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1448",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 29",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een gemis dat weigert netjes te wachten. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1449",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 29",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een telefoon die verdacht religieus oplicht. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1450",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "type": "open",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 29",
+    "scenario": "Open vraag uit Het Nationaal Instituut voor Schaamteloos Gemis: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een herinnering die parfum draagt; de juiste richting weigert te kiezen tussen intelligentie en zin.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1451",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 30",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een kus die formeel nog niet bestaat. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1452",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 30",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1453",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 30",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1454",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 30",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1455",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 30",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een grenspost tussen stoer doen en smelten. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1456",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 30",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1457",
+    "family": "Commissie Normaal Doen",
+    "type": "open",
+    "title": "Commissie Normaal Doen 30",
+    "scenario": "Open vraag uit Commissie Normaal Doen: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een droom die zich voordoet als beleidsmemo; de mooiste conclusie laat Swahita groter worden dan het systeem.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1458",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 30",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1459",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 30",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een moreel verantwoord slecht plan. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1460",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 30",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1461",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 30",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1462",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 30",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een grap die ineens bekentenis blijkt. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1463",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 30",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1464",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "type": "open",
+    "title": "Universiteit der Belachelijke Liefdeslogica 30",
+    "scenario": "Open vraag uit Universiteit der Belachelijke Liefdeslogica: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een parlementaire crisis in zijn buik; de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1465",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 30",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1466",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 30",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1467",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 30",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1468",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 30",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1469",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 30",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1470",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 30",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een stilte met teveel ondertiteling. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1471",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "type": "open",
+    "title": "Kabinet van Onhoudbare Gedachten 30",
+    "scenario": "Open vraag uit Kabinet van Onhoudbare Gedachten: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een festival van bijbedoelingen zonder entreebewijs; de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1472",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 30",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een avond die te onschuldig kijkt. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1473",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 30",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1474",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 30",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een route naar dichterbij zonder vergunning. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1475",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 30",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1476",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 30",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een diplomatiek incident rond haar naam. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1477",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 30",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een gemis dat weigert netjes te wachten. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1478",
+    "family": "Meteorologisch Bureau van Gemis",
+    "type": "open",
+    "title": "Meteorologisch Bureau van Gemis 30",
+    "scenario": "Open vraag uit Meteorologisch Bureau van Gemis: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een telefoon die verdacht religieus oplicht; de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1479",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 30",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een herinnering die parfum draagt. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1480",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 30",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een kus die formeel nog niet bestaat. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1481",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 30",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1482",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 30",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1483",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 30",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1484",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 30",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een grenspost tussen stoer doen en smelten. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1485",
+    "family": "Bordeel van Abstracte Begrippen",
+    "type": "open",
+    "title": "Bordeel van Abstracte Begrippen 30",
+    "scenario": "Open vraag uit Bordeel van Abstracte Begrippen: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een kamer die ineens te klein wordt voor alle chemie; de beste lezing maakt de grap groter en de liefde stiller.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1486",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 30",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1487",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 30",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1488",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 30",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een moreel verantwoord slecht plan. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1489",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 30",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1490",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 30",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1491",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 30",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een grap die ineens bekentenis blijkt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1492",
+    "family": "Het Hooggerechtshof van Appjes",
+    "type": "open",
+    "title": "Het Hooggerechtshof van Appjes 30",
+    "scenario": "Open vraag uit Het Hooggerechtshof van Appjes: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is; de uitkomst moet klinken alsof ratio nog net haar jas kon pakken.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1493",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 30",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een parlementaire crisis in zijn buik. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1494",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 30",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1495",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 30",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1496",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 30",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1497",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 30",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1498",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 30",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1499",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "type": "open",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 30",
+    "scenario": "Open vraag uit De Stichting Tegen Al Te Simpele Liefde: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een stilte met teveel ondertiteling; de lezing moet de bureaucratie vernederen zonder de liefde te vernederen.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1500",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 30",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1501",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 31",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een avond die te onschuldig kijkt. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1502",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 31",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1503",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 31",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een route naar dichterbij zonder vergunning. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1504",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 31",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1505",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 31",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een diplomatiek incident rond haar naam. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1506",
+    "family": "Erotische Diplomatie",
+    "type": "open",
+    "title": "Erotische Diplomatie 31",
+    "scenario": "Open vraag uit Erotische Diplomatie: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een gemis dat weigert netjes te wachten; de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1507",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 31",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een telefoon die verdacht religieus oplicht. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1508",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 31",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een herinnering die parfum draagt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1509",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 31",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een kus die formeel nog niet bestaat. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1510",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 31",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1511",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 31",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1512",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 31",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1513",
+    "family": "Archief van Verboden Glimlachen",
+    "type": "open",
+    "title": "Archief van Verboden Glimlachen 31",
+    "scenario": "Open vraag uit Archief van Verboden Glimlachen: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een grenspost tussen stoer doen en smelten; de juiste richting moet klinken als flirten met een masterdiploma in onzin.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1514",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 31",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1515",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 31",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1516",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 31",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1517",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 31",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een moreel verantwoord slecht plan. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1518",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 31",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1519",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 31",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1520",
+    "family": "De Liefdesdouane",
+    "type": "open",
+    "title": "De Liefdesdouane 31",
+    "scenario": "Open vraag uit De Liefdesdouane: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een grap die ineens bekentenis blijkt; de elegante draai zit in vrijwillige overgave zonder gezichtsverlies.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1521",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 31",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1522",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 31",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een parlementaire crisis in zijn buik. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1523",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 31",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1524",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 31",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1525",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 31",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1526",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 31",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1527",
+    "family": "Raad voor Affectieve Overmacht",
+    "type": "open",
+    "title": "Raad voor Affectieve Overmacht 31",
+    "scenario": "Open vraag uit Raad voor Affectieve Overmacht: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een verlangen dat te goed gekleed is voor de gelegenheid; de grap mag absurd zijn, maar de onderlaag moet kloppen.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1528",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 31",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een stilte met teveel ondertiteling. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1529",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 31",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1530",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 31",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een avond die te onschuldig kijkt. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1531",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 31",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1532",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 31",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een route naar dichterbij zonder vergunning. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1533",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 31",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1534",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "type": "open",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 31",
+    "scenario": "Open vraag uit Het Hotel van Uitgestelde Zelfbeheersing: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een diplomatiek incident rond haar naam; de conclusie moet een klein misdrijf tegen saaiheid plegen.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1535",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 31",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een gemis dat weigert netjes te wachten. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1536",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 31",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een telefoon die verdacht religieus oplicht. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1537",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 31",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een herinnering die parfum draagt. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1538",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 31",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een kus die formeel nog niet bestaat. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1539",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 31",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1540",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 31",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1541",
+    "family": "De Piratenzender van Swahito",
+    "type": "open",
+    "title": "De Piratenzender van Swahito 31",
+    "scenario": "Open vraag uit De Piratenzender van Swahito: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een rechtbank waar de hamer jaloers is op de spanning; de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1542",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 31",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een grenspost tussen stoer doen en smelten. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1543",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 31",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1544",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 31",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1545",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 31",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1546",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 31",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een moreel verantwoord slecht plan. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1547",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 31",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1548",
+    "family": "De Geheime Dienst van Haar Naam",
+    "type": "open",
+    "title": "De Geheime Dienst van Haar Naam 31",
+    "scenario": "Open vraag uit De Geheime Dienst van Haar Naam: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een collectieve arbeidsovereenkomst voor vlinders; de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1549",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 31",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een grap die ineens bekentenis blijkt. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1550",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 31",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1551",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 32",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een parlementaire crisis in zijn buik. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1552",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 32",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1553",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 32",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1554",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 32",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1555",
+    "family": "Quantumromantiek",
+    "type": "open",
+    "title": "Quantumromantiek 32",
+    "scenario": "Open vraag uit Quantumromantiek: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een excuus om dichterbij te lezen tussen de regels; de antwoordrichting moet een kleine staatsgreep tegen verveling zijn.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1556",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 32",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1557",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 32",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een stilte met teveel ondertiteling. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1558",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 32",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1559",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 32",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een avond die te onschuldig kijkt. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1560",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 32",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1561",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 32",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een route naar dichterbij zonder vergunning. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1562",
+    "family": "Dienst Binnenlandse Vlinders",
+    "type": "open",
+    "title": "Dienst Binnenlandse Vlinders 32",
+    "scenario": "Open vraag uit Dienst Binnenlandse Vlinders: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een appje dat zich gedraagt als staatsgreep; de redenering wint pas als ze ook een beetje schaamteloos is.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1563",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 32",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een diplomatiek incident rond haar naam. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1564",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 32",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een gemis dat weigert netjes te wachten. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1565",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 32",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een telefoon die verdacht religieus oplicht. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1566",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 32",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een herinnering die parfum draagt. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1567",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 32",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een kus die formeel nog niet bestaat. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1568",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 32",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1569",
+    "family": "Observatorium voor Haar Effect",
+    "type": "open",
+    "title": "Observatorium voor Haar Effect 32",
+    "scenario": "Open vraag uit Observatorium voor Haar Effect: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft; de satire moet doen alsof ze streng is en ondertussen knipogen.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1570",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 32",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1571",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 32",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een grenspost tussen stoer doen en smelten. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1572",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 32",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1573",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 32",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1574",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 32",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1575",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 32",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een moreel verantwoord slecht plan. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1576",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "type": "open",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 32",
+    "scenario": "Open vraag uit Bibliotheek van Ongepaste Vergelijkingen: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een gedachte die niet terug wil naar kantoor; de beste route is niet bezit maar vrijwillig dichtbij willen zijn.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1577",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 32",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1578",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 32",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een grap die ineens bekentenis blijkt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1579",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 32",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1580",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 32",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een parlementaire crisis in zijn buik. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1581",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 32",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1582",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 32",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1583",
+    "family": "De Galactische Kusraad",
+    "type": "open",
+    "title": "De Galactische Kusraad 32",
+    "scenario": "Open vraag uit De Galactische Kusraad: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een hypothetische aanraking met veel te veel jurisprudentie; de beste interpretatie laat Swahito verliezen en daar blij mee zijn.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1584",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 32",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1585",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 32",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1586",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 32",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een stilte met teveel ondertiteling. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1587",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 32",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1588",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 32",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een avond die te onschuldig kijkt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1589",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 32",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1590",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "type": "open",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 32",
+    "scenario": "Open vraag uit De Tuinbouwschool voor Witlof-erotiek: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een route naar dichterbij zonder vergunning; de beste optie moet het absurde serieus nemen zonder serieus te worden.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1591",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 32",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1592",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 32",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een diplomatiek incident rond haar naam. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1593",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 32",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een gemis dat weigert netjes te wachten. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1594",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 32",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een telefoon die verdacht religieus oplicht. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1595",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 32",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een herinnering die parfum draagt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1596",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 32",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een kus die formeel nog niet bestaat. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1597",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "type": "open",
+    "title": "Het Pretpark van Vrijwillige Ondergang 32",
+    "scenario": "Open vraag uit Het Pretpark van Vrijwillige Ondergang: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een wetenschappelijke meting die begint te blozen; de oplossing moet tegelijk brutaal, teder en licht onwettig voelen.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1598",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 32",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1599",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 32",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1600",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 32",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een grenspost tussen stoer doen en smelten. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1601",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 33",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1602",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 33",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1603",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 33",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1604",
+    "family": "Kosmisch Loket",
+    "type": "open",
+    "title": "Kosmisch Loket 33",
+    "scenario": "Open vraag uit Kosmisch Loket: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een moreel verantwoord slecht plan; de beste optie laat verlangen slim genoeg zijn om niet plat te worden.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1605",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 33",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1606",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 33",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1607",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 33",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een grap die ineens bekentenis blijkt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1608",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 33",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1609",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 33",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een parlementaire crisis in zijn buik. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1610",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 33",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1611",
+    "family": "Hof van Ongepaste Timing",
+    "type": "open",
+    "title": "Hof van Ongepaste Timing 33",
+    "scenario": "Open vraag uit Hof van Ongepaste Timing: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht; de hypothese moet de chaos niet oplossen maar goed aankleden.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1612",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 33",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1613",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 33",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1614",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 33",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1615",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 33",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een stilte met teveel ondertiteling. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1616",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 33",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1617",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 33",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een avond die te onschuldig kijkt. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1618",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "type": "open",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 33",
+    "scenario": "Open vraag uit Het Nationaal Museum van Bijna-Zoenen: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een embargo op afstandelijkheid dat niemand wil handhaven; de waarheid moet via een omweg komen omdat directe routes te braaf zijn.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1619",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 33",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een route naar dichterbij zonder vergunning. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1620",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 33",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1621",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 33",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een diplomatiek incident rond haar naam. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1622",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 33",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een gemis dat weigert netjes te wachten. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1623",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 33",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een telefoon die verdacht religieus oplicht. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1624",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 33",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een herinnering die parfum draagt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1625",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "type": "open",
+    "title": "Afdeling Noodlanding in Haar Nek 33",
+    "scenario": "Open vraag uit Afdeling Noodlanding in Haar Nek: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een kus die formeel nog niet bestaat; de conclusie moet lijken op bewijsvoering en eindigen als bekentenis.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1626",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 33",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1627",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 33",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1628",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 33",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1629",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 33",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een grenspost tussen stoer doen en smelten. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1630",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 33",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1631",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 33",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1632",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "type": "open",
+    "title": "Kantoor voor Zachte Staatsgrepen 33",
+    "scenario": "Open vraag uit Kantoor voor Zachte Staatsgrepen: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een blik die per ongeluk grondgebied verovert; de kern is dat belachelijk doen soms de eerlijkste route is.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1633",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 33",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een moreel verantwoord slecht plan. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1634",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 33",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1635",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 33",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1636",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 33",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een grap die ineens bekentenis blijkt. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1637",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 33",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1638",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 33",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een parlementaire crisis in zijn buik. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1639",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "type": "open",
+    "title": "Het Lab voor Onmogelijke Chemie 33",
+    "scenario": "Open vraag uit Het Lab voor Onmogelijke Chemie: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een lach die de notulen onbruikbaar maakt; de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1640",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 33",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1641",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 33",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1642",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 33",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1643",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 33",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1644",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 33",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een stilte met teveel ondertiteling. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1645",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 33",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1646",
+    "family": "De Filosofische Snackbar",
+    "type": "open",
+    "title": "De Filosofische Snackbar 33",
+    "scenario": "Open vraag uit De Filosofische Snackbar: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een avond die te onschuldig kijkt; de vraag moet voelen als een rechtszaak die eindigt in binnenpret.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1647",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 33",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1648",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 33",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een route naar dichterbij zonder vergunning. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1649",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 33",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1650",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 33",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een diplomatiek incident rond haar naam. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1651",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 34",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een gemis dat weigert netjes te wachten. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1652",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 34",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een telefoon die verdacht religieus oplicht. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1653",
+    "family": "Bureaucratie van Begeerte",
+    "type": "open",
+    "title": "Bureaucratie van Begeerte 34",
+    "scenario": "Open vraag uit Bureaucratie van Begeerte: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een herinnering die parfum draagt; de clou moet absurdistisch zijn zonder willekeurig te worden.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1654",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 34",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een kus die formeel nog niet bestaat. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1655",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 34",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1656",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 34",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1657",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 34",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1658",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 34",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een grenspost tussen stoer doen en smelten. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1659",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 34",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1660",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "type": "open",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 34",
+    "scenario": "Open vraag uit Instituut voor Onredelijke Aantrekkingskracht: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een droom die zich voordoet als beleidsmemo; de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1661",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 34",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1662",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 34",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een moreel verantwoord slecht plan. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1663",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 34",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1664",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 34",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1665",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 34",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een grap die ineens bekentenis blijkt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1666",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 34",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1667",
+    "family": "De Centrale Bank van Kuskoersen",
+    "type": "open",
+    "title": "De Centrale Bank van Kuskoersen 34",
+    "scenario": "Open vraag uit De Centrale Bank van Kuskoersen: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een parlementaire crisis in zijn buik; de juiste richting weigert te kiezen tussen intelligentie en zin.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1668",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 34",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1669",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 34",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1670",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 34",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1671",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 34",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1672",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 34",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1673",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 34",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een stilte met teveel ondertiteling. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1674",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "type": "open",
+    "title": "Het Paleis van Wederzijdse Sabotage 34",
+    "scenario": "Open vraag uit Het Paleis van Wederzijdse Sabotage: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een festival van bijbedoelingen zonder entreebewijs; de mooiste conclusie laat Swahita groter worden dan het systeem.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1675",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 34",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een avond die te onschuldig kijkt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1676",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 34",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1677",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 34",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een route naar dichterbij zonder vergunning. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1678",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 34",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1679",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 34",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een diplomatiek incident rond haar naam. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1680",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 34",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een gemis dat weigert netjes te wachten. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1681",
+    "family": "Meldkamer van Te Veel Zin",
+    "type": "open",
+    "title": "Meldkamer van Te Veel Zin 34",
+    "scenario": "Open vraag uit Meldkamer van Te Veel Zin: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een telefoon die verdacht religieus oplicht; de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1682",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 34",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een herinnering die parfum draagt. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1683",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 34",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een kus die formeel nog niet bestaat. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1684",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 34",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1685",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 34",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1686",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 34",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1687",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 34",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een grenspost tussen stoer doen en smelten. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1688",
+    "family": "Keuringsdienst van Warme Blikken",
+    "type": "open",
+    "title": "Keuringsdienst van Warme Blikken 34",
+    "scenario": "Open vraag uit Keuringsdienst van Warme Blikken: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een kamer die ineens te klein wordt voor alle chemie; de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1689",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 34",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1690",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 34",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1691",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 34",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een moreel verantwoord slecht plan. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1692",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 34",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1693",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 34",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1694",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 34",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een grap die ineens bekentenis blijkt. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1695",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "type": "open",
+    "title": "De Fabriek van Onhandige Complimenten 34",
+    "scenario": "Open vraag uit De Fabriek van Onhandige Complimenten: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is; de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1696",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 34",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een parlementaire crisis in zijn buik. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1697",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 34",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1698",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 34",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1699",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 34",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1700",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 34",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1701",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 35",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1702",
+    "family": "Rechtbank der Kusmisdrijven",
+    "type": "open",
+    "title": "Rechtbank der Kusmisdrijven 35",
+    "scenario": "Open vraag uit Rechtbank der Kusmisdrijven: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een stilte met teveel ondertiteling; de beste lezing maakt de grap groter en de liefde stiller.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1703",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 35",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1704",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 35",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een avond die te onschuldig kijkt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1705",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 35",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1706",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 35",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een route naar dichterbij zonder vergunning. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1707",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 35",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1708",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 35",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een diplomatiek incident rond haar naam. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1709",
+    "family": "Nachtelijk Parlementsdebat",
+    "type": "open",
+    "title": "Nachtelijk Parlementsdebat 35",
+    "scenario": "Open vraag uit Nachtelijk Parlementsdebat: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een gemis dat weigert netjes te wachten; de uitkomst moet klinken alsof ratio nog net haar jas kon pakken.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1710",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 35",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een telefoon die verdacht religieus oplicht. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1711",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 35",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een herinnering die parfum draagt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1712",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 35",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een kus die formeel nog niet bestaat. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1713",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 35",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1714",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 35",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1715",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 35",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1716",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "type": "open",
+    "title": "Gemeente Onbeheerste Tederheid 35",
+    "scenario": "Open vraag uit Gemeente Onbeheerste Tederheid: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een grenspost tussen stoer doen en smelten; de lezing moet de bureaucratie vernederen zonder de liefde te vernederen.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1717",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 35",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1718",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 35",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1719",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 35",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1720",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 35",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een moreel verantwoord slecht plan. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1721",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 35",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1722",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 35",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1723",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "type": "open",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 35",
+    "scenario": "Open vraag uit Crisiscentrum voor Te Leuke Vrouwen: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een grap die ineens bekentenis blijkt; de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1724",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 35",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1725",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 35",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een parlementaire crisis in zijn buik. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1726",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 35",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1727",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 35",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1728",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 35",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1729",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 35",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1730",
+    "family": "Het Circus der Rationele Excuses",
+    "type": "open",
+    "title": "Het Circus der Rationele Excuses 35",
+    "scenario": "Open vraag uit Het Circus der Rationele Excuses: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een verlangen dat te goed gekleed is voor de gelegenheid; de juiste richting moet klinken als flirten met een masterdiploma in onzin.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1731",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 35",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een stilte met teveel ondertiteling. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1732",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 35",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1733",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 35",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een avond die te onschuldig kijkt. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1734",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 35",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1735",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 35",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een route naar dichterbij zonder vergunning. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1736",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 35",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1737",
+    "family": "De Belastingdienst der Binnenpret",
+    "type": "open",
+    "title": "De Belastingdienst der Binnenpret 35",
+    "scenario": "Open vraag uit De Belastingdienst der Binnenpret: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een diplomatiek incident rond haar naam; de elegante draai zit in vrijwillige overgave zonder gezichtsverlies.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1738",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 35",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een gemis dat weigert netjes te wachten. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1739",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 35",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een telefoon die verdacht religieus oplicht. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1740",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 35",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een herinnering die parfum draagt. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1741",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 35",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een kus die formeel nog niet bestaat. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1742",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 35",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1743",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 35",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1744",
+    "family": "Het Bureau voor Romantische Fraude",
+    "type": "open",
+    "title": "Het Bureau voor Romantische Fraude 35",
+    "scenario": "Open vraag uit Het Bureau voor Romantische Fraude: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een rechtbank waar de hamer jaloers is op de spanning; de grap mag absurd zijn, maar de onderlaag moet kloppen.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1745",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 35",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een grenspost tussen stoer doen en smelten. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1746",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 35",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1747",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 35",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1748",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 35",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1749",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 35",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een moreel verantwoord slecht plan. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1750",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 35",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1751",
+    "family": "Ministerie van Ochtendverlangen",
+    "type": "open",
+    "title": "Ministerie van Ochtendverlangen 36",
+    "scenario": "Open vraag uit Ministerie van Ochtendverlangen: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een collectieve arbeidsovereenkomst voor vlinders; de conclusie moet een klein misdrijf tegen saaiheid plegen.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1752",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 36",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een grap die ineens bekentenis blijkt. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1753",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 36",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1754",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 36",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een parlementaire crisis in zijn buik. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1755",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 36",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1756",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 36",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1757",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 36",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1758",
+    "family": "Vrije Republiek Swahito",
+    "type": "open",
+    "title": "Vrije Republiek Swahito 36",
+    "scenario": "Open vraag uit Vrije Republiek Swahito: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een excuus om dichterbij te lezen tussen de regels; de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1759",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 36",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1760",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 36",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een stilte met teveel ondertiteling. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1761",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 36",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1762",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 36",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een avond die te onschuldig kijkt. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1763",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 36",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1764",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 36",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een route naar dichterbij zonder vergunning. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1765",
+    "family": "Ruimtestation Swahita-9",
+    "type": "open",
+    "title": "Ruimtestation Swahita-9 36",
+    "scenario": "Open vraag uit Ruimtestation Swahita-9: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een appje dat zich gedraagt als staatsgreep; de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1766",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 36",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een diplomatiek incident rond haar naam. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1767",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 36",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een gemis dat weigert netjes te wachten. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1768",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 36",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een telefoon die verdacht religieus oplicht. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1769",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 36",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een herinnering die parfum draagt. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1770",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 36",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een kus die formeel nog niet bestaat. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1771",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 36",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1772",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "type": "open",
+    "title": "Senaat der Onbeschaafde Fantasie 36",
+    "scenario": "Open vraag uit Senaat der Onbeschaafde Fantasie: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft; de antwoordrichting moet een kleine staatsgreep tegen verveling zijn.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1773",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 36",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1774",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 36",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een grenspost tussen stoer doen en smelten. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1775",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 36",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1776",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 36",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1777",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 36",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1778",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 36",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een moreel verantwoord slecht plan. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1779",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "type": "open",
+    "title": "De Onderzeedienst van Diepe Gedachten 36",
+    "scenario": "Open vraag uit De Onderzeedienst van Diepe Gedachten: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een gedachte die niet terug wil naar kantoor; de redenering wint pas als ze ook een beetje schaamteloos is.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1780",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 36",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1781",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 36",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een grap die ineens bekentenis blijkt. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1782",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 36",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1783",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 36",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een parlementaire crisis in zijn buik. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1784",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 36",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1785",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 36",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1786",
+    "family": "De Spoorwegen van Verlangen",
+    "type": "open",
+    "title": "De Spoorwegen van Verlangen 36",
+    "scenario": "Open vraag uit De Spoorwegen van Verlangen: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een hypothetische aanraking met veel te veel jurisprudentie; de satire moet doen alsof ze streng is en ondertussen knipogen.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1787",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 36",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1788",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 36",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1789",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 36",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een stilte met teveel ondertiteling. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1790",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 36",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1791",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 36",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een avond die te onschuldig kijkt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1792",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 36",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1793",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "type": "open",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 36",
+    "scenario": "Open vraag uit De Koninklijke Academie voor Te Lang Kijken: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een route naar dichterbij zonder vergunning; de beste route is niet bezit maar vrijwillig dichtbij willen zijn.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1794",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 36",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1795",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 36",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een diplomatiek incident rond haar naam. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1796",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 36",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een gemis dat weigert netjes te wachten. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1797",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 36",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een telefoon die verdacht religieus oplicht. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1798",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 36",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een herinnering die parfum draagt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1799",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 36",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een kus die formeel nog niet bestaat. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1800",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "type": "open",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 36",
+    "scenario": "Open vraag uit Het Nationaal Instituut voor Schaamteloos Gemis: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een wetenschappelijke meting die begint te blozen; de beste interpretatie laat Swahito verliezen en daar blij mee zijn.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1801",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 37",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1802",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 37",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1803",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 37",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een grenspost tussen stoer doen en smelten. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1804",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 37",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1805",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 37",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een compliment raakt overgekwalificeerd; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1806",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 37",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1807",
+    "family": "Commissie Normaal Doen",
+    "type": "open",
+    "title": "Commissie Normaal Doen 37",
+    "scenario": "Open vraag uit Commissie Normaal Doen: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een moreel verantwoord slecht plan; de beste optie moet het absurde serieus nemen zonder serieus te worden.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1808",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 37",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1809",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 37",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1810",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 37",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een grap die ineens bekentenis blijkt. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1811",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 37",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1812",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 37",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een blik duurt drie seconden te lang; de inzet is een parlementaire crisis in zijn buik. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1813",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 37",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1814",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "type": "open",
+    "title": "Universiteit der Belachelijke Liefdeslogica 37",
+    "scenario": "Open vraag uit Universiteit der Belachelijke Liefdeslogica: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht; de oplossing moet tegelijk brutaal, teder en licht onwettig voelen.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1815",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 37",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1816",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 37",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1817",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 37",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1818",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 37",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een stilte met teveel ondertiteling. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1819",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 37",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe de avond doet alsof hij onschuldig is; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1820",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 37",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een avond die te onschuldig kijkt. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1821",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "type": "open",
+    "title": "Kabinet van Onhoudbare Gedachten 37",
+    "scenario": "Open vraag uit Kabinet van Onhoudbare Gedachten: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een embargo op afstandelijkheid dat niemand wil handhaven; de beste optie laat verlangen slim genoeg zijn om niet plat te worden.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1822",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 37",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een route naar dichterbij zonder vergunning. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1823",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 37",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1824",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 37",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een diplomatiek incident rond haar naam. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1825",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 37",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een gemis dat weigert netjes te wachten. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1826",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 37",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een telefoon die verdacht religieus oplicht. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1827",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 37",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een herinnering die parfum draagt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1828",
+    "family": "Meteorologisch Bureau van Gemis",
+    "type": "open",
+    "title": "Meteorologisch Bureau van Gemis 37",
+    "scenario": "Open vraag uit Meteorologisch Bureau van Gemis: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een kus die formeel nog niet bestaat; de hypothese moet de chaos niet oplossen maar goed aankleden.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1829",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 37",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1830",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 37",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1831",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 37",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1832",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 37",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een grenspost tussen stoer doen en smelten. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1833",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 37",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe hij wil stoer blijven; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1834",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 37",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1835",
+    "family": "Bordeel van Abstracte Begrippen",
+    "type": "open",
+    "title": "Bordeel van Abstracte Begrippen 37",
+    "scenario": "Open vraag uit Bordeel van Abstracte Begrippen: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een blik die per ongeluk grondgebied verovert; de waarheid moet via een omweg komen omdat directe routes te braaf zijn.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1836",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 37",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een moreel verantwoord slecht plan. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1837",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 37",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1838",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 37",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1839",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 37",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een grap die ineens bekentenis blijkt. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1840",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 37",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1841",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 37",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een parlementaire crisis in zijn buik. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1842",
+    "family": "Het Hooggerechtshof van Appjes",
+    "type": "open",
+    "title": "Het Hooggerechtshof van Appjes 37",
+    "scenario": "Open vraag uit Het Hooggerechtshof van Appjes: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een lach die de notulen onbruikbaar maakt; de conclusie moet lijken op bewijsvoering en eindigen als bekentenis.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1843",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 37",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1844",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 37",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1845",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 37",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1846",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 37",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1847",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 37",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe de zwaartekracht kiest partij; de inzet is een stilte met teveel ondertiteling. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1848",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 37",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1849",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "type": "open",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 37",
+    "scenario": "Open vraag uit De Stichting Tegen Al Te Simpele Liefde: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een avond die te onschuldig kijkt; de kern is dat belachelijk doen soms de eerlijkste route is.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1850",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 37",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1851",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 38",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een route naar dichterbij zonder vergunning. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1852",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 38",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1853",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 38",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een diplomatiek incident rond haar naam. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1854",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 38",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe het universum vraagt om toelichting; de inzet is een gemis dat weigert netjes te wachten. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1855",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 38",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een telefoon die verdacht religieus oplicht. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1856",
+    "family": "Erotische Diplomatie",
+    "type": "open",
+    "title": "Erotische Diplomatie 38",
+    "scenario": "Open vraag uit Erotische Diplomatie: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een herinnering die parfum draagt; de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1857",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 38",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een kus die formeel nog niet bestaat. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1858",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 38",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1859",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 38",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1860",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 38",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1861",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 38",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe Swahito doet alsof hij rationeel is; de inzet is een grenspost tussen stoer doen en smelten. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1862",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 38",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1863",
+    "family": "Archief van Verboden Glimlachen",
+    "type": "open",
+    "title": "Archief van Verboden Glimlachen 38",
+    "scenario": "Open vraag uit Archief van Verboden Glimlachen: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik academisch klinkende onzin met echte kern, verwerk dat de realiteit probeert normaal te blijven, en onthoud: de inzet is een droom die zich voordoet als beleidsmemo; de vraag moet voelen als een rechtszaak die eindigt in binnenpret.",
+    "sample": "mislukte poging tot administratieve neutraliteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: mislukte poging tot administratieve neutraliteit."
+  },
+  {
+    "id": "q-1864",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 38",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1865",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 38",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een moreel verantwoord slecht plan. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1866",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 38",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1867",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 38",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1868",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 38",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe een gedachte weigert terug te keren; de inzet is een grap die ineens bekentenis blijkt. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1869",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 38",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1870",
+    "family": "De Liefdesdouane",
+    "type": "open",
+    "title": "De Liefdesdouane 38",
+    "scenario": "Open vraag uit De Liefdesdouane: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik absurde etiquette rond te veel zin, verwerk dat zij zegt iets kleins, en onthoud: de inzet is een parlementaire crisis in zijn buik; de clou moet absurdistisch zijn zonder willekeurig te worden.",
+    "sample": "miniatuuruitspraak met disproportioneel effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: miniatuuruitspraak met disproportioneel effect."
+  },
+  {
+    "id": "q-1871",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 38",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1872",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 38",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1873",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 38",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1874",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 38",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1875",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 38",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een appje verandert de luchtdruk; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1876",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 38",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een stilte met teveel ondertiteling. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1877",
+    "family": "Raad voor Affectieve Overmacht",
+    "type": "open",
+    "title": "Raad voor Affectieve Overmacht 38",
+    "scenario": "Open vraag uit Raad voor Affectieve Overmacht: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik diplomatieke verleiding, verwerk dat een kus wordt hypothetisch besproken, en onthoud: de inzet is een festival van bijbedoelingen zonder entreebewijs; de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen.",
+    "sample": "theoretische escalatie met praktische belangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: theoretische escalatie met praktische belangen."
+  },
+  {
+    "id": "q-1878",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 38",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een avond die te onschuldig kijkt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1879",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 38",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1880",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 38",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een route naar dichterbij zonder vergunning. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1881",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 38",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1882",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 38",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een grap wordt te eerlijk; de inzet is een diplomatiek incident rond haar naam. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1883",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 38",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een gemis dat weigert netjes te wachten. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1884",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "type": "open",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 38",
+    "scenario": "Open vraag uit Het Hotel van Uitgestelde Zelfbeheersing: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik publieke orde rond prive-verlangen, verwerk dat zijn hart voert wanbeleid, en onthoud: de inzet is een telefoon die verdacht religieus oplicht; de juiste richting weigert te kiezen tussen intelligentie en zin.",
+    "sample": "begrotingstekort door tederheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: begrotingstekort door tederheid."
+  },
+  {
+    "id": "q-1885",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 38",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een herinnering die parfum draagt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1886",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 38",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een kus die formeel nog niet bestaat. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1887",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 38",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 2,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1888",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 38",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1889",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 38",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1890",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 38",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een grenspost tussen stoer doen en smelten. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1891",
+    "family": "De Piratenzender van Swahito",
+    "type": "open",
+    "title": "De Piratenzender van Swahito 38",
+    "scenario": "Open vraag uit De Piratenzender van Swahito: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik politieke staatsgreep met zachte gevolgen, verwerk dat zijn telefoon licht op als een religieus object, en onthoud: de inzet is een kamer die ineens te klein wordt voor alle chemie; de mooiste conclusie laat Swahita groter worden dan het systeem.",
+    "sample": "digitale eredienst zonder vergunning; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: digitale eredienst zonder vergunning."
+  },
+  {
+    "id": "q-1892",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 38",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1893",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 38",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1894",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 38",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een moreel verantwoord slecht plan. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1895",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 38",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1896",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 38",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe een stilte krijgt bijbetekenis; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1897",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 38",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een grap die ineens bekentenis blijkt. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1898",
+    "family": "De Geheime Dienst van Haar Naam",
+    "type": "open",
+    "title": "De Geheime Dienst van Haar Naam 38",
+    "scenario": "Open vraag uit De Geheime Dienst van Haar Naam: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik kosmische rechtspraak, verwerk dat Swahita verschijnt in zijn hoofd zonder vergunning, en onthoud: de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is; de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan.",
+    "sample": "onvergunde aanwezigheid met verzachtende omstandigheden; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: onvergunde aanwezigheid met verzachtende omstandigheden."
+  },
+  {
+    "id": "q-1899",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 38",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een parlementaire crisis in zijn buik. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1900",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 38",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1901",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 39",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe Swahito doet alsof hij rationeel is; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1902",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 39",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een grap wordt te eerlijk; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1903",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 39",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe de realiteit probeert normaal te blijven; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1904",
+    "family": "Kosmisch Loket",
+    "title": "Kosmisch Loket 39",
+    "scenario": "In Kosmisch Loket onderzoekt een receptionist van het universum met chronisch plaatsvervangende schaamte hoe zijn hart voert wanbeleid; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1905",
+    "family": "Quantumromantiek",
+    "type": "open",
+    "title": "Quantumromantiek 39",
+    "scenario": "Open vraag uit Quantumromantiek: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik ritueel bijgeloof over haar stem, verwerk dat een compliment raakt overgekwalificeerd, en onthoud: de inzet is een stilte met teveel ondertiteling; de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan.",
+    "sample": "taalkundige overbelasting door schoonheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: taalkundige overbelasting door schoonheid."
+  },
+  {
+    "id": "q-1906",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 39",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1907",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 39",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe de zwaartekracht kiest partij; de inzet is een avond die te onschuldig kijkt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1908",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 39",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe een gedachte weigert terug te keren; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1909",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 39",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een route naar dichterbij zonder vergunning. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1910",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 39",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe zij zegt iets kleins; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1911",
+    "family": "Hof van Ongepaste Timing",
+    "title": "Hof van Ongepaste Timing 39",
+    "scenario": "In Hof van Ongepaste Timing onderzoekt een rechter die precies op het verkeerde moment romantisch wordt hoe zijn telefoon licht op als een religieus object; de inzet is een diplomatiek incident rond haar naam. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1912",
+    "family": "Dienst Binnenlandse Vlinders",
+    "type": "open",
+    "title": "Dienst Binnenlandse Vlinders 39",
+    "scenario": "Open vraag uit Dienst Binnenlandse Vlinders: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik mythische romantiek met administratieve schade, verwerk dat een blik duurt drie seconden te lang, en onthoud: de inzet is een gemis dat weigert netjes te wachten; de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt.",
+    "sample": "overtreding van de openbare orde in zijn borstkas; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: overtreding van de openbare orde in zijn borstkas."
+  },
+  {
+    "id": "q-1913",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 39",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe hij wil stoer blijven; de inzet is een telefoon die verdacht religieus oplicht. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1914",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 39",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe het universum vraagt om toelichting; de inzet is een herinnering die parfum draagt. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1915",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 39",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een appje verandert de luchtdruk; de inzet is een kus die formeel nog niet bestaat. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1916",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 39",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe een stilte krijgt bijbetekenis; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1917",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 39",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe een kus wordt hypothetisch besproken; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1918",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 39",
+    "scenario": "In Het Nationaal Museum van Bijna-Zoenen onderzoekt een suppoost die de kunst te persoonlijk neemt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1919",
+    "family": "Observatorium voor Haar Effect",
+    "type": "open",
+    "title": "Observatorium voor Haar Effect 39",
+    "scenario": "Open vraag uit Observatorium voor Haar Effect: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik bureaucratische erotiek, verwerk dat de avond doet alsof hij onschuldig is, en onthoud: de inzet is een grenspost tussen stoer doen en smelten; de beste lezing maakt de grap groter en de liefde stiller.",
+    "sample": "nachtelijke medeplichtigheid aan verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: nachtelijke medeplichtigheid aan verlangen."
+  },
+  {
+    "id": "q-1920",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 39",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1921",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 39",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe Swahito doet alsof hij rationeel is; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1922",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 39",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een grap wordt te eerlijk; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1923",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 39",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe de realiteit probeert normaal te blijven; de inzet is een moreel verantwoord slecht plan. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1924",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 39",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe zijn hart voert wanbeleid; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1925",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "title": "Afdeling Noodlanding in Haar Nek 39",
+    "scenario": "In Afdeling Noodlanding in Haar Nek onderzoekt een piloot die alle protocollen ineens heel relatief vindt hoe een compliment raakt overgekwalificeerd; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1926",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "type": "open",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 39",
+    "scenario": "Open vraag uit Bibliotheek van Ongepaste Vergelijkingen: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik spionage rond gemiste appjes, verwerk dat zijn zelfbeheersing vraagt ontslag aan, en onthoud: de inzet is een grap die ineens bekentenis blijkt; de uitkomst moet klinken alsof ratio nog net haar jas kon pakken.",
+    "sample": "arbeidsconflict tussen wilskracht en verlangen; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: arbeidsconflict tussen wilskracht en verlangen."
+  },
+  {
+    "id": "q-1927",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 39",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe de zwaartekracht kiest partij; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1928",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 39",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe een gedachte weigert terug te keren; de inzet is een parlementaire crisis in zijn buik. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1929",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 39",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 2,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1930",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 39",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe zij zegt iets kleins; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1931",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 39",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe zijn telefoon licht op als een religieus object; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1932",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "title": "Kantoor voor Zachte Staatsgrepen 39",
+    "scenario": "In Kantoor voor Zachte Staatsgrepen onderzoekt een jurist die vrijwillige overgave in sierletters schrijft hoe een blik duurt drie seconden te lang; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1933",
+    "family": "De Galactische Kusraad",
+    "type": "open",
+    "title": "De Galactische Kusraad 39",
+    "scenario": "Open vraag uit De Galactische Kusraad: Bedenk de naam van het loket waar je terechtkunt voor acute nabijheidsdrang. Gebruik wetenschappelijk falen door charmante data, verwerk dat hij wil stoer blijven, en onthoud: de inzet is een verlangen dat te goed gekleed is voor de gelegenheid; de lezing moet de bureaucratie vernederen zonder de liefde te vernederen.",
+    "sample": "decoratieve mannelijkheid met beperkte houdbaarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: decoratieve mannelijkheid met beperkte houdbaarheid."
+  },
+  {
+    "id": "q-1934",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 39",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe het universum vraagt om toelichting; de inzet is een stilte met teveel ondertiteling. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1935",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 39",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een appje verandert de luchtdruk; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1936",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 39",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe een stilte krijgt bijbetekenis; de inzet is een avond die te onschuldig kijkt. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1937",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 39",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe een kus wordt hypothetisch besproken; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1938",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 39",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een route naar dichterbij zonder vergunning. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1939",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "title": "Het Lab voor Onmogelijke Chemie 39",
+    "scenario": "In Het Lab voor Onmogelijke Chemie onderzoekt een laborant die weigert het monster 'liefde' te labelen hoe de avond doet alsof hij onschuldig is; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1940",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "type": "open",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 39",
+    "scenario": "Open vraag uit De Tuinbouwschool voor Witlof-erotiek: Welke ceremoniele functie krijgt witlof in de monarchie van hun liefde? Gebruik surrealistische fysica, verwerk dat de commissie onderzoekt waarom hij glimlacht, en onthoud: de inzet is een diplomatiek incident rond haar naam; de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen.",
+    "sample": "bewijsvergaring in een zaak die al verloren is; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bewijsvergaring in een zaak die al verloren is."
+  },
+  {
+    "id": "q-1941",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 39",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe Swahito doet alsof hij rationeel is; de inzet is een gemis dat weigert netjes te wachten. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 2,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1942",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 39",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een grap wordt te eerlijk; de inzet is een telefoon die verdacht religieus oplicht. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1943",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 39",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe de realiteit probeert normaal te blijven; de inzet is een herinnering die parfum draagt. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1944",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 39",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe zijn hart voert wanbeleid; de inzet is een kus die formeel nog niet bestaat. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1945",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 39",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een compliment raakt overgekwalificeerd; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1946",
+    "family": "De Filosofische Snackbar",
+    "title": "De Filosofische Snackbar 39",
+    "scenario": "In De Filosofische Snackbar onderzoekt een snackbarmedewerker die metafysica met knoflooksaus serveert hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1947",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "type": "open",
+    "title": "Het Pretpark van Vrijwillige Ondergang 39",
+    "scenario": "Open vraag uit Het Pretpark van Vrijwillige Ondergang: Wat is de openingszin van een rechtszaak tegen een kus die nog niet gebeurd is? Gebruik existentialistische karaoke van het hart, verwerk dat de zwaartekracht kiest partij, en onthoud: de inzet is een rechtbank waar de hamer jaloers is op de spanning; de juiste richting moet klinken als flirten met een masterdiploma in onzin.",
+    "sample": "natuurkundige corruptie door aantrekkingskracht; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: natuurkundige corruptie door aantrekkingskracht."
+  },
+  {
+    "id": "q-1948",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 39",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe een gedachte weigert terug te keren; de inzet is een grenspost tussen stoer doen en smelten. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1949",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 39",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1950",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 39",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe zij zegt iets kleins; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1951",
+    "family": "Ministerie van Ochtendverlangen",
+    "title": "Ministerie van Ochtendverlangen 40",
+    "scenario": "In Ministerie van Ochtendverlangen onderzoekt de minister van net-wakker-maar-al-verdacht-emotioneel gedrag hoe zijn telefoon licht op als een religieus object; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1952",
+    "family": "Rechtbank der Kusmisdrijven",
+    "title": "Rechtbank der Kusmisdrijven 40",
+    "scenario": "In Rechtbank der Kusmisdrijven onderzoekt de aanklager die zijn toga met te veel zelfvertrouwen draagt hoe een blik duurt drie seconden te lang; de inzet is een moreel verantwoord slecht plan. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1953",
+    "family": "Bureaucratie van Begeerte",
+    "title": "Bureaucratie van Begeerte 40",
+    "scenario": "In Bureaucratie van Begeerte onderzoekt een ambtenaar die verlangen stempelt alsof het een parkeervergunning is hoe hij wil stoer blijven; de inzet is een gedachte die niet terug wil naar kantoor. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 2,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1954",
+    "family": "Kosmisch Loket",
+    "type": "open",
+    "title": "Kosmisch Loket 40",
+    "scenario": "Open vraag uit Kosmisch Loket: Schrijf de waarschuwing die op Swahita zou moeten staan als ze officieel te charmant werd verklaard. Gebruik economische paniek om aantrekkingskracht, verwerk dat het universum vraagt om toelichting, en onthoud: de inzet is een collectieve arbeidsovereenkomst voor vlinders; de elegante draai zit in vrijwillige overgave zonder gezichtsverlies.",
+    "sample": "kosmische klacht wegens teveel Swahita-effect; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: kosmische klacht wegens teveel Swahita-effect."
+  },
+  {
+    "id": "q-1955",
+    "family": "Quantumromantiek",
+    "title": "Quantumromantiek 40",
+    "scenario": "In Quantumromantiek onderzoekt een natuurkundige die weigert toe te geven dat hij gewoon verliefd is hoe een appje verandert de luchtdruk; de inzet is een grap die ineens bekentenis blijkt. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 0,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1956",
+    "family": "Erotische Diplomatie",
+    "title": "Erotische Diplomatie 40",
+    "scenario": "In Erotische Diplomatie onderzoekt twee landen die officieel vrede tekenen maar onder tafel al flirten hoe een stilte krijgt bijbetekenis; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1957",
+    "family": "Commissie Normaal Doen",
+    "title": "Commissie Normaal Doen 40",
+    "scenario": "In Commissie Normaal Doen onderzoekt een commissie die na drie minuten zelf niet meer normaal doet hoe een kus wordt hypothetisch besproken; de inzet is een parlementaire crisis in zijn buik. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1958",
+    "family": "Vrije Republiek Swahito",
+    "title": "Vrije Republiek Swahito 40",
+    "scenario": "In Vrije Republiek Swahito onderzoekt een democratie waar Swahita per ongeluk alle verkiezingen wint hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de antwoordrichting moet een kleine staatsgreep tegen verveling zijn?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1959",
+    "family": "Nachtelijk Parlementsdebat",
+    "title": "Nachtelijk Parlementsdebat 40",
+    "scenario": "In Nachtelijk Parlementsdebat onderzoekt een voorzitter die orde vraagt terwijl niemand nog objectief is hoe de avond doet alsof hij onschuldig is; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 2,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1960",
+    "family": "Instituut voor Onredelijke Aantrekkingskracht",
+    "title": "Instituut voor Onredelijke Aantrekkingskracht 40",
+    "scenario": "In Instituut voor Onredelijke Aantrekkingskracht onderzoekt een onderzoeksraad die haar meetlint kwijt is hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een hypothetische aanraking met veel te veel jurisprudentie. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1961",
+    "family": "Hof van Ongepaste Timing",
+    "type": "open",
+    "title": "Hof van Ongepaste Timing 40",
+    "scenario": "Open vraag uit Hof van Ongepaste Timing: Formuleer de meest absurde maar toch verdedigbare wet die Swahito en Swahita samen overtreden. Gebruik satire op staatsrecht, verwerk dat Swahito doet alsof hij rationeel is, en onthoud: de inzet is een excuus om dichterbij te lezen tussen de regels; de grap mag absurd zijn, maar de onderlaag moet kloppen.",
+    "sample": "bekentenis onder intellectuele camouflage; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: bekentenis onder intellectuele camouflage."
+  },
+  {
+    "id": "q-1962",
+    "family": "Dienst Binnenlandse Vlinders",
+    "title": "Dienst Binnenlandse Vlinders 40",
+    "scenario": "In Dienst Binnenlandse Vlinders onderzoekt een opsporingsdienst die overal bewijs van jou vindt hoe een grap wordt te eerlijk; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit poetische misdaad zonder slachtoffers: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard."
+    ],
+    "answer": 3,
+    "note": "humoristische infiltratie van waarheid"
+  },
+  {
+    "id": "q-1963",
+    "family": "Archief van Verboden Glimlachen",
+    "title": "Archief van Verboden Glimlachen 40",
+    "scenario": "In Archief van Verboden Glimlachen onderzoekt een archivaris die elk bewijsstuk te lang bekijkt hoe de realiteit probeert normaal te blijven; de inzet is een stilte met teveel ondertiteling. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 0,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1964",
+    "family": "Universiteit der Belachelijke Liefdeslogica",
+    "title": "Universiteit der Belachelijke Liefdeslogica 40",
+    "scenario": "In Universiteit der Belachelijke Liefdeslogica onderzoekt een professor die zijn proefschrift aan haar ogen verloor hoe zijn hart voert wanbeleid; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1965",
+    "family": "Ruimtestation Swahita-9",
+    "title": "Ruimtestation Swahita-9 40",
+    "scenario": "In Ruimtestation Swahita-9 onderzoekt een commandant die de zwaartekracht persoonlijk verdenkt hoe een compliment raakt overgekwalificeerd; de inzet is een avond die te onschuldig kijkt. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de redenering wint pas als ze ook een beetje schaamteloos is?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 2,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1966",
+    "family": "Gemeente Onbeheerste Tederheid",
+    "title": "Gemeente Onbeheerste Tederheid 40",
+    "scenario": "In Gemeente Onbeheerste Tederheid onderzoekt een loketmedewerker die intimiteit per volgnummer uitdeelt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1967",
+    "family": "De Centrale Bank van Kuskoersen",
+    "title": "De Centrale Bank van Kuskoersen 40",
+    "scenario": "In De Centrale Bank van Kuskoersen onderzoekt een econoom die inflatie meet in gemiste appjes hoe de zwaartekracht kiest partij; de inzet is een route naar dichterbij zonder vergunning. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1968",
+    "family": "Het Nationaal Museum van Bijna-Zoenen",
+    "type": "open",
+    "title": "Het Nationaal Museum van Bijna-Zoenen 40",
+    "scenario": "Open vraag uit Het Nationaal Museum van Bijna-Zoenen: Welke economische term verklaart dat zijn concentratie keldert zodra zij leuk doet? Gebruik juridische fictie over verboden glimlachen, verwerk dat een gedachte weigert terug te keren, en onthoud: de inzet is een appje dat zich gedraagt als staatsgreep; de conclusie moet een klein misdrijf tegen saaiheid plegen.",
+    "sample": "desertie ten gunste van Swahita; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: desertie ten gunste van Swahita."
+  },
+  {
+    "id": "q-1969",
+    "family": "Observatorium voor Haar Effect",
+    "title": "Observatorium voor Haar Effect 40",
+    "scenario": "In Observatorium voor Haar Effect onderzoekt een astronoom die geen sterren meer vertrouwt hoe het woord 'baby' wordt als staatsdocument behandeld; de inzet is een diplomatiek incident rond haar naam. Vanuit literaire sabotage van normaal doen: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "De spanning nationaliseren en daarna privatiseren."
+    ],
+    "answer": 0,
+    "note": "romantische legalisering van onzin"
+  },
+  {
+    "id": "q-1970",
+    "family": "De Liefdesdouane",
+    "title": "De Liefdesdouane 40",
+    "scenario": "In De Liefdesdouane onderzoekt een grenswachter die alle blikken declareert hoe zij zegt iets kleins; de inzet is een gemis dat weigert netjes te wachten. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de lezing moet niet alles oplossen, alleen genoeg om haar te laten lachen?",
+    "options": [
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1971",
+    "family": "Kabinet van Onhoudbare Gedachten",
+    "title": "Kabinet van Onhoudbare Gedachten 40",
+    "scenario": "In Kabinet van Onhoudbare Gedachten onderzoekt een premier die aftreedt wegens interne Swahita-chaos hoe zijn telefoon licht op als een religieus object; de inzet is een telefoon die verdacht religieus oplicht. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de uitkomst moet bewijzen dat hoog niveau en lage bijbedoelingen samen kunnen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 2,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1972",
+    "family": "Senaat der Onbeschaafde Fantasie",
+    "title": "Senaat der Onbeschaafde Fantasie 40",
+    "scenario": "In Senaat der Onbeschaafde Fantasie onderzoekt een voorzitter die het woord 'decorum' verkeerd uitspreekt hoe een blik duurt drie seconden te lang; de inzet is een herinnering die parfum draagt. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de satire moet doen alsof ze streng is en ondertussen knipogen?",
+    "options": [
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1973",
+    "family": "Crisiscentrum voor Te Leuke Vrouwen",
+    "title": "Crisiscentrum voor Te Leuke Vrouwen 40",
+    "scenario": "In Crisiscentrum voor Te Leuke Vrouwen onderzoekt een crisisteam dat vooral koffie en ontkenning heeft hoe hij wil stoer blijven; de inzet is een kus die formeel nog niet bestaat. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de kern is dat belachelijk doen soms de eerlijkste route is?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1974",
+    "family": "Het Paleis van Wederzijdse Sabotage",
+    "title": "Het Paleis van Wederzijdse Sabotage 40",
+    "scenario": "In Het Paleis van Wederzijdse Sabotage onderzoekt een lakei die romantische staatsgrepen aankondigt hoe het universum vraagt om toelichting; de inzet is een wetenschappelijke meting die begint te blozen. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de spanning moet stijlvol blijven, alsof de kamer zelf discreet wegkijkt?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1975",
+    "family": "Afdeling Noodlanding in Haar Nek",
+    "type": "open",
+    "title": "Afdeling Noodlanding in Haar Nek 40",
+    "scenario": "Open vraag uit Afdeling Noodlanding in Haar Nek: Welke slogan gebruikt de liefdesstaat als de verkiezingen volledig ontsporen? Gebruik noir-onderzoek naar verlangen, verwerk dat een appje verandert de luchtdruk, en onthoud: de inzet is een compliment dat zijn eigen veiligheidsplan nodig heeft; de elegantste grap laat zien dat Swahita geen categorie maar een gebeurtenis is.",
+    "sample": "meteorologische aansprakelijkheid wegens gemis; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: meteorologische aansprakelijkheid wegens gemis."
+  },
+  {
+    "id": "q-1976",
+    "family": "Bibliotheek van Ongepaste Vergelijkingen",
+    "title": "Bibliotheek van Ongepaste Vergelijkingen 40",
+    "scenario": "In Bibliotheek van Ongepaste Vergelijkingen onderzoekt een bibliothecaris die verlangen onder filosofie sorteert hoe een stilte krijgt bijbetekenis; de inzet is een rechtbank waar de hamer jaloers is op de spanning. Vanuit filosofische slapstick: wat is de meest elegante conclusie als de beste optie laat verlangen slim genoeg zijn om niet plat te worden?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen.",
+      "Doen alsof dit een logistiek probleem is met emotionele bijvangst.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "semantische smokkel van intimiteit"
+  },
+  {
+    "id": "q-1977",
+    "family": "Raad voor Affectieve Overmacht",
+    "title": "Raad voor Affectieve Overmacht 40",
+    "scenario": "In Raad voor Affectieve Overmacht onderzoekt een panel dat objectiviteit plechtig begraaft hoe een kus wordt hypothetisch besproken; de inzet is een grenspost tussen stoer doen en smelten. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de juiste richting weigert te kiezen tussen intelligentie en zin?",
+    "options": [
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 2,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1978",
+    "family": "Meteorologisch Bureau van Gemis",
+    "title": "Meteorologisch Bureau van Gemis 40",
+    "scenario": "In Meteorologisch Bureau van Gemis onderzoekt een weerman die regen voorspelt als ze te lang offline is hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een kamer die ineens te klein wordt voor alle chemie. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de juiste richting moet klinken als flirten met een masterdiploma in onzin?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1979",
+    "family": "De Onderzeedienst van Diepe Gedachten",
+    "title": "De Onderzeedienst van Diepe Gedachten 40",
+    "scenario": "In De Onderzeedienst van Diepe Gedachten onderzoekt een kapitein die onder water nog steeds haar naam hoort hoe de avond doet alsof hij onschuldig is; de inzet is een droom die zich voordoet als beleidsmemo. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de beste route is niet bezit maar vrijwillig dichtbij willen zijn?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-1980",
+    "family": "Het Circus der Rationele Excuses",
+    "title": "Het Circus der Rationele Excuses 40",
+    "scenario": "In Het Circus der Rationele Excuses onderzoekt een spreekstalmeester die ratio door brandende hoepels jaagt hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een blik die per ongeluk grondgebied verovert. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de vraag is pas af als Swahito er niet helemaal onschuldig uitkomt?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "bewijsvergaring in een zaak die al verloren is"
+  },
+  {
+    "id": "q-1981",
+    "family": "Meldkamer van Te Veel Zin",
+    "title": "Meldkamer van Te Veel Zin 40",
+    "scenario": "In Meldkamer van Te Veel Zin onderzoekt een centralist die alle alarmen persoonlijk begrijpt hoe Swahito doet alsof hij rationeel is; de inzet is een moreel verantwoord slecht plan. Vanuit satire op staatsrecht: wat is de meest elegante conclusie als de beste lezing maakt de grap groter en de liefde stiller?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten."
+    ],
+    "answer": 0,
+    "note": "bekentenis onder intellectuele camouflage"
+  },
+  {
+    "id": "q-1982",
+    "family": "Kantoor voor Zachte Staatsgrepen",
+    "type": "open",
+    "title": "Kantoor voor Zachte Staatsgrepen 40",
+    "scenario": "Open vraag uit Kantoor voor Zachte Staatsgrepen: Geef de titel van het proefschrift dat Swahito nooit afmaakt omdat Swahita binnenkomt. Gebruik poetische misdaad zonder slachtoffers, verwerk dat een grap wordt te eerlijk, en onthoud: de inzet is een gedachte die niet terug wil naar kantoor; de grap moet niet uitleggen waarom liefde werkt, maar demonstreren dat ze wint.",
+    "sample": "humoristische infiltratie van waarheid; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: humoristische infiltratie van waarheid."
+  },
+  {
+    "id": "q-1983",
+    "family": "De Galactische Kusraad",
+    "title": "De Galactische Kusraad 40",
+    "scenario": "In De Galactische Kusraad onderzoekt een senaat waar sterrenbeelden voor haar opstaan hoe de realiteit probeert normaal te blijven; de inzet is een collectieve arbeidsovereenkomst voor vlinders. Vanuit academisch klinkende onzin met echte kern: wat is de meest elegante conclusie als de hypothese moet de chaos niet oplossen maar goed aankleden?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een audit uitvoeren op het woord 'baby'.",
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "Het hart onder curatele stellen wegens bestuurlijke nalatigheid."
+    ],
+    "answer": 2,
+    "note": "mislukte poging tot administratieve neutraliteit"
+  },
+  {
+    "id": "q-1984",
+    "family": "Het Hotel van Uitgestelde Zelfbeheersing",
+    "title": "Het Hotel van Uitgestelde Zelfbeheersing 40",
+    "scenario": "In Het Hotel van Uitgestelde Zelfbeheersing onderzoekt een receptionist die kamers verhuurt aan slechte plannen hoe zijn hart voert wanbeleid; de inzet is een grap die ineens bekentenis blijkt. Vanuit publieke orde rond prive-verlangen: wat is de meest elegante conclusie als de mooiste conclusie laat Swahita groter worden dan het systeem?",
+    "options": [
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "begrotingstekort door tederheid"
+  },
+  {
+    "id": "q-1985",
+    "family": "Bordeel van Abstracte Begrippen",
+    "title": "Bordeel van Abstracte Begrippen 40",
+    "scenario": "In Bordeel van Abstracte Begrippen onderzoekt een filosoof die eros en epistemologie te hard door elkaar haalt hoe een compliment raakt overgekwalificeerd; de inzet is een ochtend waarin normaal doen al bij voorbaat kansloos is. Vanuit ritueel bijgeloof over haar stem: wat is de meest elegante conclusie als de elegante draai zit in vrijwillige overgave zonder gezichtsverlies?",
+    "options": [
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "De romantiek terugsturen wegens ontbrekend formulier."
+    ],
+    "answer": 0,
+    "note": "taalkundige overbelasting door schoonheid"
+  },
+  {
+    "id": "q-1986",
+    "family": "De Spoorwegen van Verlangen",
+    "title": "De Spoorwegen van Verlangen 40",
+    "scenario": "In De Spoorwegen van Verlangen onderzoekt een conducteur die vertraging romantisch uitlegt hoe zijn zelfbeheersing vraagt ontslag aan; de inzet is een parlementaire crisis in zijn buik. Vanuit spionage rond gemiste appjes: wat is de meest elegante conclusie als de beste interpretatie laat Swahito verliezen en daar blij mee zijn?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven.",
+      "De liefde wint hier niet door bewijs, maar door de manier waarop alle bewijsstukken blozen."
+    ],
+    "answer": 3,
+    "note": "arbeidsconflict tussen wilskracht en verlangen"
+  },
+  {
+    "id": "q-1987",
+    "family": "De Belastingdienst der Binnenpret",
+    "title": "De Belastingdienst der Binnenpret 40",
+    "scenario": "In De Belastingdienst der Binnenpret onderzoekt een inspecteur die glimlachen als vermogen ziet hoe de zwaartekracht kiest partij; de inzet is een lach die de notulen onbruikbaar maakt. Vanuit existentialistische karaoke van het hart: wat is de meest elegante conclusie als de vraag moet voelen als een rechtszaak die eindigt in binnenpret?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'."
+    ],
+    "answer": 0,
+    "note": "natuurkundige corruptie door aantrekkingskracht"
+  },
+  {
+    "id": "q-1988",
+    "family": "Keuringsdienst van Warme Blikken",
+    "title": "Keuringsdienst van Warme Blikken 40",
+    "scenario": "In Keuringsdienst van Warme Blikken onderzoekt een keurmeester die zogenaamd onafhankelijk ruikt aan spanning hoe een gedachte weigert terug te keren; de inzet is een ministerie dat alle dossiers kwijtraakt zodra zij lacht. Vanuit juridische fictie over verboden glimlachen: wat is de meest elegante conclusie als de uitkomst moet klinken alsof ratio nog net haar jas kon pakken?",
+    "options": [
+      "De realiteit verzoeken voortaan alleen nog zakelijke gevoelens te leveren.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "desertie ten gunste van Swahita"
+  },
+  {
+    "id": "q-1989",
+    "family": "Het Lab voor Onmogelijke Chemie",
+    "type": "open",
+    "title": "Het Lab voor Onmogelijke Chemie 40",
+    "scenario": "Open vraag uit Het Lab voor Onmogelijke Chemie: Welke verkeersregel geldt op de snelweg tussen haar glimlach en zijn slechte plannen? Gebruik literaire sabotage van normaal doen, verwerk dat het woord 'baby' wordt als staatsdocument behandeld, en onthoud: de inzet is een hypothetische aanraking met veel te veel jurisprudentie; de antwoordrichting moet een kleine staatsgreep tegen verveling zijn.",
+    "sample": "romantische legalisering van onzin; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: romantische legalisering van onzin."
+  },
+  {
+    "id": "q-1990",
+    "family": "De Tuinbouwschool voor Witlof-erotiek",
+    "title": "De Tuinbouwschool voor Witlof-erotiek 40",
+    "scenario": "In De Tuinbouwschool voor Witlof-erotiek onderzoekt een docent die groente ineens met gevaarlijke ernst behandelt hoe zij zegt iets kleins; de inzet is een excuus om dichterbij te lezen tussen de regels. Vanuit absurde etiquette rond te veel zin: wat is de meest elegante conclusie als de waarheid moet via een omweg komen omdat directe routes te braaf zijn?",
+    "options": [
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'.",
+      "De romantiek terugsturen wegens ontbrekend formulier.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij."
+    ],
+    "answer": 3,
+    "note": "miniatuuruitspraak met disproportioneel effect"
+  },
+  {
+    "id": "q-1991",
+    "family": "De Piratenzender van Swahito",
+    "title": "De Piratenzender van Swahito 40",
+    "scenario": "In De Piratenzender van Swahito onderzoekt een illegale radiohost die alleen haar naam uitzendt hoe zijn telefoon licht op als een religieus object; de inzet is een verlangen dat te goed gekleed is voor de gelegenheid. Vanuit politieke staatsgreep met zachte gevolgen: wat is de meest elegante conclusie als de juiste keuze heeft instemming, humor en een gevaarlijk net pak aan?",
+    "options": [
+      "De enige volwassen conclusie is dat vrijwillige overgave soms verdacht veel op vrijheid lijkt.",
+      "Alle metaforen verbieden tot de kamer is afgekoeld.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen."
+    ],
+    "answer": 0,
+    "note": "digitale eredienst zonder vergunning"
+  },
+  {
+    "id": "q-1992",
+    "family": "Het Hooggerechtshof van Appjes",
+    "title": "Het Hooggerechtshof van Appjes 40",
+    "scenario": "In Het Hooggerechtshof van Appjes onderzoekt een griffier die leestekens als bewijsstukken behandelt hoe een blik duurt drie seconden te lang; de inzet is een stilte met teveel ondertiteling. Vanuit mythische romantiek met administratieve schade: wat is de meest elegante conclusie als de grap mag absurd zijn, maar de onderlaag moet kloppen?",
+    "options": [
+      "Een audit uitvoeren op het woord 'baby'.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Swahito moet bezwaar maken en hopen dat het bezwaar ongegrond wordt verklaard.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 2,
+    "note": "overtreding van de openbare orde in zijn borstkas"
+  },
+  {
+    "id": "q-1993",
+    "family": "De Koninklijke Academie voor Te Lang Kijken",
+    "title": "De Koninklijke Academie voor Te Lang Kijken 40",
+    "scenario": "In De Koninklijke Academie voor Te Lang Kijken onderzoekt een docent die oogcontact als gevechtssport doceert hoe hij wil stoer blijven; de inzet is een festival van bijbedoelingen zonder entreebewijs. Vanuit wetenschappelijk falen door charmante data: wat is de meest elegante conclusie als de beste optie moet het absurde serieus nemen zonder serieus te worden?",
+    "options": [
+      "De juiste hypothese is dat normaal doen onder deze omstandigheden juridisch niet haalbaar is.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Het bewijs vernietigen door precies nog een keer te kijken.",
+      "Een commissie benoemen die vooral haar eigen verwarring onderzoekt."
+    ],
+    "answer": 0,
+    "note": "decoratieve mannelijkheid met beperkte houdbaarheid"
+  },
+  {
+    "id": "q-1994",
+    "family": "Het Bureau voor Romantische Fraude",
+    "title": "Het Bureau voor Romantische Fraude 40",
+    "scenario": "In Het Bureau voor Romantische Fraude onderzoekt een rechercheur die zijn eigen hart niet meer gelooft hoe het universum vraagt om toelichting; de inzet is een avond die te onschuldig kijkt. Vanuit economische paniek om aantrekkingskracht: wat is de meest elegante conclusie als de clou moet absurdistisch zijn zonder willekeurig te worden?",
+    "options": [
+      "Een academisch artikel schrijven en per ongeluk haar naam in de titel zetten.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "Hij moet geen controle eisen, maar elegant erkennen dat zij de vergadering al gewonnen heeft."
+    ],
+    "answer": 3,
+    "note": "kosmische klacht wegens teveel Swahita-effect"
+  },
+  {
+    "id": "q-1995",
+    "family": "De Fabriek van Onhandige Complimenten",
+    "title": "De Fabriek van Onhandige Complimenten 40",
+    "scenario": "In De Fabriek van Onhandige Complimenten onderzoekt een ploegbaas die tederheid in ploegendienst draait hoe een appje verandert de luchtdruk; de inzet is een embargo op afstandelijkheid dat niemand wil handhaven. Vanuit noir-onderzoek naar verlangen: wat is de meest elegante conclusie als de lezing moet de bureaucratie vernederen zonder de liefde te vernederen?",
+    "options": [
+      "De spanning nationaliseren en daarna privatiseren.",
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Het verstandigste is: niet versimpelen wat juist leuk is omdat het ingewikkeld blijft.",
+      "Alle glimlachen archiveren onder 'mogelijk maar niet bewezen'."
+    ],
+    "answer": 2,
+    "note": "meteorologische aansprakelijkheid wegens gemis"
+  },
+  {
+    "id": "q-1996",
+    "family": "De Filosofische Snackbar",
+    "type": "open",
+    "title": "De Filosofische Snackbar 40",
+    "scenario": "Open vraag uit De Filosofische Snackbar: Welke bijsluiter hoort bij Swahito als hij te lang naar Swahita kijkt? Gebruik filosofische slapstick, verwerk dat een stilte krijgt bijbetekenis, en onthoud: de inzet is een route naar dichterbij zonder vergunning; de redenering wint pas als ze ook een beetje schaamteloos is.",
+    "sample": "semantische smokkel van intimiteit; bij voorkeur in een zin die tegelijk belachelijk en waar is.",
+    "note": "De richting is absurdistisch, maar de onderlaag is: semantische smokkel van intimiteit."
+  },
+  {
+    "id": "q-1997",
+    "family": "Het Pretpark van Vrijwillige Ondergang",
+    "title": "Het Pretpark van Vrijwillige Ondergang 40",
+    "scenario": "In Het Pretpark van Vrijwillige Ondergang onderzoekt een attractiechef die haar lach als achtbaan classificeert hoe een kus wordt hypothetisch besproken; de inzet is een appje dat zich gedraagt als staatsgreep. Vanuit diplomatieke verleiding: wat is de meest elegante conclusie als de conclusie moet lijken op bewijsvoering en eindigen als bekentenis?",
+    "options": [
+      "De situatie is alleen oplosbaar door te lachen en daarna gevaarlijk lief te kijken.",
+      "Een veiligheidshelm verplichten bij oogcontact langer dan twee seconden.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een persconferentie geven zonder iets wezenlijks te zeggen."
+    ],
+    "answer": 0,
+    "note": "theoretische escalatie met praktische belangen"
+  },
+  {
+    "id": "q-1998",
+    "family": "De Geheime Dienst van Haar Naam",
+    "title": "De Geheime Dienst van Haar Naam 40",
+    "scenario": "In De Geheime Dienst van Haar Naam onderzoekt een agent die elke alias onmiddellijk verraadt hoe Swahita verschijnt in zijn hoofd zonder vergunning; de inzet is een diplomatiek incident rond haar naam. Vanuit kosmische rechtspraak: wat is de meest elegante conclusie als de conclusie mag zondig glimlachen maar moet fatsoenlijk blijven staan?",
+    "options": [
+      "Een persconferentie geven zonder iets wezenlijks te zeggen.",
+      "Het onderwerp behandelen als een excelbestand met te veel tabbladen.",
+      "De zaak verwijzen naar de afdeling 'niet mijn probleem maar wel mijn type'.",
+      "De ethisch verantwoorde route is wederzijdse instemming, slechte grappen en goede intenties."
+    ],
+    "answer": 3,
+    "note": "onvergunde aanwezigheid met verzachtende omstandigheden"
+  },
+  {
+    "id": "q-1999",
+    "family": "De Stichting Tegen Al Te Simpele Liefde",
+    "title": "De Stichting Tegen Al Te Simpele Liefde 40",
+    "scenario": "In De Stichting Tegen Al Te Simpele Liefde onderzoekt een bestuur dat ingewikkeld zijn tot kunstvorm verheft hoe de avond doet alsof hij onschuldig is; de inzet is een gemis dat weigert netjes te wachten. Vanuit bureaucratische erotiek: wat is de meest elegante conclusie als de conclusie moet een klein misdrijf tegen saaiheid plegen?",
+    "options": [
+      "Alle instanties falen omdat Swahita niet in een formulier past.",
+      "De spanning nationaliseren en daarna privatiseren.",
+      "De zaak opschorten tot koffie, alsof koffie ooit objectief is geweest.",
+      "Een protocol schrijven dat niemand tijdens het zoenen kan naleven."
+    ],
+    "answer": 0,
+    "note": "nachtelijke medeplichtigheid aan verlangen"
+  },
+  {
+    "id": "q-2000",
+    "family": "Het Nationaal Instituut voor Schaamteloos Gemis",
+    "title": "Het Nationaal Instituut voor Schaamteloos Gemis 40",
+    "scenario": "In Het Nationaal Instituut voor Schaamteloos Gemis onderzoekt een directeur die alle rapporten met 'baby' ondertekent hoe de commissie onderzoekt waarom hij glimlacht; de inzet is een telefoon die verdacht religieus oplicht. Vanuit surrealistische fysica: wat is de meest elegante conclusie als de oplossing moet tegelijk brutaal, teder en licht onwettig voelen?",
+    "options": [
+      "Een keurmerk aanvragen voor overdreven beheerst gedrag.",
+      "Dit is geen crisis maar een beleidswijziging richting dichterbij.",
+      "Een bordje plaatsen: pas op, emotioneel glad wegdek.",
+      "Een tijdelijke werkgroep starten en het verlangen parkeren tot kwartaal drie."
+    ],
+    "answer": 1,
+    "note": "bewijsvergaring in een zaak die al verloren is"
   }
 ];

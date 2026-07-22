@@ -278,7 +278,7 @@ function makeQuestion(index) {
     : makeMultipleChoice(index, realm, action, lens, stake, turn);
 }
 
-const questions = Array.from({ length: 1000 }, (_, index) => makeQuestion(index));
+const questions = Array.from({ length: 2000 }, (_, index) => makeQuestion(index));
 const seenScenarios = new Set();
 const duplicates = questions.filter((question) => {
   if (seenScenarios.has(question.scenario)) return true;
