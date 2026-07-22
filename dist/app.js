@@ -4,7 +4,8 @@ const state = {
   questions: [],
   currentIndex: 0,
   score: 0,
-  answers: []
+  answers: [],
+  correctStreak: 0
 };
 
 const screens = {
@@ -17,6 +18,9 @@ const startButton = document.getElementById("startButton");
 const musicButton = document.getElementById("musicButton");
 const floatingMusicButton = document.getElementById("floatingMusicButton");
 const musicTrack = document.getElementById("musicTrack");
+const buttonSound = document.getElementById("buttonSound");
+const streakSound = document.getElementById("streakSound");
+const finishedSound = document.getElementById("finishedSound");
 const installButton = document.getElementById("installButton");
 const questionCounter = document.getElementById("questionCounter");
 const questionTitle = document.getElementById("questionTitle");
@@ -103,8 +107,29 @@ function startQuiz() {
   state.currentIndex = 0;
   state.score = 0;
   state.answers = [];
+  state.correctStreak = 0;
   showScreen("quiz");
   renderQuestion();
+}
+
+function playEffect(audioElement, volume = 1) {
+  if (!audioElement) return;
+
+  const effect = audioElement.cloneNode();
+  effect.volume = volume;
+  effect.play().catch(() => {});
+}
+
+function playButtonSound() {
+  playEffect(buttonSound, 0.72);
+}
+
+function playStreakSound() {
+  playEffect(streakSound, 0.9);
+}
+
+function playFinishedSound() {
+  playEffect(finishedSound, 0.95);
 }
 
 function createOscillator(frequency, type, startTime, duration, gainValue) {
@@ -238,7 +263,10 @@ function renderQuestion() {
     button.className = "option";
     button.type = "button";
     button.innerHTML = `<span class="option-letter">${String.fromCharCode(65 + index)}</span><span>${option}</span>`;
-    button.addEventListener("click", () => chooseOption(index));
+    button.addEventListener("click", () => {
+      playButtonSound();
+      chooseOption(index);
+    });
     optionsList.appendChild(button);
   });
 }
@@ -254,7 +282,15 @@ function chooseOption(index) {
     if (buttonIndex === index && !correct) button.classList.add("wrong");
   });
 
-  if (correct) state.score += 1;
+  if (correct) {
+    state.score += 1;
+    state.correctStreak += 1;
+    if (state.correctStreak % 10 === 0) {
+      playStreakSound();
+    }
+  } else {
+    state.correctStreak = 0;
+  }
 
   state.answers[state.currentIndex] = {
     title: question.title,
@@ -276,6 +312,7 @@ function handleOpenAnswer() {
   const answer = openAnswer.value.trim();
 
   state.score += 1;
+  state.correctStreak = 0;
   state.answers[state.currentIndex] = {
     title: question.title,
     correct: true,
@@ -309,6 +346,7 @@ function goNext() {
 
 function skipQuestion() {
   const question = state.questions[state.currentIndex];
+  state.correctStreak = 0;
   state.answers[state.currentIndex] = {
     title: question.title,
     correct: false,
@@ -318,6 +356,7 @@ function skipQuestion() {
 }
 
 function showResults() {
+  playFinishedSound();
   progressBar.style.width = "100%";
   showScreen("result");
 
@@ -372,6 +411,7 @@ window.addEventListener("beforeinstallprompt", (event) => {
 });
 
 installButton.addEventListener("click", async () => {
+  playButtonSound();
   if (!deferredInstallPrompt) return;
   deferredInstallPrompt.prompt();
   await deferredInstallPrompt.userChoice;
@@ -385,10 +425,17 @@ if ("serviceWorker" in navigator) {
   });
 }
 
+startButton.addEventListener("click", playButtonSound);
 startButton.addEventListener("click", startQuiz);
+musicButton.addEventListener("click", playButtonSound);
 musicButton.addEventListener("click", toggleMusic);
+floatingMusicButton.addEventListener("click", playButtonSound);
 floatingMusicButton.addEventListener("click", toggleMusic);
+nextButton.addEventListener("click", playButtonSound);
 nextButton.addEventListener("click", goNext);
+skipButton.addEventListener("click", playButtonSound);
 skipButton.addEventListener("click", skipQuestion);
+restartButton.addEventListener("click", playButtonSound);
 restartButton.addEventListener("click", startQuiz);
+shareButton.addEventListener("click", playButtonSound);
 shareButton.addEventListener("click", shareResult);
