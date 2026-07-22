@@ -12,7 +12,7 @@ window.questionBank = [
     "id": "q-0002",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 2",
-    "scenario": "Vraag 2: Jullie zijn bezig met een vroege zondagochtend waarop de stallen nog gedaan moeten worden. Swahita stelt een eerlijke vraag over wat jullie doen als een van jullie harder gaat dan de ander. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit een gezamenlijk leven waarin zij zich echt gekozen voelt?",
+    "scenario": "Vraag 2: Jullie zijn bezig met een vroege zondagochtend waarop de stallen nog gedaan moeten worden. Swahita stelt een eerlijke vraag over wat jullie doen als een van jullie harder gaat dan de ander. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit een gezamenlijk leven waarin zij zich echt gekozen voelt?",
     "options": [
       "Niet stoer doen over tempo, maar open bespreken wat haalbaar is voor jullie allebei.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -40,7 +40,7 @@ window.questionBank = [
     "id": "q-0004",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 4",
-    "scenario": "Vraag 4: Er is niets dramatisch aan de hand, maar bij een vroege zondagochtend waarop de stallen nog gedaan moeten worden blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke afspraken nodig zijn om niet langs elkaar heen te gaan leven. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 4: Er is niets dramatisch aan de hand, maar bij een vroege zondagochtend waarop de stallen nog gedaan moeten worden blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke afspraken nodig zijn om niet langs elkaar heen te gaan leven. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Meer trots halen uit het boerderijbeeld dan uit hoe jullie echt samen zijn.",
@@ -68,7 +68,7 @@ window.questionBank = [
     "id": "q-0006",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 6",
-    "scenario": "Vraag 6: In een gesprek na de eerste week dat jullie echt op het erf slapen blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat de boerderijdroom belangrijker wordt dan jullie relatie. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor een gezamenlijk leven waarin zij zich echt gekozen voelt?",
+    "scenario": "Vraag 6: In een gesprek na de eerste week dat jullie echt op het erf slapen blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat de boerderijdroom belangrijker wordt dan jullie relatie. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor een gezamenlijk leven waarin zij zich echt gekozen voelt?",
     "options": [
       "Niet stoer doen over tempo, maar open bespreken wat haalbaar is voor jullie allebei.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -91,7 +91,7 @@ window.questionBank = [
     "id": "q-0008",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 8",
-    "scenario": "Vraag 8: Jullie toekomst voelt dichtbij rond de eerste week dat jullie echt op het erf slapen. Als het daarna gaat over hoe romantiek overeind blijft tussen modder, planning en vermoeidheid, Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties, welke reactie past het meest bij een gezamenlijk leven waarin zij zich echt gekozen voelt?",
+    "scenario": "Vraag 8: Jullie toekomst voelt dichtbij rond de eerste week dat jullie echt op het erf slapen. Als het daarna gaat over hoe romantiek overeind blijft tussen modder, planning en vermoeidheid, Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties, welke reactie past het meest bij een gezamenlijk leven waarin zij zich echt gekozen voelt?",
     "options": [
       "Plannen zo concreet maken dat niemand hoeft te raden wat van hem of haar verwacht wordt.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -119,7 +119,7 @@ window.questionBank = [
     "id": "q-0010",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 10",
-    "scenario": "Vraag 10: Terwijl de eerste week dat jullie echt op het erf slapen speelt, wil Swahita weten hoe jij kijkt naar hoe je de droom klein genoeg houdt om er ook echt gelukkig in te worden. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 10: Terwijl de eerste week dat jullie echt op het erf slapen speelt, wil Swahita weten hoe jij kijkt naar hoe je de droom klein genoeg houdt om er ook echt gelukkig in te worden. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Denken dat samenwonen vanzelf genoeg romantiek oplevert.",
@@ -147,7 +147,7 @@ window.questionBank = [
     "id": "q-0012",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 12",
-    "scenario": "Vraag 12: Juist in een avond waarop het buiten stil is maar binnen alles nog nieuw voelt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat jullie doen als een van jullie harder gaat dan de ander. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 12: Juist in een avond waarop het buiten stil is maar binnen alles nog nieuw voelt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat jullie doen als een van jullie harder gaat dan de ander. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
     "options": [
       "Plannen zo concreet maken dat niemand hoeft te raden wat van hem of haar verwacht wordt.",
       "Het tempo bepalen op basis van jouw enthousiasme in plaats van jullie draagkracht.",
@@ -170,7 +170,7 @@ window.questionBank = [
     "id": "q-0014",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 14",
-    "scenario": "Vraag 14: een avond waarop het buiten stil is maar binnen alles nog nieuw voelt zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke afspraken nodig zijn om niet langs elkaar heen te gaan leven. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 14: een avond waarop het buiten stil is maar binnen alles nog nieuw voelt zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke afspraken nodig zijn om niet langs elkaar heen te gaan leven. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
     "options": [
       "De droom steeds terugbrengen naar de vraag of zij zich in dit leven nog vrij en blij voelt.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -198,7 +198,7 @@ window.questionBank = [
     "id": "q-0016",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 16",
-    "scenario": "Vraag 16: Swahita kijkt naar hoe jij reageert bij een dag waarop werk, dieren en huishouden tegelijk aandacht vragen. Daarna wil ze weten hoe je staat in hoe je voorkomt dat de boerderijdroom belangrijker wordt dan jullie relatie. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 16: Swahita kijkt naar hoe jij reageert bij een dag waarop werk, dieren en huishouden tegelijk aandacht vragen. Daarna wil ze weten hoe je staat in hoe je voorkomt dat de boerderijdroom belangrijker wordt dan jullie relatie. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
     "options": [
       "Doorgaan, ook als zij subtiel laat merken dat het te veel wordt.",
       "Denken dat samenwonen vanzelf genoeg romantiek oplevert.",
@@ -226,7 +226,7 @@ window.questionBank = [
     "id": "q-0018",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 18",
-    "scenario": "Vraag 18: Als een dag waarop werk, dieren en huishouden tegelijk aandacht vragen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe romantiek overeind blijft tussen modder, planning en vermoeidheid. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 18: Als een dag waarop werk, dieren en huishouden tegelijk aandacht vragen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe romantiek overeind blijft tussen modder, planning en vermoeidheid. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "De droom steeds terugbrengen naar de vraag of zij zich in dit leven nog vrij en blij voelt.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -249,7 +249,7 @@ window.questionBank = [
     "id": "q-0020",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 20",
-    "scenario": "Vraag 20: Bij een dag waarop werk, dieren en huishouden tegelijk aandacht vragen blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je de droom klein genoeg houdt om er ook echt gelukkig in te worden in. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 20: Bij een dag waarop werk, dieren en huishouden tegelijk aandacht vragen blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je de droom klein genoeg houdt om er ook echt gelukkig in te worden in. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Zelfs op drukke dagen bewust tijd maken voor nabijheid, humor en afstemming.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -263,7 +263,7 @@ window.questionBank = [
     "id": "q-0021",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 21",
-    "scenario": "Vraag 21: Tijdens het moment dat jullie merken dat de droom nu geen idee meer is maar een levensvorm komt ineens dit op tafel: hoe je voorkomt dat de boerderijdroom belangrijker wordt dan jullie relatie. Je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent. Omdat dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij een gezamenlijk leven waarin zij zich echt gekozen voelt?",
+    "scenario": "Vraag 21: Tijdens het moment dat jullie merken dat de droom nu geen idee meer is maar een levensvorm komt ineens dit op tafel: hoe je voorkomt dat de boerderijdroom belangrijker wordt dan jullie relatie. Je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent. Dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij een gezamenlijk leven waarin zij zich echt gekozen voelt?",
     "options": [
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -277,7 +277,7 @@ window.questionBank = [
     "id": "q-0022",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 22",
-    "scenario": "Vraag 22: Jullie zijn bezig met het moment dat jullie merken dat de droom nu geen idee meer is maar een levensvorm. Swahita stelt een eerlijke vraag over wat jullie doen als een van jullie harder gaat dan de ander. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit een gezamenlijk leven waarin zij zich echt gekozen voelt?",
+    "scenario": "Vraag 22: Jullie zijn bezig met het moment dat jullie merken dat de droom nu geen idee meer is maar een levensvorm. Swahita stelt een eerlijke vraag over wat jullie doen als een van jullie harder gaat dan de ander. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit een gezamenlijk leven waarin zij zich echt gekozen voelt?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Vol overtuiging zeggen dat liefde alle praktische chaos later wel opvangt.",
@@ -305,7 +305,7 @@ window.questionBank = [
     "id": "q-0024",
     "family": "Samen op de boerderij",
     "title": "Samen op de boerderij 24",
-    "scenario": "Vraag 24: Er is niets dramatisch aan de hand, maar bij het moment dat jullie merken dat de droom nu geen idee meer is maar een levensvorm blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke afspraken nodig zijn om niet langs elkaar heen te gaan leven. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 24: Er is niets dramatisch aan de hand, maar bij het moment dat jullie merken dat de droom nu geen idee meer is maar een levensvorm blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke afspraken nodig zijn om niet langs elkaar heen te gaan leven. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Zelfs op drukke dagen bewust tijd maken voor nabijheid, humor en afstemming.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -351,7 +351,7 @@ window.questionBank = [
     "id": "q-0028",
     "family": "Huis en thuis",
     "title": "Huis en thuis 3",
-    "scenario": "Vraag 28: Jullie toekomst voelt dichtbij rond een gesprek over hoe jullie huis ruikt, klinkt en aanvoelt na een lange werkdag. Als het daarna gaat over welke ruimte zij nodig heeft om op te laden, Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties, welke reactie past het meest bij een thuis waarin zij zich veilig, rustig en welkom voelt?",
+    "scenario": "Vraag 28: Jullie toekomst voelt dichtbij rond een gesprek over hoe jullie huis ruikt, klinkt en aanvoelt na een lange werkdag. Als het daarna gaat over welke ruimte zij nodig heeft om op te laden, Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties, welke reactie past het meest bij een thuis waarin zij zich veilig, rustig en welkom voelt?",
     "options": [
       "Onhandigheden laten opstapelen tot het ineens over iets heel anders lijkt te gaan.",
       "Zeggen dat thuisgevoel vanzelf komt als jullie elkaar maar lief vinden.",
@@ -379,7 +379,7 @@ window.questionBank = [
     "id": "q-0030",
     "family": "Huis en thuis",
     "title": "Huis en thuis 5",
-    "scenario": "Vraag 30: Terwijl een gesprek over hoe jullie huis ruikt, klinkt en aanvoelt na een lange werkdag speelt, wil Swahita weten hoe jij kijkt naar wat ervoor zorgt dat binnenkomen aanvoelt als landen in plaats van overleven. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 30: Terwijl een gesprek over hoe jullie huis ruikt, klinkt en aanvoelt na een lange werkdag speelt, wil Swahita weten hoe jij kijkt naar wat ervoor zorgt dat binnenkomen aanvoelt als landen in plaats van overleven. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Van thuis een plek maken waar zachtheid, voorspelbaarheid en aandacht voelbaar zijn.",
       "Denken dat binnenkomen automatisch ontspannend is voor iedereen.",
@@ -430,7 +430,7 @@ window.questionBank = [
     "id": "q-0034",
     "family": "Huis en thuis",
     "title": "Huis en thuis 9",
-    "scenario": "Vraag 34: het inrichten van een woonkamer die niet alleen praktisch maar ook warm moet zijn zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je met rommel, drukte en prikkels omgaat zonder spanning op te bouwen. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 34: het inrichten van een woonkamer die niet alleen praktisch maar ook warm moet zijn zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je met rommel, drukte en prikkels omgaat zonder spanning op te bouwen. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -458,7 +458,7 @@ window.questionBank = [
     "id": "q-0036",
     "family": "Huis en thuis",
     "title": "Huis en thuis 11",
-    "scenario": "Vraag 36: Swahita kijkt naar hoe jij reageert bij de eerste keer dat een dag thuis rommelig en chaotisch eindigt. Daarna wil ze weten hoe je staat in wat thuisgevoel voor haar concreet betekent. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 36: Swahita kijkt naar hoe jij reageert bij de eerste keer dat een dag thuis rommelig en chaotisch eindigt. Daarna wil ze weten hoe je staat in wat thuisgevoel voor haar concreet betekent. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
     "options": [
       "Ruimte beschermen waarin zij niet hoeft te presteren maar gewoon mag bijkomen.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -509,7 +509,7 @@ window.questionBank = [
     "id": "q-0040",
     "family": "Huis en thuis",
     "title": "Huis en thuis 15",
-    "scenario": "Vraag 40: Bij de eerste keer dat een dag thuis rommelig en chaotisch eindigt blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat ervoor zorgt dat binnenkomen aanvoelt als landen in plaats van overleven in. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 40: Bij de eerste keer dat een dag thuis rommelig en chaotisch eindigt blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat ervoor zorgt dat binnenkomen aanvoelt als landen in plaats van overleven in. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Aannemen dat zij wel went aan hoe jij het altijd hebt gedaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -523,7 +523,7 @@ window.questionBank = [
     "id": "q-0041",
     "family": "Huis en thuis",
     "title": "Huis en thuis 16",
-    "scenario": "Vraag 41: Tijdens een avond waarop jullie bespreken wie waar tot rust komt komt ineens dit op tafel: wat thuisgevoel voor haar concreet betekent. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Omdat dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij een thuis waarin zij zich veilig, rustig en welkom voelt?",
+    "scenario": "Vraag 41: Tijdens een avond waarop jullie bespreken wie waar tot rust komt komt ineens dit op tafel: wat thuisgevoel voor haar concreet betekent. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij een thuis waarin zij zich veilig, rustig en welkom voelt?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Denken dat binnenkomen automatisch ontspannend is voor iedereen.",
@@ -537,7 +537,7 @@ window.questionBank = [
     "id": "q-0042",
     "family": "Huis en thuis",
     "title": "Huis en thuis 17",
-    "scenario": "Vraag 42: Jullie zijn bezig met een avond waarop jullie bespreken wie waar tot rust komt. Swahita stelt een eerlijke vraag over hoe je een huis maakt dat niet alleen van jou voelt. Dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit een thuis waarin zij zich veilig, rustig en welkom voelt?",
+    "scenario": "Vraag 42: Jullie zijn bezig met een avond waarop jullie bespreken wie waar tot rust komt. Swahita stelt een eerlijke vraag over hoe je een huis maakt dat niet alleen van jou voelt. Dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit een thuis waarin zij zich veilig, rustig en welkom voelt?",
     "options": [
       "Van thuis een plek maken waar zachtheid, voorspelbaarheid en aandacht voelbaar zijn.",
       "Onhandigheden laten opstapelen tot het ineens over iets heel anders lijkt te gaan.",
@@ -588,7 +588,7 @@ window.questionBank = [
     "id": "q-0046",
     "family": "Huis en thuis",
     "title": "Huis en thuis 21",
-    "scenario": "Vraag 46: In een gesprek na het zoeken naar een ritme waarin thuis niet alleen een werkplek is blijkt dat jullie niet alleen over praktische dingen praten, maar ook over wat thuisgevoel voor haar concreet betekent. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor een thuis waarin zij zich veilig, rustig en welkom voelt?",
+    "scenario": "Vraag 46: In een gesprek na het zoeken naar een ritme waarin thuis niet alleen een werkplek is blijkt dat jullie niet alleen over praktische dingen praten, maar ook over wat thuisgevoel voor haar concreet betekent. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor een thuis waarin zij zich veilig, rustig en welkom voelt?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -616,7 +616,7 @@ window.questionBank = [
     "id": "q-0048",
     "family": "Huis en thuis",
     "title": "Huis en thuis 23",
-    "scenario": "Vraag 48: Jullie toekomst voelt dichtbij rond het zoeken naar een ritme waarin thuis niet alleen een werkplek is. Als het daarna gaat over welke ruimte zij nodig heeft om op te laden, Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij een thuis waarin zij zich veilig, rustig en welkom voelt?",
+    "scenario": "Vraag 48: Jullie toekomst voelt dichtbij rond het zoeken naar een ritme waarin thuis niet alleen een werkplek is. Als het daarna gaat over welke ruimte zij nodig heeft om op te laden, Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij een thuis waarin zij zich veilig, rustig en welkom voelt?",
     "options": [
       "Het huis inrichten vanuit jullie allebei, niet vanuit jouw smaak als standaard.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -662,7 +662,7 @@ window.questionBank = [
     "id": "q-0052",
     "family": "Werkverdeling",
     "title": "Werkverdeling 2",
-    "scenario": "Vraag 52: Juist in een week waarin er buiten veel moet gebeuren en binnen ook alles blijft liggen wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als inzet en energie niet elke week gelijk zijn. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 52: Juist in een week waarin er buiten veel moet gebeuren en binnen ook alles blijft liggen wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als inzet en energie niet elke week gelijk zijn. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -690,7 +690,7 @@ window.questionBank = [
     "id": "q-0054",
     "family": "Werkverdeling",
     "title": "Werkverdeling 4",
-    "scenario": "Vraag 54: een week waarin er buiten veel moet gebeuren en binnen ook alles blijft liggen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke taken je bewust wilt benoemen omdat ze anders onzichtbaar blijven. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 54: een week waarin er buiten veel moet gebeuren en binnen ook alles blijft liggen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke taken je bewust wilt benoemen omdat ze anders onzichtbaar blijven. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
     "options": [
       "Ook mentale en onzichtbare taken benoemen zodat die niet automatisch bij haar belanden.",
       "Alleen kijken naar zichtbare klussen en de rest niet meetellen.",
@@ -718,7 +718,7 @@ window.questionBank = [
     "id": "q-0056",
     "family": "Werkverdeling",
     "title": "Werkverdeling 6",
-    "scenario": "Vraag 56: Swahita kijkt naar hoe jij reageert bij een planningsoverleg over wie de vroege taken en wie de late taken doet. Daarna wil ze weten hoe je staat in hoe je voorkomt dat een taakverdeling scheef groeit zonder dat iemand het hardop zegt. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 56: Swahita kijkt naar hoe jij reageert bij een planningsoverleg over wie de vroege taken en wie de late taken doet. Daarna wil ze weten hoe je staat in hoe je voorkomt dat een taakverdeling scheef groeit zonder dat iemand het hardop zegt. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
     "options": [
       "Energieverschillen serieus nemen en de taken daarop aanpassen zonder schuldspel.",
       "Zeggen dat iedereen gewoon even hard moet aanpakken.",
@@ -741,7 +741,7 @@ window.questionBank = [
     "id": "q-0058",
     "family": "Werkverdeling",
     "title": "Werkverdeling 8",
-    "scenario": "Vraag 58: Als een planningsoverleg over wie de vroege taken en wie de late taken doet eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je eerlijk blijft zonder dat alles een rekensom wordt. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 58: Als een planningsoverleg over wie de vroege taken en wie de late taken doet eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je eerlijk blijft zonder dat alles een rekensom wordt. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Dingen overnemen zonder af te stemmen en dat dan zorg noemen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -769,7 +769,7 @@ window.questionBank = [
     "id": "q-0060",
     "family": "Werkverdeling",
     "title": "Werkverdeling 10",
-    "scenario": "Vraag 60: Bij een planningsoverleg over wie de vroege taken en wie de late taken doet blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je elkaar helpt zonder elkaar ongemerkt te gaan dragen in. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 60: Bij een planningsoverleg over wie de vroege taken en wie de late taken doet blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je elkaar helpt zonder elkaar ongemerkt te gaan dragen in. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Regelmatig opnieuw afstemmen of de verdeling nog eerlijk voelt in plaats van alleen logisch lijkt.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -783,7 +783,7 @@ window.questionBank = [
     "id": "q-0061",
     "family": "Werkverdeling",
     "title": "Werkverdeling 11",
-    "scenario": "Vraag 61: Tijdens een periode waarin een van jullie merkbaar minder energie heeft komt ineens dit op tafel: hoe je voorkomt dat een taakverdeling scheef groeit zonder dat iemand het hardop zegt. Dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden. Omdat dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij eerlijkheid zonder scorebord en zonder stille overbelasting?",
+    "scenario": "Vraag 61: Tijdens een periode waarin een van jullie merkbaar minder energie heeft komt ineens dit op tafel: hoe je voorkomt dat een taakverdeling scheef groeit zonder dat iemand het hardop zegt. Dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden. Dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij eerlijkheid zonder scorebord en zonder stille overbelasting?",
     "options": [
       "Dingen overnemen zonder af te stemmen en dat dan zorg noemen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -797,7 +797,7 @@ window.questionBank = [
     "id": "q-0062",
     "family": "Werkverdeling",
     "title": "Werkverdeling 12",
-    "scenario": "Vraag 62: Jullie zijn bezig met een periode waarin een van jullie merkbaar minder energie heeft. Swahita stelt een eerlijke vraag over wat je doet als inzet en energie niet elke week gelijk zijn. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit eerlijkheid zonder scorebord en zonder stille overbelasting?",
+    "scenario": "Vraag 62: Jullie zijn bezig met een periode waarin een van jullie merkbaar minder energie heeft. Swahita stelt een eerlijke vraag over wat je doet als inzet en energie niet elke week gelijk zijn. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit eerlijkheid zonder scorebord en zonder stille overbelasting?",
     "options": [
       "Ook mentale en onzichtbare taken benoemen zodat die niet automatisch bij haar belanden.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -820,7 +820,7 @@ window.questionBank = [
     "id": "q-0064",
     "family": "Werkverdeling",
     "title": "Werkverdeling 14",
-    "scenario": "Vraag 64: Er is niets dramatisch aan de hand, maar bij een periode waarin een van jullie merkbaar minder energie heeft blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke taken je bewust wilt benoemen omdat ze anders onzichtbaar blijven. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 64: Er is niets dramatisch aan de hand, maar bij een periode waarin een van jullie merkbaar minder energie heeft blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke taken je bewust wilt benoemen omdat ze anders onzichtbaar blijven. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -848,7 +848,7 @@ window.questionBank = [
     "id": "q-0066",
     "family": "Werkverdeling",
     "title": "Werkverdeling 16",
-    "scenario": "Vraag 66: In een gesprek na een dag waarop iets onverwachts de hele taakverdeling omgooit blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat een taakverdeling scheef groeit zonder dat iemand het hardop zegt. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor eerlijkheid zonder scorebord en zonder stille overbelasting?",
+    "scenario": "Vraag 66: In een gesprek na een dag waarop iets onverwachts de hele taakverdeling omgooit blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat een taakverdeling scheef groeit zonder dat iemand het hardop zegt. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor eerlijkheid zonder scorebord en zonder stille overbelasting?",
     "options": [
       "Ook mentale en onzichtbare taken benoemen zodat die niet automatisch bij haar belanden.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -876,7 +876,7 @@ window.questionBank = [
     "id": "q-0068",
     "family": "Werkverdeling",
     "title": "Werkverdeling 18",
-    "scenario": "Vraag 68: Jullie toekomst voelt dichtbij rond een dag waarop iets onverwachts de hele taakverdeling omgooit. Als het daarna gaat over hoe je eerlijk blijft zonder dat alles een rekensom wordt, Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij eerlijkheid zonder scorebord en zonder stille overbelasting?",
+    "scenario": "Vraag 68: Jullie toekomst voelt dichtbij rond een dag waarop iets onverwachts de hele taakverdeling omgooit. Als het daarna gaat over hoe je eerlijk blijft zonder dat alles een rekensom wordt, Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij eerlijkheid zonder scorebord en zonder stille overbelasting?",
     "options": [
       "Regelmatig opnieuw afstemmen of de verdeling nog eerlijk voelt in plaats van alleen logisch lijkt.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -899,7 +899,7 @@ window.questionBank = [
     "id": "q-0070",
     "family": "Werkverdeling",
     "title": "Werkverdeling 20",
-    "scenario": "Vraag 70: Terwijl een dag waarop iets onverwachts de hele taakverdeling omgooit speelt, wil Swahita weten hoe jij kijkt naar hoe je elkaar helpt zonder elkaar ongemerkt te gaan dragen. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 70: Terwijl een dag waarop iets onverwachts de hele taakverdeling omgooit speelt, wil Swahita weten hoe jij kijkt naar hoe je elkaar helpt zonder elkaar ongemerkt te gaan dragen. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Eerlijkheid gelijkstellen aan exact de helft, ongeacht ieders belastbaarheid.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -927,7 +927,7 @@ window.questionBank = [
     "id": "q-0072",
     "family": "Werkverdeling",
     "title": "Werkverdeling 22",
-    "scenario": "Vraag 72: Juist in een gesprek over wat eerlijk voelt en wat alleen op papier eerlijk lijkt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als inzet en energie niet elke week gelijk zijn. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 72: Juist in een gesprek over wat eerlijk voelt en wat alleen op papier eerlijk lijkt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als inzet en energie niet elke week gelijk zijn. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Regelmatig opnieuw afstemmen of de verdeling nog eerlijk voelt in plaats van alleen logisch lijkt.",
       "Dingen overnemen zonder af te stemmen en dat dan zorg noemen.",
@@ -955,7 +955,7 @@ window.questionBank = [
     "id": "q-0074",
     "family": "Werkverdeling",
     "title": "Werkverdeling 24",
-    "scenario": "Vraag 74: een gesprek over wat eerlijk voelt en wat alleen op papier eerlijk lijkt zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke taken je bewust wilt benoemen omdat ze anders onzichtbaar blijven. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 74: een gesprek over wat eerlijk voelt en wat alleen op papier eerlijk lijkt zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke taken je bewust wilt benoemen omdat ze anders onzichtbaar blijven. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Eerlijkheid zoeken in draaglast, niet in het mathematisch precies tellen van klusjes.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -1001,7 +1001,7 @@ window.questionBank = [
     "id": "q-0078",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 3",
-    "scenario": "Vraag 78: Als een ochtend waarop de dieren eerder aandacht nodig hebben dan gepland eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je verantwoordelijkheid verdeelt zonder slordigheid of bitterheid. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 78: Als een ochtend waarop de dieren eerder aandacht nodig hebben dan gepland eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je verantwoordelijkheid verdeelt zonder slordigheid of bitterheid. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Verantwoordelijkheid helder verdelen zodat niets tussen jullie in valt.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -1029,7 +1029,7 @@ window.questionBank = [
     "id": "q-0080",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 5",
-    "scenario": "Vraag 80: Bij een ochtend waarop de dieren eerder aandacht nodig hebben dan gepland blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je trouw blijft aan zorg zonder jezelf of haar op te branden in. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 80: Bij een ochtend waarop de dieren eerder aandacht nodig hebben dan gepland blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je trouw blijft aan zorg zonder jezelf of haar op te branden in. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Zorg serieus nemen zonder te doen alsof uitputting erbij hoort.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -1043,7 +1043,7 @@ window.questionBank = [
     "id": "q-0081",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 6",
-    "scenario": "Vraag 81: Tijdens een gesprek na een dag waarin een dier onverwacht extra zorg vroeg komt ineens dit op tafel: hoe je voorkomt dat dierenzorg op wilskracht alleen draait. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Omdat dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij zorg die betrouwbaar is voor de dieren en leefbaar voor jullie?",
+    "scenario": "Vraag 81: Tijdens een gesprek na een dag waarin een dier onverwacht extra zorg vroeg komt ineens dit op tafel: hoe je voorkomt dat dierenzorg op wilskracht alleen draait. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie. Welke reactie past dan het best bij zorg die betrouwbaar is voor de dieren en leefbaar voor jullie?",
     "options": [
       "Aannemen dat liefde voor dieren genoeg is om alle zorg vol te houden.",
       "Voor gemak kiezen en hopen dat de dieren daar weinig van merken.",
@@ -1080,7 +1080,7 @@ window.questionBank = [
     "id": "q-0084",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 9",
-    "scenario": "Vraag 84: Er is niets dramatisch aan de hand, maar bij een gesprek na een dag waarin een dier onverwacht extra zorg vroeg blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat je laat voorgaan als gemak botst met goede zorg. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 84: Er is niets dramatisch aan de hand, maar bij een gesprek na een dag waarin een dier onverwacht extra zorg vroeg blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat je laat voorgaan als gemak botst met goede zorg. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Zorg serieus nemen zonder te doen alsof uitputting erbij hoort.",
       "Voor gemak kiezen en hopen dat de dieren daar weinig van merken.",
@@ -1108,7 +1108,7 @@ window.questionBank = [
     "id": "q-0086",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 11",
-    "scenario": "Vraag 86: In een gesprek na het uitzoeken van routines voor voeren, schoonmaken en opletten blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat dierenzorg op wilskracht alleen draait. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor zorg die betrouwbaar is voor de dieren en leefbaar voor jullie?",
+    "scenario": "Vraag 86: In een gesprek na het uitzoeken van routines voor voeren, schoonmaken en opletten blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat dierenzorg op wilskracht alleen draait. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor zorg die betrouwbaar is voor de dieren en leefbaar voor jullie?",
     "options": [
       "Verantwoordelijkheid helder verdelen zodat niets tussen jullie in valt.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -1159,7 +1159,7 @@ window.questionBank = [
     "id": "q-0090",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 15",
-    "scenario": "Vraag 90: Terwijl het uitzoeken van routines voor voeren, schoonmaken en opletten speelt, wil Swahita weten hoe jij kijkt naar hoe je trouw blijft aan zorg zonder jezelf of haar op te branden. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 90: Terwijl het uitzoeken van routines voor voeren, schoonmaken en opletten speelt, wil Swahita weten hoe jij kijkt naar hoe je trouw blijft aan zorg zonder jezelf of haar op te branden. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Op tijd erkennen wanneer extra zorg extra hulp, tijd of aanpassing vraagt.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -1187,7 +1187,7 @@ window.questionBank = [
     "id": "q-0092",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 17",
-    "scenario": "Vraag 92: Juist in een periode waarin slecht weer alles zwaarder maakt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als de zorg meer wordt dan gedacht. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 92: Juist in een periode waarin slecht weer alles zwaarder maakt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als de zorg meer wordt dan gedacht. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Zorg serieus nemen zonder te doen alsof uitputting erbij hoort.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -1238,7 +1238,7 @@ window.questionBank = [
     "id": "q-0096",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 21",
-    "scenario": "Vraag 96: Swahita kijkt naar hoe jij reageert bij de vraag hoe jullie dierenzorg combineren met jullie eigen grenzen. Daarna wil ze weten hoe je staat in hoe je voorkomt dat dierenzorg op wilskracht alleen draait. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 96: Swahita kijkt naar hoe jij reageert bij de vraag hoe jullie dierenzorg combineren met jullie eigen grenzen. Daarna wil ze weten hoe je staat in hoe je voorkomt dat dierenzorg op wilskracht alleen draait. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Zorg serieus nemen zonder te doen alsof uitputting erbij hoort.",
       "Improviseren zolang het meestal wel goed gaat.",
@@ -1266,7 +1266,7 @@ window.questionBank = [
     "id": "q-0098",
     "family": "Dieren verzorgen",
     "title": "Dieren verzorgen 23",
-    "scenario": "Vraag 98: Als de vraag hoe jullie dierenzorg combineren met jullie eigen grenzen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je verantwoordelijkheid verdeelt zonder slordigheid of bitterheid. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 98: Als de vraag hoe jullie dierenzorg combineren met jullie eigen grenzen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je verantwoordelijkheid verdeelt zonder slordigheid of bitterheid. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Op tijd erkennen wanneer extra zorg extra hulp, tijd of aanpassing vraagt.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -1312,7 +1312,7 @@ window.questionBank = [
     "id": "q-0102",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 2",
-    "scenario": "Vraag 102: Jullie zijn bezig met een voorjaar waarin alles tegelijk gezaaid en gepland lijkt te moeten worden. Swahita stelt een eerlijke vraag over wat je doet als de tuin meer werk vraagt dan voorzien. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit samen iets laten groeien zonder dat het een bron van druk wordt?",
+    "scenario": "Vraag 102: Jullie zijn bezig met een voorjaar waarin alles tegelijk gezaaid en gepland lijkt te moeten worden. Swahita stelt een eerlijke vraag over wat je doet als de tuin meer werk vraagt dan voorzien. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste reactie als je denkt vanuit samen iets laten groeien zonder dat het een bron van druk wordt?",
     "options": [
       "Ambitie tijdig terugschalen wanneer het project zwaarder wordt dan goed voelt.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -1340,7 +1340,7 @@ window.questionBank = [
     "id": "q-0104",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 4",
-    "scenario": "Vraag 104: Er is niets dramatisch aan de hand, maar bij een voorjaar waarin alles tegelijk gezaaid en gepland lijkt te moeten worden blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie beslissen wat belangrijk is en wat best mag mislukken. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 104: Er is niets dramatisch aan de hand, maar bij een voorjaar waarin alles tegelijk gezaaid en gepland lijkt te moeten worden blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie beslissen wat belangrijk is en wat best mag mislukken. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Samen kiezen waar de aandacht heen gaat in plaats van alles tegelijk te willen redden.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -1368,7 +1368,7 @@ window.questionBank = [
     "id": "q-0106",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 6",
-    "scenario": "Vraag 106: In een gesprek na een gesprek terwijl jullie kijken naar wat wel en niet is aangeslagen blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je plezier bewaart als niet alles lukt. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor samen iets laten groeien zonder dat het een bron van druk wordt?",
+    "scenario": "Vraag 106: In een gesprek na een gesprek terwijl jullie kijken naar wat wel en niet is aangeslagen blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je plezier bewaart als niet alles lukt. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie bewijst het best dat jij kiest voor samen iets laten groeien zonder dat het een bron van druk wordt?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Doen alsof alles alleen maar leuk hoort te zijn.",
@@ -1391,7 +1391,7 @@ window.questionBank = [
     "id": "q-0108",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 8",
-    "scenario": "Vraag 108: Jullie toekomst voelt dichtbij rond een gesprek terwijl jullie kijken naar wat wel en niet is aangeslagen. Als het daarna gaat over hoe je voorkomt dat een mooi project een verplichting wordt, Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij samen iets laten groeien zonder dat het een bron van druk wordt?",
+    "scenario": "Vraag 108: Jullie toekomst voelt dichtbij rond een gesprek terwijl jullie kijken naar wat wel en niet is aangeslagen. Als het daarna gaat over hoe je voorkomt dat een mooi project een verplichting wordt, Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij samen iets laten groeien zonder dat het een bron van druk wordt?",
     "options": [
       "Samen kiezen waar de aandacht heen gaat in plaats van alles tegelijk te willen redden.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -1419,7 +1419,7 @@ window.questionBank = [
     "id": "q-0110",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 10",
-    "scenario": "Vraag 110: Terwijl een gesprek terwijl jullie kijken naar wat wel en niet is aangeslagen speelt, wil Swahita weten hoe jij kijkt naar wat er nodig is om samen trots te zijn zonder perfectionisme. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 110: Terwijl een gesprek terwijl jullie kijken naar wat wel en niet is aangeslagen speelt, wil Swahita weten hoe jij kijkt naar wat er nodig is om samen trots te zijn zonder perfectionisme. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Plezier en haalbaarheid belangrijker maken dan overal maximale opbrengst uit persen.",
       "Succes meten in opbrengst in plaats van in hoe het voor jullie voelt.",
@@ -1447,7 +1447,7 @@ window.questionBank = [
     "id": "q-0112",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 12",
-    "scenario": "Vraag 112: Juist in een avond waarop de tuinwerkzaamheden maar niet af lijken wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als de tuin meer werk vraagt dan voorzien. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 112: Juist in een avond waarop de tuinwerkzaamheden maar niet af lijken wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je doet als de tuin meer werk vraagt dan voorzien. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Stiekem hopen dat de ander de minder leuke taken wel oppakt.",
       "Doen alsof alles alleen maar leuk hoort te zijn.",
@@ -1470,7 +1470,7 @@ window.questionBank = [
     "id": "q-0114",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 14",
-    "scenario": "Vraag 114: een avond waarop de tuinwerkzaamheden maar niet af lijken zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe jullie beslissen wat belangrijk is en wat best mag mislukken. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 114: een avond waarop de tuinwerkzaamheden maar niet af lijken zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe jullie beslissen wat belangrijk is en wat best mag mislukken. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Plezier en haalbaarheid belangrijker maken dan overal maximale opbrengst uit persen.",
       "Geen keuzes maken en daardoor overal half achterlopen.",
@@ -1498,7 +1498,7 @@ window.questionBank = [
     "id": "q-0116",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 16",
-    "scenario": "Vraag 116: Swahita kijkt naar hoe jij reageert bij het verdelen van onderhoud, oogst en opruimen door het seizoen heen. Daarna wil ze weten hoe je staat in hoe je plezier bewaart als niet alles lukt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 116: Swahita kijkt naar hoe jij reageert bij het verdelen van onderhoud, oogst en opruimen door het seizoen heen. Daarna wil ze weten hoe je staat in hoe je plezier bewaart als niet alles lukt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Samen kiezen waar de aandacht heen gaat in plaats van alles tegelijk te willen redden.",
       "Succes meten in opbrengst in plaats van in hoe het voor jullie voelt.",
@@ -1526,7 +1526,7 @@ window.questionBank = [
     "id": "q-0118",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 18",
-    "scenario": "Vraag 118: Als het verdelen van onderhoud, oogst en opruimen door het seizoen heen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je voorkomt dat een mooi project een verplichting wordt. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 118: Als het verdelen van onderhoud, oogst en opruimen door het seizoen heen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je voorkomt dat een mooi project een verplichting wordt. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -1549,7 +1549,7 @@ window.questionBank = [
     "id": "q-0120",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 20",
-    "scenario": "Vraag 120: Bij het verdelen van onderhoud, oogst en opruimen door het seizoen heen blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat er nodig is om samen trots te zijn zonder perfectionisme in. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 120: Bij het verdelen van onderhoud, oogst en opruimen door het seizoen heen blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat er nodig is om samen trots te zijn zonder perfectionisme in. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "De tuin als gedeeld ritme behandelen, niet als een extra bron van druk.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -1563,7 +1563,7 @@ window.questionBank = [
     "id": "q-0121",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 21",
-    "scenario": "Vraag 121: Tijdens een moment waarop de moestuin meer ambitie oproept dan rust komt ineens dit op tafel: hoe je plezier bewaart als niet alles lukt. Haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is. Omdat hier snel scheefgroei ontstaat als je niet bewust kiest. Welke reactie past dan het best bij samen iets laten groeien zonder dat het een bron van druk wordt?",
+    "scenario": "Vraag 121: Tijdens een moment waarop de moestuin meer ambitie oproept dan rust komt ineens dit op tafel: hoe je plezier bewaart als niet alles lukt. Haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is. Hier ontstaat snel scheefgroei als je niet bewust kiest. Welke reactie past dan het best bij samen iets laten groeien zonder dat het een bron van druk wordt?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -1577,7 +1577,7 @@ window.questionBank = [
     "id": "q-0122",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 22",
-    "scenario": "Vraag 122: Jullie zijn bezig met een moment waarop de moestuin meer ambitie oproept dan rust. Swahita stelt een eerlijke vraag over wat je doet als de tuin meer werk vraagt dan voorzien. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit samen iets laten groeien zonder dat het een bron van druk wordt?",
+    "scenario": "Vraag 122: Jullie zijn bezig met een moment waarop de moestuin meer ambitie oproept dan rust. Swahita stelt een eerlijke vraag over wat je doet als de tuin meer werk vraagt dan voorzien. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit samen iets laten groeien zonder dat het een bron van druk wordt?",
     "options": [
       "Plezier en haalbaarheid belangrijker maken dan overal maximale opbrengst uit persen.",
       "De lat zo hoog leggen dat ontspanning onmogelijk wordt.",
@@ -1605,7 +1605,7 @@ window.questionBank = [
     "id": "q-0124",
     "family": "Tuin en moestuin",
     "title": "Tuin en moestuin 24",
-    "scenario": "Vraag 124: Er is niets dramatisch aan de hand, maar bij een moment waarop de moestuin meer ambitie oproept dan rust blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie beslissen wat belangrijk is en wat best mag mislukken. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 124: Er is niets dramatisch aan de hand, maar bij een moment waarop de moestuin meer ambitie oproept dan rust blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie beslissen wat belangrijk is en wat best mag mislukken. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
     "options": [
       "Steeds uitbreiden omdat het idee mooier is dan het onderhoud.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -1651,7 +1651,7 @@ window.questionBank = [
     "id": "q-0128",
     "family": "Geld en plannen",
     "title": "Geld en plannen 3",
-    "scenario": "Vraag 128: Jullie toekomst voelt dichtbij rond een avond met begrotingen, lijstjes en kosten waar niemand echt zin in heeft. Als het daarna gaat over hoe jullie beslissingen nemen zonder dat geld het hele gesprek kaapt, Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
+    "scenario": "Vraag 128: Jullie toekomst voelt dichtbij rond een avond met begrotingen, lijstjes en kosten waar niemand echt zin in heeft. Als het daarna gaat over hoe jullie beslissingen nemen zonder dat geld het hele gesprek kaapt, Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt, welke reactie past het meest bij financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
     "options": [
       "Financiele keuzes maken als team in plaats van als degene die het hardst durft.",
       "Uit ongemak vaag blijven totdat er echt stress ontstaat.",
@@ -1679,7 +1679,7 @@ window.questionBank = [
     "id": "q-0130",
     "family": "Geld en plannen",
     "title": "Geld en plannen 5",
-    "scenario": "Vraag 130: Terwijl een avond met begrotingen, lijstjes en kosten waar niemand echt zin in heeft speelt, wil Swahita weten hoe jij kijkt naar hoe je voorkomt dat schaamte rond geld tot afstand leidt. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 130: Terwijl een avond met begrotingen, lijstjes en kosten waar niemand echt zin in heeft speelt, wil Swahita weten hoe jij kijkt naar hoe je voorkomt dat schaamte rond geld tot afstand leidt. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -1730,7 +1730,7 @@ window.questionBank = [
     "id": "q-0134",
     "family": "Geld en plannen",
     "title": "Geld en plannen 9",
-    "scenario": "Vraag 134: de vraag hoeveel risico jullie samen eigenlijk willen dragen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke risico's je wel en niet met elkaar wilt nemen. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 134: de vraag hoeveel risico jullie samen eigenlijk willen dragen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke risico's je wel en niet met elkaar wilt nemen. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Kwetsbaar durven zijn over zorgen of schaamte rond geld.",
       "Zeggen dat het later vanzelf wel uitkomt als jullie er maar in geloven.",
@@ -1758,7 +1758,7 @@ window.questionBank = [
     "id": "q-0136",
     "family": "Geld en plannen",
     "title": "Geld en plannen 11",
-    "scenario": "Vraag 136: Swahita kijkt naar hoe jij reageert bij een maand waarin onverwachte uitgaven ineens alles spannender maken. Daarna wil ze weten hoe je staat in hoe open je moet zijn over geldstress. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 136: Swahita kijkt naar hoe jij reageert bij een maand waarin onverwachte uitgaven ineens alles spannender maken. Daarna wil ze weten hoe je staat in hoe open je moet zijn over geldstress. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -1809,7 +1809,7 @@ window.questionBank = [
     "id": "q-0140",
     "family": "Geld en plannen",
     "title": "Geld en plannen 15",
-    "scenario": "Vraag 140: Bij een maand waarin onverwachte uitgaven ineens alles spannender maken blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je voorkomt dat schaamte rond geld tot afstand leidt in. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 140: Bij een maand waarin onverwachte uitgaven ineens alles spannender maken blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je voorkomt dat schaamte rond geld tot afstand leidt in. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Dromen aanpassen aan wat verantwoord is zonder liefde eruit te halen.",
       "Zeggen dat het later vanzelf wel uitkomt als jullie er maar in geloven.",
@@ -1823,7 +1823,7 @@ window.questionBank = [
     "id": "q-0141",
     "family": "Geld en plannen",
     "title": "Geld en plannen 16",
-    "scenario": "Vraag 141: Tijdens een gesprek over wat verstandig is en wat vooral droomtaal is komt ineens dit op tafel: hoe open je moet zijn over geldstress. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Omdat hier snel scheefgroei ontstaat als je niet bewust kiest. Welke reactie past dan het best bij financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
+    "scenario": "Vraag 141: Tijdens een gesprek over wat verstandig is en wat vooral droomtaal is komt ineens dit op tafel: hoe open je moet zijn over geldstress. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Hier ontstaat snel scheefgroei als je niet bewust kiest. Welke reactie past dan het best bij financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
     "options": [
       "Doen alsof risico automatisch romantisch is.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -1837,7 +1837,7 @@ window.questionBank = [
     "id": "q-0142",
     "family": "Geld en plannen",
     "title": "Geld en plannen 17",
-    "scenario": "Vraag 142: Jullie zijn bezig met een gesprek over wat verstandig is en wat vooral droomtaal is. Swahita stelt een eerlijke vraag over wat je doet als verlangen en budget niet in hetzelfde tempo lopen. Je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
+    "scenario": "Vraag 142: Jullie zijn bezig met een gesprek over wat verstandig is en wat vooral droomtaal is. Swahita stelt een eerlijke vraag over wat je doet als verlangen en budget niet in hetzelfde tempo lopen. Je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
     "options": [
       "Geld als technisch onderwerp behandelen zonder de emotionele lading mee te nemen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -1888,7 +1888,7 @@ window.questionBank = [
     "id": "q-0146",
     "family": "Geld en plannen",
     "title": "Geld en plannen 21",
-    "scenario": "Vraag 146: In een gesprek na het plannen van een toekomst die mooi moet zijn maar ook betaalbaar blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe open je moet zijn over geldstress. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
+    "scenario": "Vraag 146: In een gesprek na het plannen van een toekomst die mooi moet zijn maar ook betaalbaar blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe open je moet zijn over geldstress. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
     "options": [
       "Kwetsbaar durven zijn over zorgen of schaamte rond geld.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -1916,7 +1916,7 @@ window.questionBank = [
     "id": "q-0148",
     "family": "Geld en plannen",
     "title": "Geld en plannen 23",
-    "scenario": "Vraag 148: Jullie toekomst voelt dichtbij rond het plannen van een toekomst die mooi moet zijn maar ook betaalbaar. Als het daarna gaat over hoe jullie beslissingen nemen zonder dat geld het hele gesprek kaapt, Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
+    "scenario": "Vraag 148: Jullie toekomst voelt dichtbij rond het plannen van een toekomst die mooi moet zijn maar ook betaalbaar. Als het daarna gaat over hoe jullie beslissingen nemen zonder dat geld het hele gesprek kaapt, Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij financiele eerlijkheid zonder geheimen, schaamte of stoerdoenerij?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -1962,7 +1962,7 @@ window.questionBank = [
     "id": "q-0152",
     "family": "Rust en ritme",
     "title": "Rust en ritme 2",
-    "scenario": "Vraag 152: Juist in een week waarin jullie merken hoe belangrijk slaap en timing eigenlijk zijn wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat herstel voor haar nodig heeft. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 152: Juist in een week waarin jullie merken hoe belangrijk slaap en timing eigenlijk zijn wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat herstel voor haar nodig heeft. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Verschil in energie bespreken zonder oordeel of schuld.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -1990,7 +1990,7 @@ window.questionBank = [
     "id": "q-0154",
     "family": "Rust en ritme",
     "title": "Rust en ritme 4",
-    "scenario": "Vraag 154: een week waarin jullie merken hoe belangrijk slaap en timing eigenlijk zijn zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke ritmes jullie relatie beschermen. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 154: een week waarin jullie merken hoe belangrijk slaap en timing eigenlijk zijn zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke ritmes jullie relatie beschermen. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Doen alsof liefde vanzelf sterk blijft als jullie altijd moe zijn.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -2018,7 +2018,7 @@ window.questionBank = [
     "id": "q-0156",
     "family": "Rust en ritme",
     "title": "Rust en ritme 6",
-    "scenario": "Vraag 156: Swahita kijkt naar hoe jij reageert bij het zoeken naar een ritme tussen vroeg opstaan en genoeg herstellen. Daarna wil ze weten hoe je staat in hoe je voorkomt dat drukte het vaste klimaat van jullie leven wordt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 156: Swahita kijkt naar hoe jij reageert bij het zoeken naar een ritme tussen vroeg opstaan en genoeg herstellen. Daarna wil ze weten hoe je staat in hoe je voorkomt dat drukte het vaste klimaat van jullie leven wordt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Verschil in energie bespreken zonder oordeel of schuld.",
       "Plannen alsof elke week hetzelfde van jullie vraagt.",
@@ -2041,7 +2041,7 @@ window.questionBank = [
     "id": "q-0158",
     "family": "Rust en ritme",
     "title": "Rust en ritme 8",
-    "scenario": "Vraag 158: Als het zoeken naar een ritme tussen vroeg opstaan en genoeg herstellen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe jullie omgaan met verschillende energieniveaus. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 158: Als het zoeken naar een ritme tussen vroeg opstaan en genoeg herstellen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe jullie omgaan met verschillende energieniveaus. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Bewaken dat jullie relatie niet alleen bestaat tussen taken door.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -2069,7 +2069,7 @@ window.questionBank = [
     "id": "q-0160",
     "family": "Rust en ritme",
     "title": "Rust en ritme 10",
-    "scenario": "Vraag 160: Bij het zoeken naar een ritme tussen vroeg opstaan en genoeg herstellen blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat er moet veranderen zodra vermoeidheid niet meer incidenteel is in. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 160: Bij het zoeken naar een ritme tussen vroeg opstaan en genoeg herstellen blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat er moet veranderen zodra vermoeidheid niet meer incidenteel is in. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -2083,7 +2083,7 @@ window.questionBank = [
     "id": "q-0161",
     "family": "Rust en ritme",
     "title": "Rust en ritme 11",
-    "scenario": "Vraag 161: Tijdens een periode waarin drukte langzaam normaal begint te voelen komt ineens dit op tafel: hoe je voorkomt dat drukte het vaste klimaat van jullie leven wordt. Je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent. Omdat hier snel scheefgroei ontstaat als je niet bewust kiest. Welke reactie past dan het best bij een dagelijks leven dat energie geeft in plaats van opvreet?",
+    "scenario": "Vraag 161: Tijdens een periode waarin drukte langzaam normaal begint te voelen komt ineens dit op tafel: hoe je voorkomt dat drukte het vaste klimaat van jullie leven wordt. Je ziet aan haar dat ze wil weten of jij hier echt betrouwbaar in bent. Hier ontstaat snel scheefgroei als je niet bewust kiest. Welke reactie past dan het best bij een dagelijks leven dat energie geeft in plaats van opvreet?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -2097,7 +2097,7 @@ window.questionBank = [
     "id": "q-0162",
     "family": "Rust en ritme",
     "title": "Rust en ritme 12",
-    "scenario": "Vraag 162: Jullie zijn bezig met een periode waarin drukte langzaam normaal begint te voelen. Swahita stelt een eerlijke vraag over wat herstel voor haar nodig heeft. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit een dagelijks leven dat energie geeft in plaats van opvreet?",
+    "scenario": "Vraag 162: Jullie zijn bezig met een periode waarin drukte langzaam normaal begint te voelen. Swahita stelt een eerlijke vraag over wat herstel voor haar nodig heeft. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit een dagelijks leven dat energie geeft in plaats van opvreet?",
     "options": [
       "Bewaken dat jullie relatie niet alleen bestaat tussen taken door.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -2120,7 +2120,7 @@ window.questionBank = [
     "id": "q-0164",
     "family": "Rust en ritme",
     "title": "Rust en ritme 14",
-    "scenario": "Vraag 164: Er is niets dramatisch aan de hand, maar bij een periode waarin drukte langzaam normaal begint te voelen blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke ritmes jullie relatie beschermen. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 164: Er is niets dramatisch aan de hand, maar bij een periode waarin drukte langzaam normaal begint te voelen blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke ritmes jullie relatie beschermen. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
     "options": [
       "Herstel net zo serieus plannen als werk, omdat uitputting niet romantisch is.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -2148,7 +2148,7 @@ window.questionBank = [
     "id": "q-0166",
     "family": "Rust en ritme",
     "title": "Rust en ritme 16",
-    "scenario": "Vraag 166: In een gesprek na een gesprek over hoe jullie dagen niet alleen productief maar ook leefbaar blijven blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat drukte het vaste klimaat van jullie leven wordt. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor een dagelijks leven dat energie geeft in plaats van opvreet?",
+    "scenario": "Vraag 166: In een gesprek na een gesprek over hoe jullie dagen niet alleen productief maar ook leefbaar blijven blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat drukte het vaste klimaat van jullie leven wordt. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor een dagelijks leven dat energie geeft in plaats van opvreet?",
     "options": [
       "Energieverschil zien als karakterzwakte of gebrek aan inzet.",
       "Vermoeidheid laten opstapelen omdat niemand de rem wil zijn.",
@@ -2176,7 +2176,7 @@ window.questionBank = [
     "id": "q-0168",
     "family": "Rust en ritme",
     "title": "Rust en ritme 18",
-    "scenario": "Vraag 168: Jullie toekomst voelt dichtbij rond een gesprek over hoe jullie dagen niet alleen productief maar ook leefbaar blijven. Als het daarna gaat over hoe jullie omgaan met verschillende energieniveaus, Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij een dagelijks leven dat energie geeft in plaats van opvreet?",
+    "scenario": "Vraag 168: Jullie toekomst voelt dichtbij rond een gesprek over hoe jullie dagen niet alleen productief maar ook leefbaar blijven. Als het daarna gaat over hoe jullie omgaan met verschillende energieniveaus, Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij een dagelijks leven dat energie geeft in plaats van opvreet?",
     "options": [
       "Herstel net zo serieus plannen als werk, omdat uitputting niet romantisch is.",
       "Doen alsof liefde vanzelf sterk blijft als jullie altijd moe zijn.",
@@ -2199,7 +2199,7 @@ window.questionBank = [
     "id": "q-0170",
     "family": "Rust en ritme",
     "title": "Rust en ritme 20",
-    "scenario": "Vraag 170: Terwijl een gesprek over hoe jullie dagen niet alleen productief maar ook leefbaar blijven speelt, wil Swahita weten hoe jij kijkt naar wat er moet veranderen zodra vermoeidheid niet meer incidenteel is. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 170: Terwijl een gesprek over hoe jullie dagen niet alleen productief maar ook leefbaar blijven speelt, wil Swahita weten hoe jij kijkt naar wat er moet veranderen zodra vermoeidheid niet meer incidenteel is. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Ritmes bouwen die rust voorspelbaar maken in plaats van toevallig.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -2227,7 +2227,7 @@ window.questionBank = [
     "id": "q-0172",
     "family": "Rust en ritme",
     "title": "Rust en ritme 22",
-    "scenario": "Vraag 172: Juist in een avond waarop duidelijk wordt dat tempo ook een relatie-onderwerp is wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat herstel voor haar nodig heeft. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 172: Juist in een avond waarop duidelijk wordt dat tempo ook een relatie-onderwerp is wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat herstel voor haar nodig heeft. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Vermoeidheid laten opstapelen omdat niemand de rem wil zijn.",
@@ -2255,7 +2255,7 @@ window.questionBank = [
     "id": "q-0174",
     "family": "Rust en ritme",
     "title": "Rust en ritme 24",
-    "scenario": "Vraag 174: een avond waarop duidelijk wordt dat tempo ook een relatie-onderwerp is zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke ritmes jullie relatie beschermen. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 174: een avond waarop duidelijk wordt dat tempo ook een relatie-onderwerp is zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met welke ritmes jullie relatie beschermen. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
     "options": [
       "Ritmes bouwen die rust voorspelbaar maken in plaats van toevallig.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -2301,7 +2301,7 @@ window.questionBank = [
     "id": "q-0178",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 3",
-    "scenario": "Vraag 178: Als een dag waarop jullie vooral functioneerden en pas laat echt contact hebben eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je aandacht geeft als je zelf vol zit. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 178: Als een dag waarop jullie vooral functioneerden en pas laat echt contact hebben eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je aandacht geeft als je zelf vol zit. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Je afsluiten en hopen dat zij wel begrijpt waarom.",
@@ -2329,7 +2329,7 @@ window.questionBank = [
     "id": "q-0180",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 5",
-    "scenario": "Vraag 180: Bij een dag waarop jullie vooral functioneerden en pas laat echt contact hebben blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat ervoor zorgt dat nabijheid veilig blijft en niet plichtmatig wordt in. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 180: Bij een dag waarop jullie vooral functioneerden en pas laat echt contact hebben blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat ervoor zorgt dat nabijheid veilig blijft en niet plichtmatig wordt in. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Nabijheid zacht en vrijwillig houden, nooit iets wat moet presteren.",
       "Intimiteit zien als bewijs dat het goed gaat in plaats van iets dat zorg vraagt.",
@@ -2343,7 +2343,7 @@ window.questionBank = [
     "id": "q-0181",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 6",
-    "scenario": "Vraag 181: Tijdens een week waarin er weinig ruimte leek voor spontaniteit komt ineens dit op tafel: hoe je liefde voelbaar houdt in gewone dagen. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Omdat hier snel scheefgroei ontstaat als je niet bewust kiest. Welke reactie past dan het best bij verbinding die ook blijft bestaan wanneer het gewone leven rommelig wordt?",
+    "scenario": "Vraag 181: Tijdens een week waarin er weinig ruimte leek voor spontaniteit komt ineens dit op tafel: hoe je liefde voelbaar houdt in gewone dagen. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Hier ontstaat snel scheefgroei als je niet bewust kiest. Welke reactie past dan het best bij verbinding die ook blijft bestaan wanneer het gewone leven rommelig wordt?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Je afsluiten en hopen dat zij wel begrijpt waarom.",
@@ -2380,7 +2380,7 @@ window.questionBank = [
     "id": "q-0184",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 9",
-    "scenario": "Vraag 184: Er is niets dramatisch aan de hand, maar bij een week waarin er weinig ruimte leek voor spontaniteit blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie signaleren dat verbinding aan het verdunnen is. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 184: Er is niets dramatisch aan de hand, maar bij een week waarin er weinig ruimte leek voor spontaniteit blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie signaleren dat verbinding aan het verdunnen is. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
     "options": [
       "Denken dat praktische samenwerking genoeg is als emotionele voeding wegvalt.",
       "Je afsluiten en hopen dat zij wel begrijpt waarom.",
@@ -2408,7 +2408,7 @@ window.questionBank = [
     "id": "q-0186",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 11",
-    "scenario": "Vraag 186: In een gesprek na een rustig moment waarin jullie merken dat intimiteit onderhoud nodig heeft blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je liefde voelbaar houdt in gewone dagen. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor verbinding die ook blijft bestaan wanneer het gewone leven rommelig wordt?",
+    "scenario": "Vraag 186: In een gesprek na een rustig moment waarin jullie merken dat intimiteit onderhoud nodig heeft blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je liefde voelbaar houdt in gewone dagen. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor verbinding die ook blijft bestaan wanneer het gewone leven rommelig wordt?",
     "options": [
       "Ook met een vol hoofd eerlijk zeggen waar je zit in plaats van half aanwezig te zijn.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -2459,7 +2459,7 @@ window.questionBank = [
     "id": "q-0190",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 15",
-    "scenario": "Vraag 190: Terwijl een rustig moment waarin jullie merken dat intimiteit onderhoud nodig heeft speelt, wil Swahita weten hoe jij kijkt naar wat ervoor zorgt dat nabijheid veilig blijft en niet plichtmatig wordt. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 190: Terwijl een rustig moment waarin jullie merken dat intimiteit onderhoud nodig heeft speelt, wil Swahita weten hoe jij kijkt naar wat ervoor zorgt dat nabijheid veilig blijft en niet plichtmatig wordt. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Aannemen dat liefde zichzelf wel blijft voelen zolang de relatie officieel goed zit.",
@@ -2487,7 +2487,7 @@ window.questionBank = [
     "id": "q-0192",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 17",
-    "scenario": "Vraag 192: Juist in een gesprek over hoe nabijheid eruitziet als je moe, druk of afgeleid bent wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat intimiteit nodig heeft behalve aantrekkingskracht. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 192: Juist in een gesprek over hoe nabijheid eruitziet als je moe, druk of afgeleid bent wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat intimiteit nodig heeft behalve aantrekkingskracht. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Nabijheid zacht en vrijwillig houden, nooit iets wat moet presteren.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -2538,7 +2538,7 @@ window.questionBank = [
     "id": "q-0196",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 21",
-    "scenario": "Vraag 196: Swahita kijkt naar hoe jij reageert bij een avond waarop de vraag opkomt hoe je elkaar niet kwijtraakt in het praktische. Daarna wil ze weten hoe je staat in hoe je liefde voelbaar houdt in gewone dagen. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 196: Swahita kijkt naar hoe jij reageert bij een avond waarop de vraag opkomt hoe je elkaar niet kwijtraakt in het praktische. Daarna wil ze weten hoe je staat in hoe je liefde voelbaar houdt in gewone dagen. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
     "options": [
       "Pas reageren als afstand al pijnlijk groot is.",
       "Aannemen dat liefde zichzelf wel blijft voelen zolang de relatie officieel goed zit.",
@@ -2566,7 +2566,7 @@ window.questionBank = [
     "id": "q-0198",
     "family": "Liefde en nabijheid",
     "title": "Liefde en nabijheid 23",
-    "scenario": "Vraag 198: Als een avond waarop de vraag opkomt hoe je elkaar niet kwijtraakt in het praktische eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je aandacht geeft als je zelf vol zit. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 198: Als een avond waarop de vraag opkomt hoe je elkaar niet kwijtraakt in het praktische eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je aandacht geeft als je zelf vol zit. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Intimiteit behandelen als iets dat veiligheid, ontspanning en afstemming nodig heeft.",
       "Denken dat praktische samenwerking genoeg is als emotionele voeding wegvalt.",
@@ -2612,7 +2612,7 @@ window.questionBank = [
     "id": "q-0202",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 2",
-    "scenario": "Vraag 202: Jullie zijn bezig met een gesprek over wat te veel is, ook als er nog niets spectaculairs misgaat. Swahita stelt een eerlijke vraag over wat veiligheid betekent als woorden alleen niet genoeg zijn. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
+    "scenario": "Vraag 202: Jullie zijn bezig met een gesprek over wat te veel is, ook als er nog niets spectaculairs misgaat. Swahita stelt een eerlijke vraag over wat veiligheid betekent als woorden alleen niet genoeg zijn. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Wat is dan de sterkste reactie als je denkt vanuit respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -2640,7 +2640,7 @@ window.questionBank = [
     "id": "q-0204",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 4",
-    "scenario": "Vraag 204: Er is niets dramatisch aan de hand, maar bij een gesprek over wat te veel is, ook als er nog niets spectaculairs misgaat blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat je doet als zij iets lastig vindt om direct te zeggen. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 204: Er is niets dramatisch aan de hand, maar bij een gesprek over wat te veel is, ook als er nog niets spectaculairs misgaat blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat je doet als zij iets lastig vindt om direct te zeggen. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welk antwoord is dan het gezondst?",
     "options": [
       "Ook zachte signalen oppikken in plaats van te wachten op een harde grens.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -2668,7 +2668,7 @@ window.questionBank = [
     "id": "q-0206",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 6",
-    "scenario": "Vraag 206: In een gesprek na een moment waarop zij subtiel aangeeft dat iets haar spanning geeft blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe jij reageert op haar terughoudendheid. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
+    "scenario": "Vraag 206: In een gesprek na een moment waarop zij subtiel aangeeft dat iets haar spanning geeft blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe jij reageert op haar terughoudendheid. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke reactie bewijst het best dat jij kiest voor respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
     "options": [
       "Veiligheid laten zien in gedrag, voorspelbaarheid en respect, niet alleen in mooie zinnen.",
       "Doorduwen omdat je geen slechte bedoelingen hebt.",
@@ -2691,7 +2691,7 @@ window.questionBank = [
     "id": "q-0208",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 8",
-    "scenario": "Vraag 208: Jullie toekomst voelt dichtbij rond een moment waarop zij subtiel aangeeft dat iets haar spanning geeft. Als het daarna gaat over hoe je voorkomt dat jouw tempo haar grens wordt, Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
+    "scenario": "Vraag 208: Jullie toekomst voelt dichtbij rond een moment waarop zij subtiel aangeeft dat iets haar spanning geeft. Als het daarna gaat over hoe je voorkomt dat jouw tempo haar grens wordt, Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
     "options": [
       "Je goede intenties als bewijs gebruiken dat zij veilig zou moeten zijn.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -2719,7 +2719,7 @@ window.questionBank = [
     "id": "q-0210",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 10",
-    "scenario": "Vraag 210: Terwijl een moment waarop zij subtiel aangeeft dat iets haar spanning geeft speelt, wil Swahita weten hoe jij kijkt naar hoe jullie omgaan met nee, twijfel of behoefte aan ruimte. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 210: Terwijl een moment waarop zij subtiel aangeeft dat iets haar spanning geeft speelt, wil Swahita weten hoe jij kijkt naar hoe jullie omgaan met nee, twijfel of behoefte aan ruimte. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Haar terughoudendheid serieus nemen zonder haar te laten bewijzen dat die terecht is.",
       "Alleen luisteren naar expliciete grenzen en subtiele signalen negeren.",
@@ -2747,7 +2747,7 @@ window.questionBank = [
     "id": "q-0212",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 12",
-    "scenario": "Vraag 212: Juist in een periode waarin jullie veel tegelijk willen en dus grenzen nodig hebben wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat veiligheid betekent als woorden alleen niet genoeg zijn. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 212: Juist in een periode waarin jullie veel tegelijk willen en dus grenzen nodig hebben wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat veiligheid betekent als woorden alleen niet genoeg zijn. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Ook zachte signalen oppikken in plaats van te wachten op een harde grens.",
       "Doorduwen omdat je geen slechte bedoelingen hebt.",
@@ -2770,7 +2770,7 @@ window.questionBank = [
     "id": "q-0214",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 14",
-    "scenario": "Vraag 214: een periode waarin jullie veel tegelijk willen en dus grenzen nodig hebben zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met wat je doet als zij iets lastig vindt om direct te zeggen. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 214: een periode waarin jullie veel tegelijk willen en dus grenzen nodig hebben zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met wat je doet als zij iets lastig vindt om direct te zeggen. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -2798,7 +2798,7 @@ window.questionBank = [
     "id": "q-0216",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 16",
-    "scenario": "Vraag 216: Swahita kijkt naar hoe jij reageert bij een situatie waarin jij enthousiast bent maar zij nog niet zeker voelt. Daarna wil ze weten hoe je staat in hoe jij reageert op haar terughoudendheid. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 216: Swahita kijkt naar hoe jij reageert bij een situatie waarin jij enthousiast bent maar zij nog niet zeker voelt. Daarna wil ze weten hoe je staat in hoe jij reageert op haar terughoudendheid. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
     "options": [
       "Ook zachte signalen oppikken in plaats van te wachten op een harde grens.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -2826,7 +2826,7 @@ window.questionBank = [
     "id": "q-0218",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 18",
-    "scenario": "Vraag 218: Als een situatie waarin jij enthousiast bent maar zij nog niet zeker voelt eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je voorkomt dat jouw tempo haar grens wordt. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 218: Als een situatie waarin jij enthousiast bent maar zij nog niet zeker voelt eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je voorkomt dat jouw tempo haar grens wordt. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Haar terughoudendheid serieus nemen zonder haar te laten bewijzen dat die terecht is.",
       "Zeggen dat ze het gewoon directer moet zeggen als iets niet fijn voelt.",
@@ -2849,7 +2849,7 @@ window.questionBank = [
     "id": "q-0220",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 20",
-    "scenario": "Vraag 220: Bij een situatie waarin jij enthousiast bent maar zij nog niet zeker voelt blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe jullie omgaan met nee, twijfel of behoefte aan ruimte in. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 220: Bij een situatie waarin jij enthousiast bent maar zij nog niet zeker voelt blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe jullie omgaan met nee, twijfel of behoefte aan ruimte in. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -2863,7 +2863,7 @@ window.questionBank = [
     "id": "q-0221",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 21",
-    "scenario": "Vraag 221: Tijdens een rustige avond waarin het gaat over hoe zij zich beschermd kan voelen komt ineens dit op tafel: hoe jij reageert op haar terughoudendheid. Swahita zegt het rustig, maar je merkt dat het haar echt raakt. Omdat hier vaak zichtbaar wordt of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
+    "scenario": "Vraag 221: Tijdens een rustige avond waarin het gaat over hoe zij zich beschermd kan voelen komt ineens dit op tafel: hoe jij reageert op haar terughoudendheid. Swahita zegt het rustig, maar je merkt dat het haar echt raakt. Hier wordt vaak zichtbaar of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Alleen luisteren naar expliciete grenzen en subtiele signalen negeren.",
@@ -2877,7 +2877,7 @@ window.questionBank = [
     "id": "q-0222",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 22",
-    "scenario": "Vraag 222: Jullie zijn bezig met een rustige avond waarin het gaat over hoe zij zich beschermd kan voelen. Swahita stelt een eerlijke vraag over wat veiligheid betekent als woorden alleen niet genoeg zijn. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
+    "scenario": "Vraag 222: Jullie zijn bezig met een rustige avond waarin het gaat over hoe zij zich beschermd kan voelen. Swahita stelt een eerlijke vraag over wat veiligheid betekent als woorden alleen niet genoeg zijn. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit respect voor haar grenzen zonder dat zij eerst hard hoeft te vechten?",
     "options": [
       "Haar terughoudendheid serieus nemen zonder haar te laten bewijzen dat die terecht is.",
       "Je goede intenties als bewijs gebruiken dat zij veilig zou moeten zijn.",
@@ -2905,7 +2905,7 @@ window.questionBank = [
     "id": "q-0224",
     "family": "Grenzen en veiligheid",
     "title": "Grenzen en veiligheid 24",
-    "scenario": "Vraag 224: Er is niets dramatisch aan de hand, maar bij een rustige avond waarin het gaat over hoe zij zich beschermd kan voelen blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat je doet als zij iets lastig vindt om direct te zeggen. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 224: Er is niets dramatisch aan de hand, maar bij een rustige avond waarin het gaat over hoe zij zich beschermd kan voelen blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat je doet als zij iets lastig vindt om direct te zeggen. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
     "options": [
       "Jouw tempo vertragen zodra blijkt dat haar gevoel nog niet mee is.",
       "Zeggen dat ze het gewoon directer moet zeggen als iets niet fijn voelt.",
@@ -2951,7 +2951,7 @@ window.questionBank = [
     "id": "q-0228",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 3",
-    "scenario": "Vraag 228: Jullie toekomst voelt dichtbij rond een botsing na een vermoeiende dag waarop jullie allebei korter reageren. Als het daarna gaat over hoe je luistert zonder meteen te verdedigen, Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
+    "scenario": "Vraag 228: Jullie toekomst voelt dichtbij rond een botsing na een vermoeiende dag waarop jullie allebei korter reageren. Als het daarna gaat over hoe je luistert zonder meteen te verdedigen, Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt, welke reactie past het meest bij conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
     "options": [
       "Luisteren om te begrijpen in plaats van direct je eigen onschuld te regelen.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -2979,7 +2979,7 @@ window.questionBank = [
     "id": "q-0230",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 5",
-    "scenario": "Vraag 230: Terwijl een botsing na een vermoeiende dag waarop jullie allebei korter reageren speelt, wil Swahita weten hoe jij kijkt naar hoe je verantwoordelijkheid neemt zonder toneel van schuld. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 230: Terwijl een botsing na een vermoeiende dag waarop jullie allebei korter reageren speelt, wil Swahita weten hoe jij kijkt naar hoe je verantwoordelijkheid neemt zonder toneel van schuld. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Verantwoordelijkheid nemen in concreet gedrag en niet alleen in sorry-zinnen.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -3030,7 +3030,7 @@ window.questionBank = [
     "id": "q-0234",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 9",
-    "scenario": "Vraag 234: een gesprek over hoe je terugkomt na harde woorden of misverstanden zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met wanneer je even afstand neemt en wanneer je juist blijft. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 234: een gesprek over hoe je terugkomt na harde woorden of misverstanden zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met wanneer je even afstand neemt en wanneer je juist blijft. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
     "options": [
       "Verantwoordelijkheid nemen in concreet gedrag en niet alleen in sorry-zinnen.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -3058,7 +3058,7 @@ window.questionBank = [
     "id": "q-0236",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 11",
-    "scenario": "Vraag 236: Swahita kijkt naar hoe jij reageert bij een moment waarop irritatie eigenlijk over iets ouds blijkt te gaan. Daarna wil ze weten hoe je staat in hoe je ruzie stopt voordat het gemeen wordt. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 236: Swahita kijkt naar hoe jij reageert bij een moment waarop irritatie eigenlijk over iets ouds blijkt te gaan. Daarna wil ze weten hoe je staat in hoe je ruzie stopt voordat het gemeen wordt. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
     "options": [
       "Luisteren om te begrijpen in plaats van direct je eigen onschuld te regelen.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -3109,7 +3109,7 @@ window.questionBank = [
     "id": "q-0240",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 15",
-    "scenario": "Vraag 240: Bij een moment waarop irritatie eigenlijk over iets ouds blijkt te gaan blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je verantwoordelijkheid neemt zonder toneel van schuld in. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 240: Bij een moment waarop irritatie eigenlijk over iets ouds blijkt te gaan blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je verantwoordelijkheid neemt zonder toneel van schuld in. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Na pijn eerst erkennen wat zij voelde voordat je uitlegt wat jij bedoelde.",
       "Doen alsof ruzie vanzelf wegzakt als je het onderwerp maar laat liggen.",
@@ -3123,7 +3123,7 @@ window.questionBank = [
     "id": "q-0241",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 16",
-    "scenario": "Vraag 241: Tijdens een avond waarop een klein conflict groter dreigt te worden komt ineens dit op tafel: hoe je ruzie stopt voordat het gemeen wordt. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Omdat hier vaak zichtbaar wordt of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
+    "scenario": "Vraag 241: Tijdens een avond waarop een klein conflict groter dreigt te worden komt ineens dit op tafel: hoe je ruzie stopt voordat het gemeen wordt. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Hier wordt vaak zichtbaar of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
     "options": [
       "Verdwijnen onder het mom van rust terwijl zij in onzekerheid blijft zitten.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -3137,7 +3137,7 @@ window.questionBank = [
     "id": "q-0242",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 17",
-    "scenario": "Vraag 242: Jullie zijn bezig met een avond waarop een klein conflict groter dreigt te worden. Swahita stelt een eerlijke vraag over wat herstel nodig heeft nadat iemand zich geraakt voelde. Haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
+    "scenario": "Vraag 242: Jullie zijn bezig met een avond waarop een klein conflict groter dreigt te worden. Swahita stelt een eerlijke vraag over wat herstel nodig heeft nadat iemand zich geraakt voelde. Haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
     "options": [
       "Verantwoordelijkheid nemen in concreet gedrag en niet alleen in sorry-zinnen.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -3188,7 +3188,7 @@ window.questionBank = [
     "id": "q-0246",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 21",
-    "scenario": "Vraag 246: In een gesprek na een nagesprek over wat helpen zou als het weer eens schuurt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je ruzie stopt voordat het gemeen wordt. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
+    "scenario": "Vraag 246: In een gesprek na een nagesprek over wat helpen zou als het weer eens schuurt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je ruzie stopt voordat het gemeen wordt. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
     "options": [
       "Verantwoordelijkheid nemen in concreet gedrag en niet alleen in sorry-zinnen.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -3216,7 +3216,7 @@ window.questionBank = [
     "id": "q-0248",
     "family": "Ruzie en herstel",
     "title": "Ruzie en herstel 23",
-    "scenario": "Vraag 248: Jullie toekomst voelt dichtbij rond een nagesprek over wat helpen zou als het weer eens schuurt. Als het daarna gaat over hoe je luistert zonder meteen te verdedigen, Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
+    "scenario": "Vraag 248: Jullie toekomst voelt dichtbij rond een nagesprek over wat helpen zou als het weer eens schuurt. Als het daarna gaat over hoe je luistert zonder meteen te verdedigen, Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij conflict kunnen dragen zonder elkaar te vernederen of kwijt te raken?",
     "options": [
       "Na pijn eerst erkennen wat zij voelde voordat je uitlegt wat jij bedoelde.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -3262,7 +3262,7 @@ window.questionBank = [
     "id": "q-0252",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 2",
-    "scenario": "Vraag 252: Juist in een laat gesprek over waar jullie over vijf of tien jaar hopen te staan wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt welke dromen echt van jullie samen zijn en welke vooral van jou. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 252: Juist in een laat gesprek over waar jullie over vijf of tien jaar hopen te staan wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt welke dromen echt van jullie samen zijn en welke vooral van jou. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Onderscheiden wat een gezamenlijke droom is en wat vooral jouw project is.",
       "Zo flexibel blijven dat niets werkelijk gedragen wordt.",
@@ -3290,7 +3290,7 @@ window.questionBank = [
     "id": "q-0254",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 4",
-    "scenario": "Vraag 254: een laat gesprek over waar jullie over vijf of tien jaar hopen te staan zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je ruimte laat voor verandering zonder stuurloos te worden. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 254: een laat gesprek over waar jullie over vijf of tien jaar hopen te staan zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je ruimte laat voor verandering zonder stuurloos te worden. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste keuze?",
     "options": [
       "Richting houden én openblijven voor het feit dat mensen onderweg veranderen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -3318,7 +3318,7 @@ window.questionBank = [
     "id": "q-0256",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 6",
-    "scenario": "Vraag 256: Swahita kijkt naar hoe jij reageert bij een moment waarop een grote droom ineens heel concreet begint te worden. Daarna wil ze weten hoe je staat in hoe je voorkomt dat toekomstplannen haar moeten inhalen. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 256: Swahita kijkt naar hoe jij reageert bij een moment waarop een grote droom ineens heel concreet begint te worden. Daarna wil ze weten hoe je staat in hoe je voorkomt dat toekomstplannen haar moeten inhalen. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke optie is het meest geruststellend?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Groot denken verwarren met verstandig denken.",
@@ -3341,7 +3341,7 @@ window.questionBank = [
     "id": "q-0258",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 8",
-    "scenario": "Vraag 258: Als een moment waarop een grote droom ineens heel concreet begint te worden eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat je doet als verlangen en realiteit nog niet op elkaar passen. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 258: Als een moment waarop een grote droom ineens heel concreet begint te worden eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat je doet als verlangen en realiteit nog niet op elkaar passen. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Richting houden én openblijven voor het feit dat mensen onderweg veranderen.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -3369,7 +3369,7 @@ window.questionBank = [
     "id": "q-0260",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 10",
-    "scenario": "Vraag 260: Bij een moment waarop een grote droom ineens heel concreet begint te worden blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat belangrijker is: grootsheid of duurzaamheid in. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 260: Bij een moment waarop een grote droom ineens heel concreet begint te worden blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat belangrijker is: grootsheid of duurzaamheid in. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Toekomstplannen steeds toetsen aan wat voor haar echt goed en wenselijk voelt.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -3383,7 +3383,7 @@ window.questionBank = [
     "id": "q-0261",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 11",
-    "scenario": "Vraag 261: Tijdens een wandeling waarin jullie praten over wat later niet verloren mag gaan komt ineens dit op tafel: hoe je voorkomt dat toekomstplannen haar moeten inhalen. Haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is. Omdat hier vaak zichtbaar wordt of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
+    "scenario": "Vraag 261: Tijdens een wandeling waarin jullie praten over wat later niet verloren mag gaan komt ineens dit op tafel: hoe je voorkomt dat toekomstplannen haar moeten inhalen. Haar toon blijft zacht, alleen je merkt dat dit voor haar niet oppervlakkig is. Hier wordt vaak zichtbaar of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
     "options": [
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
       "Jouw droomtaal als neutraal uitgangspunt behandelen.",
@@ -3397,7 +3397,7 @@ window.questionBank = [
     "id": "q-0262",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 12",
-    "scenario": "Vraag 262: Jullie zijn bezig met een wandeling waarin jullie praten over wat later niet verloren mag gaan. Swahita stelt een eerlijke vraag over welke dromen echt van jullie samen zijn en welke vooral van jou. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
+    "scenario": "Vraag 262: Jullie zijn bezig met een wandeling waarin jullie praten over wat later niet verloren mag gaan. Swahita stelt een eerlijke vraag over welke dromen echt van jullie samen zijn en welke vooral van jou. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Realistische vragen zien als gebrek aan liefde of visie.",
@@ -3420,7 +3420,7 @@ window.questionBank = [
     "id": "q-0264",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 14",
-    "scenario": "Vraag 264: Er is niets dramatisch aan de hand, maar bij een wandeling waarin jullie praten over wat later niet verloren mag gaan blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe je ruimte laat voor verandering zonder stuurloos te worden. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 264: Er is niets dramatisch aan de hand, maar bij een wandeling waarin jullie praten over wat later niet verloren mag gaan blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe je ruimte laat voor verandering zonder stuurloos te worden. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
     "options": [
       "Toekomstplannen steeds toetsen aan wat voor haar echt goed en wenselijk voelt.",
       "Jouw droomtaal als neutraal uitgangspunt behandelen.",
@@ -3448,7 +3448,7 @@ window.questionBank = [
     "id": "q-0266",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 16",
-    "scenario": "Vraag 266: In een gesprek na het afwegen van verlangen tegenover haalbaarheid blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat toekomstplannen haar moeten inhalen. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
+    "scenario": "Vraag 266: In een gesprek na het afwegen van verlangen tegenover haalbaarheid blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je voorkomt dat toekomstplannen haar moeten inhalen. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
     "options": [
       "Richting houden én openblijven voor het feit dat mensen onderweg veranderen.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -3476,7 +3476,7 @@ window.questionBank = [
     "id": "q-0268",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 18",
-    "scenario": "Vraag 268: Jullie toekomst voelt dichtbij rond het afwegen van verlangen tegenover haalbaarheid. Als het daarna gaat over wat je doet als verlangen en realiteit nog niet op elkaar passen, Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
+    "scenario": "Vraag 268: Jullie toekomst voelt dichtbij rond het afwegen van verlangen tegenover haalbaarheid. Als het daarna gaat over wat je doet als verlangen en realiteit nog niet op elkaar passen, Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij een toekomstbeeld dat jullie allebei draagt in plaats van eenrichtingsverkeer wordt?",
     "options": [
       "Doorduwen omdat terugschalen voelt als falen.",
       "Realistische vragen zien als gebrek aan liefde of visie.",
@@ -3499,7 +3499,7 @@ window.questionBank = [
     "id": "q-0270",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 20",
-    "scenario": "Vraag 270: Terwijl het afwegen van verlangen tegenover haalbaarheid speelt, wil Swahita weten hoe jij kijkt naar wat belangrijker is: grootsheid of duurzaamheid. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 270: Terwijl het afwegen van verlangen tegenover haalbaarheid speelt, wil Swahita weten hoe jij kijkt naar wat belangrijker is: grootsheid of duurzaamheid. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Verlangen serieus nemen zonder realiteit weg te romantiseren.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -3527,7 +3527,7 @@ window.questionBank = [
     "id": "q-0272",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 22",
-    "scenario": "Vraag 272: Juist in een avond waarop jullie merken dat toekomstpraat ook spanning kan geven wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt welke dromen echt van jullie samen zijn en welke vooral van jou. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 272: Juist in een avond waarop jullie merken dat toekomstpraat ook spanning kan geven wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt welke dromen echt van jullie samen zijn en welke vooral van jou. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Toekomstplannen steeds toetsen aan wat voor haar echt goed en wenselijk voelt.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -3555,7 +3555,7 @@ window.questionBank = [
     "id": "q-0274",
     "family": "Toekomst en dromen",
     "title": "Toekomst en dromen 24",
-    "scenario": "Vraag 274: een avond waarop jullie merken dat toekomstpraat ook spanning kan geven zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je ruimte laat voor verandering zonder stuurloos te worden. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 274: een avond waarop jullie merken dat toekomstpraat ook spanning kan geven zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je ruimte laat voor verandering zonder stuurloos te worden. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "De toekomst presenteren als iets waar zij alleen nog ja op hoeft te zeggen.",
@@ -3601,7 +3601,7 @@ window.questionBank = [
     "id": "q-0278",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 3",
-    "scenario": "Vraag 278: Als een gesprek over of en hoe jullie ooit een gezin voor je zien eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je ruimte laat voor twijfel of verschil van gevoel. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 278: Als een gesprek over of en hoe jullie ooit een gezin voor je zien eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je ruimte laat voor twijfel of verschil van gevoel. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Twijfel of verschil zien als iets om zorgvuldig mee om te gaan, niet als obstakel dat weg moet.",
       "Stilzwijgend aannemen dat zorg uiteindelijk meer op haar neerkomt.",
@@ -3629,7 +3629,7 @@ window.questionBank = [
     "id": "q-0280",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 5",
-    "scenario": "Vraag 280: Bij een gesprek over of en hoe jullie ooit een gezin voor je zien blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je een gezin denkt zonder haar als vanzelfsprekende drager te zien in. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 280: Bij een gesprek over of en hoe jullie ooit een gezin voor je zien blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je een gezin denkt zonder haar als vanzelfsprekende drager te zien in. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Niet nadenken over draagkracht omdat dat de fantasie minder leuk maakt.",
       "Doen alsof liefde vanzelf richting geeft aan zo'n groot onderwerp.",
@@ -3643,7 +3643,7 @@ window.questionBank = [
     "id": "q-0281",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 6",
-    "scenario": "Vraag 281: Tijdens een moment waarop jullie merken dat verwachtingen over kinderen kunnen verschillen komt ineens dit op tafel: hoe je praat over kinderen zonder druk op haar te leggen. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Omdat hier vaak zichtbaar wordt of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij zorgvuldigheid rond een onderwerp dat identiteit, rust en toekomst raakt?",
+    "scenario": "Vraag 281: Tijdens een moment waarop jullie merken dat verwachtingen over kinderen kunnen verschillen komt ineens dit op tafel: hoe je praat over kinderen zonder druk op haar te leggen. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Hier wordt vaak zichtbaar of iemand zich veilig of juist alleen voelt. Welke reactie past dan het best bij zorgvuldigheid rond een onderwerp dat identiteit, rust en toekomst raakt?",
     "options": [
       "Druk leggen via toekomstbeelden of subtiele verwachting.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -3680,7 +3680,7 @@ window.questionBank = [
     "id": "q-0284",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 9",
-    "scenario": "Vraag 284: Er is niets dramatisch aan de hand, maar bij een moment waarop jullie merken dat verwachtingen over kinderen kunnen verschillen blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke rolverdeling je vreest of juist hoopt te voorkomen. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 284: Er is niets dramatisch aan de hand, maar bij een moment waarop jullie merken dat verwachtingen over kinderen kunnen verschillen blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke rolverdeling je vreest of juist hoopt te voorkomen. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
     "options": [
       "Haar nooit automatisch aanwijzen als degene die het meeste opvangt.",
       "Stilzwijgend aannemen dat zorg uiteindelijk meer op haar neerkomt.",
@@ -3708,7 +3708,7 @@ window.questionBank = [
     "id": "q-0286",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 11",
-    "scenario": "Vraag 286: In een gesprek na een avond waarin het gaat over opvoeden, zorg en draagkracht blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je praat over kinderen zonder druk op haar te leggen. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor zorgvuldigheid rond een onderwerp dat identiteit, rust en toekomst raakt?",
+    "scenario": "Vraag 286: In een gesprek na een avond waarin het gaat over opvoeden, zorg en draagkracht blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je praat over kinderen zonder druk op haar te leggen. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor zorgvuldigheid rond een onderwerp dat identiteit, rust en toekomst raakt?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -3759,7 +3759,7 @@ window.questionBank = [
     "id": "q-0290",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 15",
-    "scenario": "Vraag 290: Terwijl een avond waarin het gaat over opvoeden, zorg en draagkracht speelt, wil Swahita weten hoe jij kijkt naar hoe je een gezin denkt zonder haar als vanzelfsprekende drager te zien. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 290: Terwijl een avond waarin het gaat over opvoeden, zorg en draagkracht speelt, wil Swahita weten hoe jij kijkt naar hoe je een gezin denkt zonder haar als vanzelfsprekende drager te zien. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Draagkracht, timing en gezondheid serieus meenemen in plaats van alleen verlangen.",
       "Twijfel interpreteren als iets dat jij wel recht kunt praten.",
@@ -3787,7 +3787,7 @@ window.questionBank = [
     "id": "q-0292",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 17",
-    "scenario": "Vraag 292: Juist in het nadenken over hoe een gezin jullie relatie zou veranderen wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat draagkracht en timing hierin betekenen. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 292: Juist in het nadenken over hoe een gezin jullie relatie zou veranderen wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat draagkracht en timing hierin betekenen. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Druk leggen via toekomstbeelden of subtiele verwachting.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -3838,7 +3838,7 @@ window.questionBank = [
     "id": "q-0296",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 21",
-    "scenario": "Vraag 296: Swahita kijkt naar hoe jij reageert bij een kwetsbaar gesprek over verlangens die niet licht voelen. Daarna wil ze weten hoe je staat in hoe je praat over kinderen zonder druk op haar te leggen. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 296: Swahita kijkt naar hoe jij reageert bij een kwetsbaar gesprek over verlangens die niet licht voelen. Daarna wil ze weten hoe je staat in hoe je praat over kinderen zonder druk op haar te leggen. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
     "options": [
       "Haar nooit automatisch aanwijzen als degene die het meeste opvangt.",
       "Twijfel interpreteren als iets dat jij wel recht kunt praten.",
@@ -3866,7 +3866,7 @@ window.questionBank = [
     "id": "q-0298",
     "family": "Kinderen en gezin",
     "title": "Kinderen en gezin 23",
-    "scenario": "Vraag 298: Als een kwetsbaar gesprek over verlangens die niet licht voelen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je ruimte laat voor twijfel of verschil van gevoel. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 298: Als een kwetsbaar gesprek over verlangens die niet licht voelen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je ruimte laat voor twijfel of verschil van gevoel. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -3912,7 +3912,7 @@ window.questionBank = [
     "id": "q-0302",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 2",
-    "scenario": "Vraag 302: Jullie zijn bezig met een gesprek over bezoek, grenzen en verwachtingen van buitenaf. Swahita stelt een eerlijke vraag over wat jullie doen als anderen veel mening hebben over jullie keuzes. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
+    "scenario": "Vraag 302: Jullie zijn bezig met een gesprek over bezoek, grenzen en verwachtingen van buitenaf. Swahita stelt een eerlijke vraag over wat jullie doen als anderen veel mening hebben over jullie keuzes. Er hangt geen ruzie in de lucht, wel de vraag of jullie elkaar hier echt verstaan. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Wat is dan de sterkste reactie als je denkt vanuit een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
     "options": [
       "Mening van anderen horen zonder jullie relatie daardoor te laten besturen.",
       "Iedereen tevreden proberen te houden behalve elkaar.",
@@ -3940,7 +3940,7 @@ window.questionBank = [
     "id": "q-0304",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 4",
-    "scenario": "Vraag 304: Er is niets dramatisch aan de hand, maar bij een gesprek over bezoek, grenzen en verwachtingen van buitenaf blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe loyaal je bent aan elkaar in sociale spanning. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 304: Er is niets dramatisch aan de hand, maar bij een gesprek over bezoek, grenzen en verwachtingen van buitenaf blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe loyaal je bent aan elkaar in sociale spanning. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welk antwoord is dan het gezondst?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -3968,7 +3968,7 @@ window.questionBank = [
     "id": "q-0306",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 6",
-    "scenario": "Vraag 306: In een gesprek na een situatie waarin familie of vrienden vanzelf veel invloed lijken te krijgen blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe jullie grenzen stellen naar familie of vrienden. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
+    "scenario": "Vraag 306: In een gesprek na een situatie waarin familie of vrienden vanzelf veel invloed lijken te krijgen blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe jullie grenzen stellen naar familie of vrienden. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke reactie bewijst het best dat jij kiest voor een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
     "options": [
       "Mening van anderen horen zonder jullie relatie daardoor te laten besturen.",
       "Andermans oordeel stiekem zwaarder laten wegen dan haar gevoel.",
@@ -3991,7 +3991,7 @@ window.questionBank = [
     "id": "q-0308",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 8",
-    "scenario": "Vraag 308: Jullie toekomst voelt dichtbij rond een situatie waarin familie of vrienden vanzelf veel invloed lijken te krijgen. Als het daarna gaat over hoe je ruimte maakt voor bezoek zonder dat thuis onveilig voelt, Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
+    "scenario": "Vraag 308: Jullie toekomst voelt dichtbij rond een situatie waarin familie of vrienden vanzelf veel invloed lijken te krijgen. Als het daarna gaat over hoe je ruimte maakt voor bezoek zonder dat thuis onveilig voelt, Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
     "options": [
       "In sociale druk zichtbaar naast haar blijven staan in plaats van neutraal weg te kijken.",
       "Iedereen tevreden proberen te houden behalve elkaar.",
@@ -4019,7 +4019,7 @@ window.questionBank = [
     "id": "q-0310",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 10",
-    "scenario": "Vraag 310: Terwijl een situatie waarin familie of vrienden vanzelf veel invloed lijken te krijgen speelt, wil Swahita weten hoe jij kijkt naar hoe je rekening houdt met verschil in sociale behoefte. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 310: Terwijl een situatie waarin familie of vrienden vanzelf veel invloed lijken te krijgen speelt, wil Swahita weten hoe jij kijkt naar hoe je rekening houdt met verschil in sociale behoefte. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Geen gezamenlijke lijn hebben en dat pas merken als het al botst.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -4047,7 +4047,7 @@ window.questionBank = [
     "id": "q-0312",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 12",
-    "scenario": "Vraag 312: Juist in het zoeken naar balans tussen sociaal zijn en jullie eigen rust wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat jullie doen als anderen veel mening hebben over jullie keuzes. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 312: Juist in het zoeken naar balans tussen sociaal zijn en jullie eigen rust wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat jullie doen als anderen veel mening hebben over jullie keuzes. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
     "options": [
       "In sociale druk zichtbaar naast haar blijven staan in plaats van neutraal weg te kijken.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -4070,7 +4070,7 @@ window.questionBank = [
     "id": "q-0314",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 14",
-    "scenario": "Vraag 314: het zoeken naar balans tussen sociaal zijn en jullie eigen rust zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe loyaal je bent aan elkaar in sociale spanning. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 314: het zoeken naar balans tussen sociaal zijn en jullie eigen rust zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe loyaal je bent aan elkaar in sociale spanning. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Samen afspreken welke grenzen jullie naar buiten toe willen beschermen.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -4098,7 +4098,7 @@ window.questionBank = [
     "id": "q-0316",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 16",
-    "scenario": "Vraag 316: Swahita kijkt naar hoe jij reageert bij een avond waarop het gaat over loyaal zijn zonder je relatie op de tweede plek te zetten. Daarna wil ze weten hoe je staat in hoe jullie grenzen stellen naar familie of vrienden. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 316: Swahita kijkt naar hoe jij reageert bij een avond waarop het gaat over loyaal zijn zonder je relatie op de tweede plek te zetten. Daarna wil ze weten hoe je staat in hoe jullie grenzen stellen naar familie of vrienden. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -4126,7 +4126,7 @@ window.questionBank = [
     "id": "q-0318",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 18",
-    "scenario": "Vraag 318: Als een avond waarop het gaat over loyaal zijn zonder je relatie op de tweede plek te zetten eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je ruimte maakt voor bezoek zonder dat thuis onveilig voelt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 318: Als een avond waarop het gaat over loyaal zijn zonder je relatie op de tweede plek te zetten eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je ruimte maakt voor bezoek zonder dat thuis onveilig voelt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Samen afspreken welke grenzen jullie naar buiten toe willen beschermen.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -4149,7 +4149,7 @@ window.questionBank = [
     "id": "q-0320",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 20",
-    "scenario": "Vraag 320: Bij een avond waarop het gaat over loyaal zijn zonder je relatie op de tweede plek te zetten blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je rekening houdt met verschil in sociale behoefte in. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 320: Bij een avond waarop het gaat over loyaal zijn zonder je relatie op de tweede plek te zetten blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je rekening houdt met verschil in sociale behoefte in. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Bezoek alleen zo organiseren dat thuis ook voor haar veilig en comfortabel blijft.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -4163,7 +4163,7 @@ window.questionBank = [
     "id": "q-0321",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 21",
-    "scenario": "Vraag 321: Tijdens een moment waarop blijkt dat jullie allebei iets anders gewend zijn rond familie komt ineens dit op tafel: hoe jullie grenzen stellen naar familie of vrienden. Tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen. Omdat een boerderijleven alleen werkt als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
+    "scenario": "Vraag 321: Tijdens een moment waarop blijkt dat jullie allebei iets anders gewend zijn rond familie komt ineens dit op tafel: hoe jullie grenzen stellen naar familie of vrienden. Tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen. Een boerderijleven werkt alleen als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
     "options": [
       "Bezoek vanzelfsprekend maken omdat jij daar minder last van hebt.",
       "Geen gezamenlijke lijn hebben en dat pas merken als het al botst.",
@@ -4177,7 +4177,7 @@ window.questionBank = [
     "id": "q-0322",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 22",
-    "scenario": "Vraag 322: Jullie zijn bezig met een moment waarop blijkt dat jullie allebei iets anders gewend zijn rond familie. Swahita stelt een eerlijke vraag over wat jullie doen als anderen veel mening hebben over jullie keuzes. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
+    "scenario": "Vraag 322: Jullie zijn bezig met een moment waarop blijkt dat jullie allebei iets anders gewend zijn rond familie. Swahita stelt een eerlijke vraag over wat jullie doen als anderen veel mening hebben over jullie keuzes. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit een relatie die open blijft naar anderen zonder zichzelf te verliezen?",
     "options": [
       "In spanning met familie op veilig spelen door je niet uit te spreken.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -4205,7 +4205,7 @@ window.questionBank = [
     "id": "q-0324",
     "family": "Vrienden en familie",
     "title": "Vrienden en familie 24",
-    "scenario": "Vraag 324: Er is niets dramatisch aan de hand, maar bij een moment waarop blijkt dat jullie allebei iets anders gewend zijn rond familie blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe loyaal je bent aan elkaar in sociale spanning. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 324: Er is niets dramatisch aan de hand, maar bij een moment waarop blijkt dat jullie allebei iets anders gewend zijn rond familie blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe loyaal je bent aan elkaar in sociale spanning. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Bezoek alleen zo organiseren dat thuis ook voor haar veilig en comfortabel blijft.",
       "Geen gezamenlijke lijn hebben en dat pas merken als het al botst.",
@@ -4251,7 +4251,7 @@ window.questionBank = [
     "id": "q-0328",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 3",
-    "scenario": "Vraag 328: Jullie toekomst voelt dichtbij rond het bedenken van gewoontes voor winter, zomer en alles daartussenin. Als het daarna gaat over welke momenten je bewust betekenis wilt geven, Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij rituelen bouwen die betekenis geven zonder dwingend te worden?",
+    "scenario": "Vraag 328: Jullie toekomst voelt dichtbij rond het bedenken van gewoontes voor winter, zomer en alles daartussenin. Als het daarna gaat over welke momenten je bewust betekenis wilt geven, Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt, welke reactie past het meest bij rituelen bouwen die betekenis geven zonder dwingend te worden?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -4279,7 +4279,7 @@ window.questionBank = [
     "id": "q-0330",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 5",
-    "scenario": "Vraag 330: Terwijl het bedenken van gewoontes voor winter, zomer en alles daartussenin speelt, wil Swahita weten hoe jij kijkt naar wat de waarde is van herhaling zonder verstarring. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 330: Terwijl het bedenken van gewoontes voor winter, zomer en alles daartussenin speelt, wil Swahita weten hoe jij kijkt naar wat de waarde is van herhaling zonder verstarring. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Rituelen gebruiken als anker, niet als keurslijf.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -4330,7 +4330,7 @@ window.questionBank = [
     "id": "q-0334",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 9",
-    "scenario": "Vraag 334: een gesprek over feestdagen, terugkerende momenten en wat jullie daarvan willen maken zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je ruimte laat voor haar smaak en geschiedenis. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 334: een gesprek over feestdagen, terugkerende momenten en wat jullie daarvan willen maken zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je ruimte laat voor haar smaak en geschiedenis. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Doorzetten omdat iets nu eenmaal elk jaar zo gaat.",
       "Traditie verwarren met controle over hoe dingen horen te gaan.",
@@ -4358,7 +4358,7 @@ window.questionBank = [
     "id": "q-0336",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 11",
-    "scenario": "Vraag 336: Swahita kijkt naar hoe jij reageert bij de vraag welke tradities jullie willen erven en welke juist niet. Daarna wil ze weten hoe je staat in hoe tradities iets van jullie samen worden. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 336: Swahita kijkt naar hoe jij reageert bij de vraag welke tradities jullie willen erven en welke juist niet. Daarna wil ze weten hoe je staat in hoe tradities iets van jullie samen worden. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
     "options": [
       "Bewust kiezen welke terugkerende momenten jullie willen laden met aandacht.",
       "Niet vragen wat zij juist fijn of beladen vindt.",
@@ -4409,7 +4409,7 @@ window.questionBank = [
     "id": "q-0340",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 15",
-    "scenario": "Vraag 340: Bij de vraag welke tradities jullie willen erven en welke juist niet blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat de waarde is van herhaling zonder verstarring in. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 340: Bij de vraag welke tradities jullie willen erven en welke juist niet blijkt of jullie later echt kunnen samenwerken. Swahita brengt wat de waarde is van herhaling zonder verstarring in. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Traditie verwarren met controle over hoe dingen horen te gaan.",
@@ -4423,7 +4423,7 @@ window.questionBank = [
     "id": "q-0341",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 16",
-    "scenario": "Vraag 341: Tijdens een seizoen waarin jullie merken hoe goed rituelen kunnen dragen komt ineens dit op tafel: hoe tradities iets van jullie samen worden. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Omdat een boerderijleven alleen werkt als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij rituelen bouwen die betekenis geven zonder dwingend te worden?",
+    "scenario": "Vraag 341: Tijdens een seizoen waarin jullie merken hoe goed rituelen kunnen dragen komt ineens dit op tafel: hoe tradities iets van jullie samen worden. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Een boerderijleven werkt alleen als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij rituelen bouwen die betekenis geven zonder dwingend te worden?",
     "options": [
       "Herhaling alleen gezellig vinden zolang iedereen zich aanpast.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -4437,7 +4437,7 @@ window.questionBank = [
     "id": "q-0342",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 17",
-    "scenario": "Vraag 342: Jullie zijn bezig met een seizoen waarin jullie merken hoe goed rituelen kunnen dragen. Swahita stelt een eerlijke vraag over wat je doet als gewoontes verplicht beginnen te voelen. Swahita zegt het rustig, maar je merkt dat het haar echt raakt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit rituelen bouwen die betekenis geven zonder dwingend te worden?",
+    "scenario": "Vraag 342: Jullie zijn bezig met een seizoen waarin jullie merken hoe goed rituelen kunnen dragen. Swahita stelt een eerlijke vraag over wat je doet als gewoontes verplicht beginnen te voelen. Swahita zegt het rustig, maar je merkt dat het haar echt raakt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit rituelen bouwen die betekenis geven zonder dwingend te worden?",
     "options": [
       "Rituelen gebruiken als anker, niet als keurslijf.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -4488,7 +4488,7 @@ window.questionBank = [
     "id": "q-0346",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 21",
-    "scenario": "Vraag 346: In een gesprek na een avond waarop het gaat over herhaling, gezelligheid en vrijheid blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe tradities iets van jullie samen worden. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor rituelen bouwen die betekenis geven zonder dwingend te worden?",
+    "scenario": "Vraag 346: In een gesprek na een avond waarop het gaat over herhaling, gezelligheid en vrijheid blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe tradities iets van jullie samen worden. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor rituelen bouwen die betekenis geven zonder dwingend te worden?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Alles bijzonder willen maken zodat niets nog licht voelt.",
@@ -4516,7 +4516,7 @@ window.questionBank = [
     "id": "q-0348",
     "family": "Seizoenen en tradities",
     "title": "Seizoenen en tradities 23",
-    "scenario": "Vraag 348: Jullie toekomst voelt dichtbij rond een avond waarop het gaat over herhaling, gezelligheid en vrijheid. Als het daarna gaat over welke momenten je bewust betekenis wilt geven, Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt, welke reactie past het meest bij rituelen bouwen die betekenis geven zonder dwingend te worden?",
+    "scenario": "Vraag 348: Jullie toekomst voelt dichtbij rond een avond waarop het gaat over herhaling, gezelligheid en vrijheid. Als het daarna gaat over welke momenten je bewust betekenis wilt geven, Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt, welke reactie past het meest bij rituelen bouwen die betekenis geven zonder dwingend te worden?",
     "options": [
       "Op tijd loslaten wat meer plicht dan vreugde begint te worden.",
       "Doorzetten omdat iets nu eenmaal elk jaar zo gaat.",
@@ -4562,7 +4562,7 @@ window.questionBank = [
     "id": "q-0352",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 2",
-    "scenario": "Vraag 352: Juist in een doordeweekse ochtend waarop alles snel moet maar de toon toch iets doet wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt hoe je aandacht laat voelen zonder het groot te maken. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 352: Juist in een doordeweekse ochtend waarop alles snel moet maar de toon toch iets doet wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt hoe je aandacht laat voelen zonder het groot te maken. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Liefde groot praten maar klein leven.",
       "Efficientie steeds laten winnen van sfeer.",
@@ -4590,7 +4590,7 @@ window.questionBank = [
     "id": "q-0354",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 4",
-    "scenario": "Vraag 354: een doordeweekse ochtend waarop alles snel moet maar de toon toch iets doet zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe jullie op slechte dagen toch netjes met elkaar omgaan. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 354: een doordeweekse ochtend waarop alles snel moet maar de toon toch iets doet zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe jullie op slechte dagen toch netjes met elkaar omgaan. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste keuze?",
     "options": [
       "Ook op slechte dagen bewaken hoe jullie tegen elkaar praten.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -4618,7 +4618,7 @@ window.questionBank = [
     "id": "q-0356",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 6",
-    "scenario": "Vraag 356: Swahita kijkt naar hoe jij reageert bij de manier waarop jullie elkaar begroeten, afstemmen en afsluiten op gewone dagen. Daarna wil ze weten hoe je staat in welke kleine dingen haar veel zekerheid geven. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 356: Swahita kijkt naar hoe jij reageert bij de manier waarop jullie elkaar begroeten, afstemmen en afsluiten op gewone dagen. Daarna wil ze weten hoe je staat in welke kleine dingen haar veel zekerheid geven. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke optie is het meest geruststellend?",
     "options": [
       "Geen groot theater maken van liefde, maar wel consequent laten merken dat zij telt.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -4641,7 +4641,7 @@ window.questionBank = [
     "id": "q-0358",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 8",
-    "scenario": "Vraag 358: Als de manier waarop jullie elkaar begroeten, afstemmen en afsluiten op gewone dagen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat gewone dagen draaglijk en warm maakt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 358: Als de manier waarop jullie elkaar begroeten, afstemmen en afsluiten op gewone dagen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat gewone dagen draaglijk en warm maakt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Denken dat kleine dingen onbelangrijk zijn zolang de grote lijn goed is.",
@@ -4669,7 +4669,7 @@ window.questionBank = [
     "id": "q-0360",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 10",
-    "scenario": "Vraag 360: Bij de manier waarop jullie elkaar begroeten, afstemmen en afsluiten op gewone dagen blijkt of jullie later echt kunnen samenwerken. Swahita brengt welke gewoontes later het verschil maken tussen huisgenoten en geliefden in. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 360: Bij de manier waarop jullie elkaar begroeten, afstemmen en afsluiten op gewone dagen blijkt of jullie later echt kunnen samenwerken. Swahita brengt welke gewoontes later het verschil maken tussen huisgenoten en geliefden in. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Kleine vormen van aandacht serieus nemen omdat zij vaak het klimaat van de relatie bepalen.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -4683,7 +4683,7 @@ window.questionBank = [
     "id": "q-0361",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 11",
-    "scenario": "Vraag 361: Tijdens een gesprek over mini-gewoontes die een huis of relatie kleur geven komt ineens dit op tafel: welke kleine dingen haar veel zekerheid geven. Swahita zegt het rustig, maar je merkt dat het haar echt raakt. Omdat een boerderijleven alleen werkt als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij kleine patronen die vertrouwen en zachtheid stapelen?",
+    "scenario": "Vraag 361: Tijdens een gesprek over mini-gewoontes die een huis of relatie kleur geven komt ineens dit op tafel: welke kleine dingen haar veel zekerheid geven. Swahita zegt het rustig, maar je merkt dat het haar echt raakt. Een boerderijleven werkt alleen als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij kleine patronen die vertrouwen en zachtheid stapelen?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Denken dat kleine dingen onbelangrijk zijn zolang de grote lijn goed is.",
@@ -4697,7 +4697,7 @@ window.questionBank = [
     "id": "q-0362",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 12",
-    "scenario": "Vraag 362: Jullie zijn bezig met een gesprek over mini-gewoontes die een huis of relatie kleur geven. Swahita stelt een eerlijke vraag over hoe je aandacht laat voelen zonder het groot te maken. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit kleine patronen die vertrouwen en zachtheid stapelen?",
+    "scenario": "Vraag 362: Jullie zijn bezig met een gesprek over mini-gewoontes die een huis of relatie kleur geven. Swahita stelt een eerlijke vraag over hoe je aandacht laat voelen zonder het groot te maken. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit kleine patronen die vertrouwen en zachtheid stapelen?",
     "options": [
       "Ook op slechte dagen bewaken hoe jullie tegen elkaar praten.",
       "Alleen bij problemen investeren in contact.",
@@ -4720,7 +4720,7 @@ window.questionBank = [
     "id": "q-0364",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 14",
-    "scenario": "Vraag 364: Er is niets dramatisch aan de hand, maar bij een gesprek over mini-gewoontes die een huis of relatie kleur geven blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie op slechte dagen toch netjes met elkaar omgaan. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 364: Er is niets dramatisch aan de hand, maar bij een gesprek over mini-gewoontes die een huis of relatie kleur geven blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe jullie op slechte dagen toch netjes met elkaar omgaan. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Moeheid als excuus gebruiken voor een harde toon.",
       "Denken dat kleine dingen onbelangrijk zijn zolang de grote lijn goed is.",
@@ -4748,7 +4748,7 @@ window.questionBank = [
     "id": "q-0366",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 16",
-    "scenario": "Vraag 366: In een gesprek na een dag waarin niets bijzonders gebeurt maar juist daarom veel zichtbaar wordt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over welke kleine dingen haar veel zekerheid geven. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor kleine patronen die vertrouwen en zachtheid stapelen?",
+    "scenario": "Vraag 366: In een gesprek na een dag waarin niets bijzonders gebeurt maar juist daarom veel zichtbaar wordt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over welke kleine dingen haar veel zekerheid geven. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor kleine patronen die vertrouwen en zachtheid stapelen?",
     "options": [
       "Ook op slechte dagen bewaken hoe jullie tegen elkaar praten.",
       "Liefde groot praten maar klein leven.",
@@ -4776,7 +4776,7 @@ window.questionBank = [
     "id": "q-0368",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 18",
-    "scenario": "Vraag 368: Jullie toekomst voelt dichtbij rond een dag waarin niets bijzonders gebeurt maar juist daarom veel zichtbaar wordt. Als het daarna gaat over wat gewone dagen draaglijk en warm maakt, Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt, welke reactie past het meest bij kleine patronen die vertrouwen en zachtheid stapelen?",
+    "scenario": "Vraag 368: Jullie toekomst voelt dichtbij rond een dag waarin niets bijzonders gebeurt maar juist daarom veel zichtbaar wordt. Als het daarna gaat over wat gewone dagen draaglijk en warm maakt, Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt, welke reactie past het meest bij kleine patronen die vertrouwen en zachtheid stapelen?",
     "options": [
       "Kleine vormen van aandacht serieus nemen omdat zij vaak het klimaat van de relatie bepalen.",
       "Alleen bij problemen investeren in contact.",
@@ -4799,7 +4799,7 @@ window.questionBank = [
     "id": "q-0370",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 20",
-    "scenario": "Vraag 370: Terwijl een dag waarin niets bijzonders gebeurt maar juist daarom veel zichtbaar wordt speelt, wil Swahita weten hoe jij kijkt naar welke gewoontes later het verschil maken tussen huisgenoten en geliefden. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 370: Terwijl een dag waarin niets bijzonders gebeurt maar juist daarom veel zichtbaar wordt speelt, wil Swahita weten hoe jij kijkt naar welke gewoontes later het verschil maken tussen huisgenoten en geliefden. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -4827,7 +4827,7 @@ window.questionBank = [
     "id": "q-0372",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 22",
-    "scenario": "Vraag 372: Juist in het zoeken naar rituelen die klein zijn maar veel betekenen wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt hoe je aandacht laat voelen zonder het groot te maken. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 372: Juist in het zoeken naar rituelen die klein zijn maar veel betekenen wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt hoe je aandacht laat voelen zonder het groot te maken. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Kleine vormen van aandacht serieus nemen omdat zij vaak het klimaat van de relatie bepalen.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -4855,7 +4855,7 @@ window.questionBank = [
     "id": "q-0374",
     "family": "Dagelijkse gewoontes",
     "title": "Dagelijkse gewoontes 24",
-    "scenario": "Vraag 374: het zoeken naar rituelen die klein zijn maar veel betekenen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe jullie op slechte dagen toch netjes met elkaar omgaan. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 374: het zoeken naar rituelen die klein zijn maar veel betekenen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe jullie op slechte dagen toch netjes met elkaar omgaan. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
     "options": [
       "Gewone dagen zacht organiseren in plaats van alleen efficiënt.",
       "Efficientie steeds laten winnen van sfeer.",
@@ -4901,7 +4901,7 @@ window.questionBank = [
     "id": "q-0378",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 3",
-    "scenario": "Vraag 378: Als een week met ziekte, stress of onverwachte tegenslag eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je zorg geeft zonder jezelf tot redder te maken. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 378: Als een week met ziekte, stress of onverwachte tegenslag eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je zorg geeft zonder jezelf tot redder te maken. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Ondersteunen zonder heldenrol, zodat zorg niet in scheefgroei verandert.",
       "Hulp pas overwegen als iemand al bijna instort.",
@@ -4929,7 +4929,7 @@ window.questionBank = [
     "id": "q-0380",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 5",
-    "scenario": "Vraag 380: Bij een week met ziekte, stress of onverwachte tegenslag blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je voorkomt dat moeilijke weken blijvende wrok worden in. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 380: Bij een week met ziekte, stress of onverwachte tegenslag blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je voorkomt dat moeilijke weken blijvende wrok worden in. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Na een zware week napraten zodat niemand stil blijft zitten met bitterheid.",
       "Meer doen zonder iets te zeggen en verwachten dat zij dat vanzelf snapt.",
@@ -4943,7 +4943,7 @@ window.questionBank = [
     "id": "q-0381",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 6",
-    "scenario": "Vraag 381: Tijdens een periode waarin alles zwaarder voelt dan normaal komt ineens dit op tafel: hoe flexibel je bent wanneer de normale verdeling niet meer past. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Omdat een boerderijleven alleen werkt als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij soepel en liefdevol kunnen herschikken wanneer het leven tegenzit?",
+    "scenario": "Vraag 381: Tijdens een periode waarin alles zwaarder voelt dan normaal komt ineens dit op tafel: hoe flexibel je bent wanneer de normale verdeling niet meer past. Je voelt dat ze geen perfect antwoord wil horen maar een oprecht antwoord. Een boerderijleven werkt alleen als jullie hierin zacht en eerlijk blijven. Welke reactie past dan het best bij soepel en liefdevol kunnen herschikken wanneer het leven tegenzit?",
     "options": [
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -4980,7 +4980,7 @@ window.questionBank = [
     "id": "q-0384",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 9",
-    "scenario": "Vraag 384: Er is niets dramatisch aan de hand, maar bij een periode waarin alles zwaarder voelt dan normaal blijkt wel waar jullie echt voor staan. Het onderwerp wordt wanneer je hulp van buiten nodig hebt. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 384: Er is niets dramatisch aan de hand, maar bij een periode waarin alles zwaarder voelt dan normaal blijkt wel waar jullie echt voor staan. Het onderwerp wordt wanneer je hulp van buiten nodig hebt. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Na een zware week napraten zodat niemand stil blijft zitten met bitterheid.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -5008,7 +5008,7 @@ window.questionBank = [
     "id": "q-0386",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 11",
-    "scenario": "Vraag 386: In een gesprek na een paar dagen waarop jullie gebruikelijke systeem niet meer werkt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe flexibel je bent wanneer de normale verdeling niet meer past. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor soepel en liefdevol kunnen herschikken wanneer het leven tegenzit?",
+    "scenario": "Vraag 386: In een gesprek na een paar dagen waarop jullie gebruikelijke systeem niet meer werkt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe flexibel je bent wanneer de normale verdeling niet meer past. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor soepel en liefdevol kunnen herschikken wanneer het leven tegenzit?",
     "options": [
       "Ondersteunen zonder heldenrol, zodat zorg niet in scheefgroei verandert.",
       "Het normale systeem koste wat kost proberen vol te houden.",
@@ -5059,7 +5059,7 @@ window.questionBank = [
     "id": "q-0390",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 15",
-    "scenario": "Vraag 390: Terwijl een paar dagen waarop jullie gebruikelijke systeem niet meer werkt speelt, wil Swahita weten hoe jij kijkt naar hoe je voorkomt dat moeilijke weken blijvende wrok worden. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 390: Terwijl een paar dagen waarop jullie gebruikelijke systeem niet meer werkt speelt, wil Swahita weten hoe jij kijkt naar hoe je voorkomt dat moeilijke weken blijvende wrok worden. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Samen bepalen wat nu echt belangrijk is en wat tijdelijk minder perfect mag.",
       "Alles belangrijk blijven noemen zodat niets echt prioriteit krijgt.",
@@ -5087,7 +5087,7 @@ window.questionBank = [
     "id": "q-0392",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 17",
-    "scenario": "Vraag 392: Juist in een situatie waarin draagkracht plotseling scheef valt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je laat vallen en wat je beschermt als er te veel tegelijk is. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 392: Juist in een situatie waarin draagkracht plotseling scheef valt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat je laat vallen en wat je beschermt als er te veel tegelijk is. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Na een zware week napraten zodat niemand stil blijft zitten met bitterheid.",
       "Het normale systeem koste wat kost proberen vol te houden.",
@@ -5138,7 +5138,7 @@ window.questionBank = [
     "id": "q-0396",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 21",
-    "scenario": "Vraag 396: Swahita kijkt naar hoe jij reageert bij een moeilijke week waarin je merkt of jullie echt een team zijn. Daarna wil ze weten hoe je staat in hoe flexibel je bent wanneer de normale verdeling niet meer past. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 396: Swahita kijkt naar hoe jij reageert bij een moeilijke week waarin je merkt of jullie echt een team zijn. Daarna wil ze weten hoe je staat in hoe flexibel je bent wanneer de normale verdeling niet meer past. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Na een zware week napraten zodat niemand stil blijft zitten met bitterheid.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -5166,7 +5166,7 @@ window.questionBank = [
     "id": "q-0398",
     "family": "Taken in moeilijke weken",
     "title": "Taken in moeilijke weken 23",
-    "scenario": "Vraag 398: Als een moeilijke week waarin je merkt of jullie echt een team zijn eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je zorg geeft zonder jezelf tot redder te maken. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 398: Als een moeilijke week waarin je merkt of jullie echt een team zijn eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je zorg geeft zonder jezelf tot redder te maken. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Samen bepalen wat nu echt belangrijk is en wat tijdelijk minder perfect mag.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -5212,7 +5212,7 @@ window.questionBank = [
     "id": "q-0402",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 2",
-    "scenario": "Vraag 402: Jullie zijn bezig met een gesprek over wat je wel, niet of nog niet makkelijk zegt. Swahita stelt een eerlijke vraag over wat eerlijkheid onderscheidt van botheid. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit eerlijkheid die niet hard is maar wel helder?",
+    "scenario": "Vraag 402: Jullie zijn bezig met een gesprek over wat je wel, niet of nog niet makkelijk zegt. Swahita stelt een eerlijke vraag over wat eerlijkheid onderscheidt van botheid. Ze vraagt het zonder drama, juist daardoor hoor je hoe serieus het is. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Wat is dan de sterkste reactie als je denkt vanuit eerlijkheid die niet hard is maar wel helder?",
     "options": [
       "Eerlijk zijn met zorg voor toon, timing en haar draagvlak.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -5240,7 +5240,7 @@ window.questionBank = [
     "id": "q-0404",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 4",
-    "scenario": "Vraag 404: Er is niets dramatisch aan de hand, maar bij een gesprek over wat je wel, niet of nog niet makkelijk zegt blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat vertrouwen aantast in kleine stapjes. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 404: Er is niets dramatisch aan de hand, maar bij een gesprek over wat je wel, niet of nog niet makkelijk zegt blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat vertrouwen aantast in kleine stapjes. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welk antwoord is dan het gezondst?",
     "options": [
       "Kleine onduidelijkheden serieus nemen omdat vertrouwen vaak daar scheurt.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -5268,7 +5268,7 @@ window.questionBank = [
     "id": "q-0406",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 6",
-    "scenario": "Vraag 406: In een gesprek na een moment waarop zwijgen veiliger lijkt dan eerlijk zijn blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je moeilijke dingen op tijd zegt. Omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor eerlijkheid die niet hard is maar wel helder?",
+    "scenario": "Vraag 406: In een gesprek na een moment waarop zwijgen veiliger lijkt dan eerlijk zijn blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je moeilijke dingen op tijd zegt. Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt. Welke reactie bewijst het best dat jij kiest voor eerlijkheid die niet hard is maar wel helder?",
     "options": [
       "Alleen naar grote leugens kijken en kleine verschuivingen negeren.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -5291,7 +5291,7 @@ window.questionBank = [
     "id": "q-0408",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 8",
-    "scenario": "Vraag 408: Jullie toekomst voelt dichtbij rond een moment waarop zwijgen veiliger lijkt dan eerlijk zijn. Als het daarna gaat over hoe je open blijft zonder alles in paniek eruit te gooien, Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt, welke reactie past het meest bij eerlijkheid die niet hard is maar wel helder?",
+    "scenario": "Vraag 408: Jullie toekomst voelt dichtbij rond een moment waarop zwijgen veiliger lijkt dan eerlijk zijn. Als het daarna gaat over hoe je open blijft zonder alles in paniek eruit te gooien, Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt, welke reactie past het meest bij eerlijkheid die niet hard is maar wel helder?",
     "options": [
       "Kleine onduidelijkheden serieus nemen omdat vertrouwen vaak daar scheurt.",
       "Eerlijkheid gebruiken om spanning af te voeren in plaats van verbinding te bouwen.",
@@ -5319,7 +5319,7 @@ window.questionBank = [
     "id": "q-0410",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 10",
-    "scenario": "Vraag 410: Terwijl een moment waarop zwijgen veiliger lijkt dan eerlijk zijn speelt, wil Swahita weten hoe jij kijkt naar hoe jullie een sfeer bouwen waarin waarheid niet meteen gevaarlijk voelt. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 410: Terwijl een moment waarop zwijgen veiliger lijkt dan eerlijk zijn speelt, wil Swahita weten hoe jij kijkt naar hoe jullie een sfeer bouwen waarin waarheid niet meteen gevaarlijk voelt. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Moeilijke dingen vroeg genoeg delen zodat ze niet eerst een schaduwleven gaan leiden.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -5347,7 +5347,7 @@ window.questionBank = [
     "id": "q-0412",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 12",
-    "scenario": "Vraag 412: Juist in een avond waarop jullie bespreken wat openheid eigenlijk vraagt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat eerlijkheid onderscheidt van botheid. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 412: Juist in een avond waarop jullie bespreken wat openheid eigenlijk vraagt wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wat eerlijkheid onderscheidt van botheid. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -5370,7 +5370,7 @@ window.questionBank = [
     "id": "q-0414",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 14",
-    "scenario": "Vraag 414: een avond waarop jullie bespreken wat openheid eigenlijk vraagt zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met wat vertrouwen aantast in kleine stapjes. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 414: een avond waarop jullie bespreken wat openheid eigenlijk vraagt zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met wat vertrouwen aantast in kleine stapjes. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
     "options": [
       "Moeilijke dingen vroeg genoeg delen zodat ze niet eerst een schaduwleven gaan leiden.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -5398,7 +5398,7 @@ window.questionBank = [
     "id": "q-0416",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 16",
-    "scenario": "Vraag 416: Swahita kijkt naar hoe jij reageert bij een situatie waarin een klein geheim groter voelt dan het lijkt. Daarna wil ze weten hoe je staat in hoe je moeilijke dingen op tijd zegt. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 416: Swahita kijkt naar hoe jij reageert bij een situatie waarin een klein geheim groter voelt dan het lijkt. Daarna wil ze weten hoe je staat in hoe je moeilijke dingen op tijd zegt. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Kleine onduidelijkheden serieus nemen omdat vertrouwen vaak daar scheurt.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -5426,7 +5426,7 @@ window.questionBank = [
     "id": "q-0418",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 18",
-    "scenario": "Vraag 418: Als een situatie waarin een klein geheim groter voelt dan het lijkt eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je open blijft zonder alles in paniek eruit te gooien. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 418: Als een situatie waarin een klein geheim groter voelt dan het lijkt eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond hoe je open blijft zonder alles in paniek eruit te gooien. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Botheid verkopen als eerlijkheid.",
       "Zeggen dat openheid belangrijk is maar defensief reageren op haar waarheid.",
@@ -5449,7 +5449,7 @@ window.questionBank = [
     "id": "q-0420",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 20",
-    "scenario": "Vraag 420: Bij een situatie waarin een klein geheim groter voelt dan het lijkt blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe jullie een sfeer bouwen waarin waarheid niet meteen gevaarlijk voelt in. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 420: Bij een situatie waarin een klein geheim groter voelt dan het lijkt blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe jullie een sfeer bouwen waarin waarheid niet meteen gevaarlijk voelt in. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Openheid oefenen zonder alles ongefilterd over haar heen te storten.",
       "Alleen naar grote leugens kijken en kleine verschuivingen negeren.",
@@ -5463,7 +5463,7 @@ window.questionBank = [
     "id": "q-0421",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 21",
-    "scenario": "Vraag 421: Tijdens de vraag hoe transparant je moet zijn om echt vertrouwd te blijven komt ineens dit op tafel: hoe je moeilijke dingen op tijd zegt. Dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden. Omdat juist zulke momenten later het verschil maken tussen dromen en echt samenleven. Welke reactie past dan het best bij eerlijkheid die niet hard is maar wel helder?",
+    "scenario": "Vraag 421: Tijdens de vraag hoe transparant je moet zijn om echt vertrouwd te blijven komt ineens dit op tafel: hoe je moeilijke dingen op tijd zegt. Dit is zo'n moment waarop zij vooral kijkt of jouw gedrag net zo warm is als je woorden. Juist zulke momenten maken later het verschil tussen dromen en echt samenleven. Welke reactie past dan het best bij eerlijkheid die niet hard is maar wel helder?",
     "options": [
       "Botheid verkopen als eerlijkheid.",
       "Zeggen dat openheid belangrijk is maar defensief reageren op haar waarheid.",
@@ -5477,7 +5477,7 @@ window.questionBank = [
     "id": "q-0422",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 22",
-    "scenario": "Vraag 422: Jullie zijn bezig met de vraag hoe transparant je moet zijn om echt vertrouwd te blijven. Swahita stelt een eerlijke vraag over wat eerlijkheid onderscheidt van botheid. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit eerlijkheid die niet hard is maar wel helder?",
+    "scenario": "Vraag 422: Jullie zijn bezig met de vraag hoe transparant je moet zijn om echt vertrouwd te blijven. Swahita stelt een eerlijke vraag over wat eerlijkheid onderscheidt van botheid. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit eerlijkheid die niet hard is maar wel helder?",
     "options": [
       "Moeilijke dingen vroeg genoeg delen zodat ze niet eerst een schaduwleven gaan leiden.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -5505,7 +5505,7 @@ window.questionBank = [
     "id": "q-0424",
     "family": "Vertrouwen en openheid",
     "title": "Vertrouwen en openheid 24",
-    "scenario": "Vraag 424: Er is niets dramatisch aan de hand, maar bij de vraag hoe transparant je moet zijn om echt vertrouwd te blijven blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat vertrouwen aantast in kleine stapjes. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 424: Er is niets dramatisch aan de hand, maar bij de vraag hoe transparant je moet zijn om echt vertrouwd te blijven blijkt wel waar jullie echt voor staan. Het onderwerp wordt wat vertrouwen aantast in kleine stapjes. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Zeggen dat openheid belangrijk is maar defensief reageren op haar waarheid.",
@@ -5551,7 +5551,7 @@ window.questionBank = [
     "id": "q-0428",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 3",
-    "scenario": "Vraag 428: Jullie toekomst voelt dichtbij rond een periode waarin alles functioneel dreigt te worden. Als het daarna gaat over hoe je luchtigheid gebruikt zonder moeilijke dingen weg te lachen, Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt, welke reactie past het meest bij lichtheid bewaren zonder de diepte kwijt te raken?",
+    "scenario": "Vraag 428: Jullie toekomst voelt dichtbij rond een periode waarin alles functioneel dreigt te worden. Als het daarna gaat over hoe je luchtigheid gebruikt zonder moeilijke dingen weg te lachen, Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt, welke reactie past het meest bij lichtheid bewaren zonder de diepte kwijt te raken?",
     "options": [
       "Humor gebruiken om te verbinden, niet om lastige onderwerpen weg te poetsen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -5579,7 +5579,7 @@ window.questionBank = [
     "id": "q-0430",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 5",
-    "scenario": "Vraag 430: Terwijl een periode waarin alles functioneel dreigt te worden speelt, wil Swahita weten hoe jij kijkt naar waarom plezier ook relationele voeding is. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 430: Terwijl een periode waarin alles functioneel dreigt te worden speelt, wil Swahita weten hoe jij kijkt naar waarom plezier ook relationele voeding is. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Humor gebruiken om niet echt te hoeven praten.",
@@ -5630,7 +5630,7 @@ window.questionBank = [
     "id": "q-0434",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 9",
-    "scenario": "Vraag 434: een avond waarop jullie merken dat lachen en luchtigheid ook onderhoud vragen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe spontaan je kunt zijn zonder chaos te veroorzaken. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 434: een avond waarop jullie merken dat lachen en luchtigheid ook onderhoud vragen zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe spontaan je kunt zijn zonder chaos te veroorzaken. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
     "options": [
       "Plezier serieus nemen als iets wat de relatie voedt.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -5658,7 +5658,7 @@ window.questionBank = [
     "id": "q-0436",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 11",
-    "scenario": "Vraag 436: Swahita kijkt naar hoe jij reageert bij een gesprek over hoe plezier past in een serieus toekomstplan. Daarna wil ze weten hoe je staat in hoe jullie plezier niet uitstellen tot later. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 436: Swahita kijkt naar hoe jij reageert bij een gesprek over hoe plezier past in een serieus toekomstplan. Daarna wil ze weten hoe je staat in hoe jullie plezier niet uitstellen tot later. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Luchtigheid alleen laten bestaan als zij zich aanpast aan jouw stijl.",
       "Humor gebruiken om niet echt te hoeven praten.",
@@ -5709,7 +5709,7 @@ window.questionBank = [
     "id": "q-0440",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 15",
-    "scenario": "Vraag 440: Bij een gesprek over hoe plezier past in een serieus toekomstplan blijkt of jullie later echt kunnen samenwerken. Swahita brengt waarom plezier ook relationele voeding is in. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 440: Bij een gesprek over hoe plezier past in een serieus toekomstplan blijkt of jullie later echt kunnen samenwerken. Swahita brengt waarom plezier ook relationele voeding is in. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Speelsheid bouwen op veiligheid en wederzijds gemak, niet op prikken of testen.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -5723,7 +5723,7 @@ window.questionBank = [
     "id": "q-0441",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 16",
-    "scenario": "Vraag 441: Tijdens een dag waarop spontaniteit botst met planning komt ineens dit op tafel: hoe jullie plezier niet uitstellen tot later. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Omdat juist zulke momenten later het verschil maken tussen dromen en echt samenleven. Welke reactie past dan het best bij lichtheid bewaren zonder de diepte kwijt te raken?",
+    "scenario": "Vraag 441: Tijdens een dag waarop spontaniteit botst met planning komt ineens dit op tafel: hoe jullie plezier niet uitstellen tot later. Je merkt dat ze probeert te peilen of jouw droom ook ruimte heeft voor haar werkelijkheid. Juist zulke momenten maken later het verschil tussen dromen en echt samenleven. Welke reactie past dan het best bij lichtheid bewaren zonder de diepte kwijt te raken?",
     "options": [
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -5737,7 +5737,7 @@ window.questionBank = [
     "id": "q-0442",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 17",
-    "scenario": "Vraag 442: Jullie zijn bezig met een dag waarop spontaniteit botst met planning. Swahita stelt een eerlijke vraag over wat speelsheid nodig heeft om veilig te blijven. Tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit lichtheid bewaren zonder de diepte kwijt te raken?",
+    "scenario": "Vraag 442: Jullie zijn bezig met een dag waarop spontaniteit botst met planning. Swahita stelt een eerlijke vraag over wat speelsheid nodig heeft om veilig te blijven. Tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit lichtheid bewaren zonder de diepte kwijt te raken?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Plezier zien als iets voor als alles eindelijk af is.",
@@ -5788,7 +5788,7 @@ window.questionBank = [
     "id": "q-0446",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 21",
-    "scenario": "Vraag 446: In een gesprek na de vraag hoe je samen nog speels blijft als het leven voller wordt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe jullie plezier niet uitstellen tot later. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor lichtheid bewaren zonder de diepte kwijt te raken?",
+    "scenario": "Vraag 446: In een gesprek na de vraag hoe je samen nog speels blijft als het leven voller wordt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe jullie plezier niet uitstellen tot later. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor lichtheid bewaren zonder de diepte kwijt te raken?",
     "options": [
       "Plezier serieus nemen als iets wat de relatie voedt.",
       "Denken dat serieuze liefde vanzelf ook leuke liefde blijft.",
@@ -5816,7 +5816,7 @@ window.questionBank = [
     "id": "q-0448",
     "family": "Plezier en speelsheid",
     "title": "Plezier en speelsheid 23",
-    "scenario": "Vraag 448: Jullie toekomst voelt dichtbij rond de vraag hoe je samen nog speels blijft als het leven voller wordt. Als het daarna gaat over hoe je luchtigheid gebruikt zonder moeilijke dingen weg te lachen, Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties, welke reactie past het meest bij lichtheid bewaren zonder de diepte kwijt te raken?",
+    "scenario": "Vraag 448: Jullie toekomst voelt dichtbij rond de vraag hoe je samen nog speels blijft als het leven voller wordt. Als het daarna gaat over hoe je luchtigheid gebruikt zonder moeilijke dingen weg te lachen, Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties, welke reactie past het meest bij lichtheid bewaren zonder de diepte kwijt te raken?",
     "options": [
       "Chaos verwarren met levendigheid.",
       "Plezier zien als iets voor als alles eindelijk af is.",
@@ -5862,7 +5862,7 @@ window.questionBank = [
     "id": "q-0452",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 2",
-    "scenario": "Vraag 452: Juist in een gesprek over wat jullie willen opgeven en wat juist niet wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wie de prijs van een keuze straks echt betaalt. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 452: Juist in een gesprek over wat jullie willen opgeven en wat juist niet wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wie de prijs van een keuze straks echt betaalt. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Waar zit dan de meest veilige reactie?",
     "options": [
       "Kijken wie de werkelijke prijs betaalt in energie, vrijheid of rust.",
       "Te laat toegeven dat iets te veel kost.",
@@ -5890,7 +5890,7 @@ window.questionBank = [
     "id": "q-0454",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 4",
-    "scenario": "Vraag 454: een gesprek over wat jullie willen opgeven en wat juist niet zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je samen beslist wanneer niet alles kan. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 454: een gesprek over wat jullie willen opgeven en wat juist niet zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je samen beslist wanneer niet alles kan. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste keuze?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -5918,7 +5918,7 @@ window.questionBank = [
     "id": "q-0456",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 6",
-    "scenario": "Vraag 456: Swahita kijkt naar hoe jij reageert bij een moment waarop twee goede dingen niet allebei tegelijk kunnen. Daarna wil ze weten hoe je staat in hoe je onderscheid maakt tussen gezonde offers en domme uitputting. Omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 456: Swahita kijkt naar hoe jij reageert bij een moment waarop twee goede dingen niet allebei tegelijk kunnen. Daarna wil ze weten hoe je staat in hoe je onderscheid maakt tussen gezonde offers en domme uitputting. Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt. Welke optie is het meest geruststellend?",
     "options": [
       "Kijken wie de werkelijke prijs betaalt in energie, vrijheid of rust.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
@@ -5941,7 +5941,7 @@ window.questionBank = [
     "id": "q-0458",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 8",
-    "scenario": "Vraag 458: Als een moment waarop twee goede dingen niet allebei tegelijk kunnen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat niet onderhandelbaar is voor haar welzijn. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 458: Als een moment waarop twee goede dingen niet allebei tegelijk kunnen eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat niet onderhandelbaar is voor haar welzijn. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Samen prioriteren in plaats van automatisch jouw verlangen centraal te zetten.",
       "Doen alsof alles even belangrijk is.",
@@ -5969,7 +5969,7 @@ window.questionBank = [
     "id": "q-0460",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 10",
-    "scenario": "Vraag 460: Bij een moment waarop twee goede dingen niet allebei tegelijk kunnen blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je voorkomt dat een droom op haar kosten doorgaat in. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 460: Bij een moment waarop twee goede dingen niet allebei tegelijk kunnen blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je voorkomt dat een droom op haar kosten doorgaat in. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Vergeten te kijken op wiens schouders het offer landt.",
       "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
@@ -5983,7 +5983,7 @@ window.questionBank = [
     "id": "q-0461",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 11",
-    "scenario": "Vraag 461: Tijdens het afwegen van comfort tegenover betekenis komt ineens dit op tafel: hoe je onderscheid maakt tussen gezonde offers en domme uitputting. Tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen. Omdat juist zulke momenten later het verschil maken tussen dromen en echt samenleven. Welke reactie past dan het best bij samen bewust kiezen wat het waard is en wat niet?",
+    "scenario": "Vraag 461: Tijdens het afwegen van comfort tegenover betekenis komt ineens dit op tafel: hoe je onderscheid maakt tussen gezonde offers en domme uitputting. Tussen de zinnen door voel je dat ze wil weten of ze bij jou kan landen. Juist zulke momenten maken later het verschil tussen dromen en echt samenleven. Welke reactie past dan het best bij samen bewust kiezen wat het waard is en wat niet?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Opoffering bewonderen terwijl herstel uit beeld raakt.",
@@ -5997,7 +5997,7 @@ window.questionBank = [
     "id": "q-0462",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 12",
-    "scenario": "Vraag 462: Jullie zijn bezig met het afwegen van comfort tegenover betekenis. Swahita stelt een eerlijke vraag over wie de prijs van een keuze straks echt betaalt. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit samen bewust kiezen wat het waard is en wat niet?",
+    "scenario": "Vraag 462: Jullie zijn bezig met het afwegen van comfort tegenover betekenis. Swahita stelt een eerlijke vraag over wie de prijs van een keuze straks echt betaalt. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Wat is dan de sterkste reactie als je denkt vanuit samen bewust kiezen wat het waard is en wat niet?",
     "options": [
       "Samen prioriteren in plaats van automatisch jouw verlangen centraal te zetten.",
       "Jouw belangrijkste wens als vanzelf het uitgangspunt nemen.",
@@ -6020,7 +6020,7 @@ window.questionBank = [
     "id": "q-0464",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 14",
-    "scenario": "Vraag 464: Er is niets dramatisch aan de hand, maar bij het afwegen van comfort tegenover betekenis blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe je samen beslist wanneer niet alles kan. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 464: Er is niets dramatisch aan de hand, maar bij het afwegen van comfort tegenover betekenis blijkt wel waar jullie echt voor staan. Het onderwerp wordt hoe je samen beslist wanneer niet alles kan. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
     "options": [
       "Offers alleen goed vinden wanneer ze bewust gekozen en eerlijk verdeeld zijn.",
       "Doen alsof alles even belangrijk is.",
@@ -6048,7 +6048,7 @@ window.questionBank = [
     "id": "q-0466",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 16",
-    "scenario": "Vraag 466: In een gesprek na een avond waarop duidelijk wordt dat elke keuze ook iets kost blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je onderscheid maakt tussen gezonde offers en domme uitputting. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor samen bewust kiezen wat het waard is en wat niet?",
+    "scenario": "Vraag 466: In een gesprek na een avond waarop duidelijk wordt dat elke keuze ook iets kost blijkt dat jullie niet alleen over praktische dingen praten, maar ook over hoe je onderscheid maakt tussen gezonde offers en domme uitputting. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor samen bewust kiezen wat het waard is en wat niet?",
     "options": [
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -6076,7 +6076,7 @@ window.questionBank = [
     "id": "q-0468",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 18",
-    "scenario": "Vraag 468: Jullie toekomst voelt dichtbij rond een avond waarop duidelijk wordt dat elke keuze ook iets kost. Als het daarna gaat over wat niet onderhandelbaar is voor haar welzijn, Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties, welke reactie past het meest bij samen bewust kiezen wat het waard is en wat niet?",
+    "scenario": "Vraag 468: Jullie toekomst voelt dichtbij rond een avond waarop duidelijk wordt dat elke keuze ook iets kost. Als het daarna gaat over wat niet onderhandelbaar is voor haar welzijn, Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties, welke reactie past het meest bij samen bewust kiezen wat het waard is en wat niet?",
     "options": [
       "Offers alleen goed vinden wanneer ze bewust gekozen en eerlijk verdeeld zijn.",
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
@@ -6099,7 +6099,7 @@ window.questionBank = [
     "id": "q-0470",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 20",
-    "scenario": "Vraag 470: Terwijl een avond waarop duidelijk wordt dat elke keuze ook iets kost speelt, wil Swahita weten hoe jij kijkt naar hoe je voorkomt dat een droom op haar kosten doorgaat. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 470: Terwijl een avond waarop duidelijk wordt dat elke keuze ook iets kost speelt, wil Swahita weten hoe jij kijkt naar hoe je voorkomt dat een droom op haar kosten doorgaat. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Haar basiswelzijn niet behandelen als iets dat voor een plan kan wijken.",
       "Lijden romantiseren als bewijs van liefde of toewijding.",
@@ -6127,7 +6127,7 @@ window.questionBank = [
     "id": "q-0472",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 22",
-    "scenario": "Vraag 472: Juist in de vraag welke offers liefdevol zijn en welke alleen maar stoer klinken wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wie de prijs van een keuze straks echt betaalt. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 472: Juist in de vraag welke offers liefdevol zijn en welke alleen maar stoer klinken wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt wie de prijs van een keuze straks echt betaalt. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
     "options": [
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
       "Niet te moeilijk doen en kijken of zij zich later wel aanpast.",
@@ -6155,7 +6155,7 @@ window.questionBank = [
     "id": "q-0474",
     "family": "Keuzes en offers",
     "title": "Keuzes en offers 24",
-    "scenario": "Vraag 474: de vraag welke offers liefdevol zijn en welke alleen maar stoer klinken zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je samen beslist wanneer niet alles kan. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
+    "scenario": "Vraag 474: de vraag welke offers liefdevol zijn en welke alleen maar stoer klinken zet jullie even stil. Jullie moeten uitspreken wat je bedoelt met hoe je samen beslist wanneer niet alles kan. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat is dan de sterkste keuze?",
     "options": [
       "Haar basiswelzijn niet behandelen als iets dat voor een plan kan wijken.",
       "Vergeten te kijken op wiens schouders het offer landt.",
@@ -6201,7 +6201,7 @@ window.questionBank = [
     "id": "q-0478",
     "family": "Oud worden samen",
     "title": "Oud worden samen 3",
-    "scenario": "Vraag 478: Als een gesprek over hoe jullie willen leven als de jaren zwaarder of stiller worden eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat zorg voor elkaar later waardig maakt. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 478: Als een gesprek over hoe jullie willen leven als de jaren zwaarder of stiller worden eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat zorg voor elkaar later waardig maakt. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Alleen aan samen oud worden denken vanuit plaatjes van rust en niet vanuit werkelijkheid.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -6229,7 +6229,7 @@ window.questionBank = [
     "id": "q-0480",
     "family": "Oud worden samen",
     "title": "Oud worden samen 5",
-    "scenario": "Vraag 480: Bij een gesprek over hoe jullie willen leven als de jaren zwaarder of stiller worden blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je later niet alleen samen blijft, maar ook goed samen blijft in. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
+    "scenario": "Vraag 480: Bij een gesprek over hoe jullie willen leven als de jaren zwaarder of stiller worden blijkt of jullie later echt kunnen samenwerken. Swahita brengt hoe je later niet alleen samen blijft, maar ook goed samen blijft in. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke richting is het meest liefdevol en helder?",
     "options": [
       "Niet alleen mikken op lang samen zijn, maar op lang goed samen zijn.",
       "Vooral kiezen wat het snelst klaar is, ook als het gevoelsmatig wringt.",
@@ -6243,7 +6243,7 @@ window.questionBank = [
     "id": "q-0481",
     "family": "Oud worden samen",
     "title": "Oud worden samen 6",
-    "scenario": "Vraag 481: Tijdens een moment waarop jullie nadenken over gezondheid, zorg en ouder worden komt ineens dit op tafel: wat jullie relatie sterk houdt op de lange termijn. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Omdat juist zulke momenten later het verschil maken tussen dromen en echt samenleven. Welke reactie past dan het best bij een lange toekomst denken vanuit zachtheid, waardigheid en trouw?",
+    "scenario": "Vraag 481: Tijdens een moment waarop jullie nadenken over gezondheid, zorg en ouder worden komt ineens dit op tafel: wat jullie relatie sterk houdt op de lange termijn. De vraag klinkt klein, maar je voelt dat haar vertrouwen hier iets van afhangt. Juist zulke momenten maken later het verschil tussen dromen en echt samenleven. Welke reactie past dan het best bij een lange toekomst denken vanuit zachtheid, waardigheid en trouw?",
     "options": [
       "Alleen aan samen oud worden denken vanuit plaatjes van rust en niet vanuit werkelijkheid.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -6280,7 +6280,7 @@ window.questionBank = [
     "id": "q-0484",
     "family": "Oud worden samen",
     "title": "Oud worden samen 9",
-    "scenario": "Vraag 484: Er is niets dramatisch aan de hand, maar bij een moment waarop jullie nadenken over gezondheid, zorg en ouder worden blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke vormen van trouw je nu al wilt oefenen. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
+    "scenario": "Vraag 484: Er is niets dramatisch aan de hand, maar bij een moment waarop jullie nadenken over gezondheid, zorg en ouder worden blijkt wel waar jullie echt voor staan. Het onderwerp wordt welke vormen van trouw je nu al wilt oefenen. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welk antwoord is dan het gezondst?",
     "options": [
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",
       "Aannemen dat liefde vanzelf duidelijk maakt wie wat nodig heeft.",
@@ -6308,7 +6308,7 @@ window.questionBank = [
     "id": "q-0486",
     "family": "Oud worden samen",
     "title": "Oud worden samen 11",
-    "scenario": "Vraag 486: In een gesprek na een rustige avond waarin later ineens dichtbij voelt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over wat jullie relatie sterk houdt op de lange termijn. Omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor een lange toekomst denken vanuit zachtheid, waardigheid en trouw?",
+    "scenario": "Vraag 486: In een gesprek na een rustige avond waarin later ineens dichtbij voelt blijkt dat jullie niet alleen over praktische dingen praten, maar ook over wat jullie relatie sterk houdt op de lange termijn. Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt. Welke reactie bewijst het best dat jij kiest voor een lange toekomst denken vanuit zachtheid, waardigheid en trouw?",
     "options": [
       "Zorg later waardig maken door aandacht, overleg en wederzijds respect.",
       "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken.",
@@ -6359,7 +6359,7 @@ window.questionBank = [
     "id": "q-0490",
     "family": "Oud worden samen",
     "title": "Oud worden samen 15",
-    "scenario": "Vraag 490: Terwijl een rustige avond waarin later ineens dichtbij voelt speelt, wil Swahita weten hoe jij kijkt naar hoe je later niet alleen samen blijft, maar ook goed samen blijft. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
+    "scenario": "Vraag 490: Terwijl een rustige avond waarin later ineens dichtbij voelt speelt, wil Swahita weten hoe jij kijkt naar hoe je later niet alleen samen blijft, maar ook goed samen blijft. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Wat antwoord je als je iets duurzaams wilt bouwen?",
     "options": [
       "Trouw groot benoemen maar klein leven.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -6387,7 +6387,7 @@ window.questionBank = [
     "id": "q-0492",
     "family": "Oud worden samen",
     "title": "Oud worden samen 17",
-    "scenario": "Vraag 492: Juist in de vraag wat jullie absoluut willen behouden als de energie verandert wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt hoe je omgaat met veranderende lichamen en mogelijkheden. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
+    "scenario": "Vraag 492: Juist in de vraag wat jullie absoluut willen behouden als de energie verandert wordt zichtbaar of jullie dezelfde kant op denken. Het onderwerp wordt hoe je omgaat met veranderende lichamen en mogelijkheden. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Waar zit dan de meest veilige reactie?",
     "options": [
       "Niet alleen mikken op lang samen zijn, maar op lang goed samen zijn.",
       "Alleen aan samen oud worden denken vanuit plaatjes van rust en niet vanuit werkelijkheid.",
@@ -6438,7 +6438,7 @@ window.questionBank = [
     "id": "q-0496",
     "family": "Oud worden samen",
     "title": "Oud worden samen 21",
-    "scenario": "Vraag 496: Swahita kijkt naar hoe jij reageert bij een toekomstgesprek waarin niet alleen dromen maar ook kwetsbaarheid meetelt. Daarna wil ze weten hoe je staat in wat jullie relatie sterk houdt op de lange termijn. Omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
+    "scenario": "Vraag 496: Swahita kijkt naar hoe jij reageert bij een toekomstgesprek waarin niet alleen dromen maar ook kwetsbaarheid meetelt. Daarna wil ze weten hoe je staat in wat jullie relatie sterk houdt op de lange termijn. Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties. Welke optie is het meest geruststellend?",
     "options": [
       "Pas praten als iemand echt over zijn grens heen is gegaan.",
       "Gewoon hopen dat het zichzelf oplost zodra jullie eenmaal samen wonen.",
@@ -6466,7 +6466,7 @@ window.questionBank = [
     "id": "q-0498",
     "family": "Oud worden samen",
     "title": "Oud worden samen 23",
-    "scenario": "Vraag 498: Als een toekomstgesprek waarin niet alleen dromen maar ook kwetsbaarheid meetelt eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat zorg voor elkaar later waardig maakt. Omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
+    "scenario": "Vraag 498: Als een toekomstgesprek waarin niet alleen dromen maar ook kwetsbaarheid meetelt eenmaal normaal wordt, wil je nog steeds goed met elkaar omgaan rond wat zorg voor elkaar later waardig maakt. Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt. Welke reactie houdt het meest rekening met haar?",
     "options": [
       "Verandering in lichaam of energie zien als iets om samen lief op aan te passen.",
       "De sfeer goed houden door het lastige deel nog even uit te stellen.",

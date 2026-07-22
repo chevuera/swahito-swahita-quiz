@@ -5,16 +5,16 @@ const root = path.resolve(__dirname, "..");
 const questionsPerFamily = 25;
 
 const stakes = [
-  "omdat juist zulke momenten later het verschil maken tussen dromen en echt samenleven",
-  "omdat dit precies het soort detail is waar vertrouwen groter of kleiner van wordt",
-  "omdat hier vaak zichtbaar wordt of iemand zich veilig of juist alleen voelt",
-  "omdat een toekomst niet stukgaat op een groot plan maar soms op honderd kleine reacties",
-  "omdat dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie",
-  "omdat hier vaak blijkt of jij haar echt ziet of vooral je eigen idee van later volgt",
-  "omdat een boerderijleven alleen werkt als jullie hierin zacht en eerlijk blijven",
-  "omdat juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt",
-  "omdat hier snel scheefgroei ontstaat als je niet bewust kiest",
-  "omdat zulke kleine momenten later grote betekenis krijgen in hoe veilig een relatie voelt"
+  "Juist zulke momenten maken later het verschil tussen dromen en echt samenleven",
+  "Dit is precies het soort detail waar vertrouwen groter of kleiner van wordt",
+  "Hier wordt vaak zichtbaar of iemand zich veilig of juist alleen voelt",
+  "Een toekomst gaat niet stuk op een groot plan alleen, maar soms op honderd kleine reacties",
+  "Dit laat zien of jouw liefde ook standhoudt buiten de mooie fantasie",
+  "Hier blijkt vaak of jij haar echt ziet of vooral je eigen idee van later volgt",
+  "Een boerderijleven werkt alleen als jullie hierin zacht en eerlijk blijven",
+  "Juist dit soort gesprekken bepaalt of Swahita zich gedragen voelt",
+  "Hier ontstaat snel scheefgroei als je niet bewust kiest",
+  "Zulke kleine momenten krijgen later grote betekenis in hoe veilig een relatie voelt"
 ];
 
 const emotionalSignals = [
@@ -97,6 +97,10 @@ const globalDecoys = [
   "Doorpakken zonder steeds weer te checken hoe het voor haar voelt.",
   "Er vooral een mooi plaatje van maken en de onderlaag later uitzoeken."
 ];
+
+function sentenceCase(text) {
+  return text.charAt(0).toUpperCase() + text.slice(1);
+}
 
 const familyConfigs = [
   {
@@ -1045,10 +1049,6 @@ function rotate(list, index) {
   return list[index % list.length];
 }
 
-function sentenceCase(text) {
-  return text.charAt(0).toUpperCase() + text.slice(1);
-}
-
 function uniqueOptions(correct, familyPitfalls, seed) {
   const candidates = [...familyPitfalls, ...globalDecoys];
   const options = [correct];
@@ -1081,7 +1081,7 @@ function makeMultipleChoice(config, familyIndex, localIndex) {
   const context = config.contexts[row];
   const concern = config.concerns[col];
   const correct = rotate(config.ideals, row + col);
-  const stake = sentenceCase(rotate(stakes, familyIndex + row + col));
+  const stake = rotate(stakes, familyIndex + row + col);
   const signal = sentenceCase(rotate(emotionalSignals, familyIndex * 2 + row + col));
   const scenario = rotate(mcTemplates, familyIndex * questionsPerFamily + localIndex)({
     index,

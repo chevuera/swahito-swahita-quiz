@@ -5,7 +5,9 @@ const state = {
   currentIndex: 0,
   score: 0,
   answers: [],
-  correctStreak: 0
+  correctStreak: 0,
+  scoredTotal: 0,
+  reflectionTotal: 0
 };
 
 const screens = {
@@ -48,6 +50,7 @@ let musicEnabled = false;
 let audioConnected = false;
 let stepIndex = 0;
 const QUIZ_LENGTH = 20;
+const OPEN_QUESTION_COUNT = 4;
 
 const musicPattern = [
   { bass: 110.00, lead: 329.63, chord: [220.00, 261.63, 329.63] },
@@ -78,6 +81,11 @@ function shuffleItems(items, random = Math.random) {
   return pool;
 }
 
+function updateScorePill() {
+  const total = state.scoredTotal || 0;
+  scorePill.textContent = total > 0 ? `${state.score}/${total} goed` : `${state.score} goed`;
+}
+
 function pickQuizQuestions() {
   const byFamily = new Map();
 
@@ -88,9 +96,20 @@ function pickQuizQuestions() {
     byFamily.get(question.family).push(question);
   });
 
-  const chosen = [...byFamily.values()].map((familyQuestions) => {
-    const options = shuffleItems(familyQuestions);
-    return options[0];
+  const familyPools = shuffleItems([...byFamily.values()]);
+  const chosen = familyPools.map((familyQuestions, familyIndex) => {
+    const openQuestions = familyQuestions.filter((question) => question.type === "open");
+    const multipleChoiceQuestions = familyQuestions.filter((question) => question.type !== "open");
+
+    if (familyIndex < OPEN_QUESTION_COUNT && openQuestions.length > 0) {
+      return shuffleItems(openQuestions)[0];
+    }
+
+    if (multipleChoiceQuestions.length > 0) {
+      return shuffleItems(multipleChoiceQuestions)[0];
+    }
+
+    return shuffleItems(familyQuestions)[0];
   });
 
   return shuffleItems(chosen).slice(0, QUIZ_LENGTH);
@@ -110,6 +129,8 @@ function startQuiz() {
   state.score = 0;
   state.answers = [];
   state.correctStreak = 0;
+  state.scoredTotal = state.questions.filter((question) => question.type !== "open").length;
+  state.reflectionTotal = state.questions.length - state.scoredTotal;
   showScreen("quiz");
   renderQuestion();
 }
@@ -238,7 +259,7 @@ function renderQuestion() {
 
   questionCounter.textContent = `vraag ${position} van ${state.questions.length}`;
   questionTitle.textContent = question.title;
-  scorePill.textContent = `${state.score} goed`;
+  updateScorePill();
   progressBar.style.width = `${((position - 1) / state.questions.length) * 100}%`;
   scenarioText.textContent = question.scenario;
   optionsList.innerHTML = "";
@@ -248,7 +269,7 @@ function renderQuestion() {
   nextButton.textContent = position === state.questions.length ? "Uitslag" : "Volgende";
 
   if (question.type === "open") {
-    answerHelp.textContent = "Typ je antwoord in het vak en tik daarna op Volgende.";
+    answerHelp.textContent = "Typ je antwoord in. Deze reflectievraag telt niet mee in de score.";
     openAnswer.hidden = false;
     openAnswer.value = "";
     openAnswer.focus({ preventScroll: true });
@@ -296,6 +317,7 @@ function chooseOption(index) {
 
   state.answers[state.currentIndex] = {
     title: question.title,
+    kind: "multiple-choice",
     correct,
     note: question.note
   };
@@ -305,7 +327,7 @@ function chooseOption(index) {
     ? `<strong>Correct.</strong> De liefdesstaat blijft bestuurbaar, net aan. ${question.note}`
     : `<strong>Bijna.</strong> De officiele richting: ${question.options[question.answer]} ${question.note}`;
 
-  scorePill.textContent = `${state.score} goed`;
+  updateScorePill();
   nextButton.disabled = false;
 }
 
@@ -313,11 +335,11 @@ function handleOpenAnswer() {
   const question = state.questions[state.currentIndex];
   const answer = openAnswer.value.trim();
 
-  state.score += 1;
   state.correctStreak = 0;
   state.answers[state.currentIndex] = {
     title: question.title,
-    correct: true,
+    kind: "open",
+    correct: null,
     note: `${question.note} Voorbeeldrichting: ${question.sample}. Haar antwoord: ${answer}`
   };
 }
@@ -332,6 +354,7 @@ function goNext() {
   if (!state.answers[state.currentIndex]) {
     state.answers[state.currentIndex] = {
       title: question.title,
+      kind: question.type === "open" ? "open" : "multiple-choice",
       correct: false,
       note: question.note
     };
@@ -351,6 +374,7 @@ function skipQuestion() {
   state.correctStreak = 0;
   state.answers[state.currentIndex] = {
     title: question.title,
+    kind: question.type === "open" ? "open" : "multiple-choice",
     correct: false,
     note: `Overgeslagen. ${question.note}`
   };
@@ -362,18 +386,22 @@ function showResults() {
   progressBar.style.width = "100%";
   showScreen("result");
 
-  resultTitle.textContent = state.score >= 8
+  const scoredTotal = Math.max(state.scoredTotal, 1);
+  const ratio = state.score / scoredTotal;
+  const answeredOpen = state.answers.filter((answer) => answer.kind === "open" && !String(answer.note).startsWith("Overgeslagen.")).length;
+
+  resultTitle.textContent = ratio >= 0.85
     ? "Staatsgevaarlijk goed"
-    : state.score >= 5
+    : ratio >= 0.65
       ? "Romantisch verdacht"
       : "Charmante chaos";
 
-  resultScore.textContent = `${state.score} van ${state.questions.length} volgens de officiele liefdescommissie`;
-  resultCopy.textContent = state.score >= 8
-    ? "Swahita heeft de quiz overleefd met intellectuele elegantie en vermoedelijk te veel charisma voor een reguliere vergunning."
-    : state.score >= 5
-      ? "De liefde is bestuurlijk instabiel, maar inhoudelijk kansrijk. Aanbevolen interventie: lachen, zoenen, eventueel snacks."
-      : "De uitslag is onduidelijk, maar dat geldt ook voor quantumfysica en daar doen mensen ook moeilijk interessant over.";
+  resultScore.textContent = `${state.score} van ${state.scoredTotal} meerkeuzevragen goed, plus ${answeredOpen} van ${state.reflectionTotal} open reflectievragen ingevuld`;
+  resultCopy.textContent = ratio >= 0.85
+    ? "Swahita heeft de quiz overleefd met scherpe keuzes, goede antennes en verdacht veel relationele competentie."
+    : ratio >= 0.65
+      ? "De basis staat, maar sommige keuzes kunnen nog helderder, eerlijker of zachter. Inhoudelijk kansrijk dus."
+      : "De quiz zegt vooral: hier zit nog groeiruimte. Niet rampzalig, wel een uitnodiging om beter te luisteren en preciezer te kiezen.";
 
   answerKey.innerHTML = "";
   state.answers.forEach((answer, index) => {
